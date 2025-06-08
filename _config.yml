@@ -1,0 +1,10 @@
+title: Aerlavynah
+description: "Dreamy's Dreams"
+baseurl: ""
+url: "https://ratanahaerlavynah.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
