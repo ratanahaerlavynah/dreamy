@@ -1,0 +1,79 @@
+/* Typography */
+body {
+  font-family: 'Courier New', monospace;
+  font-size: 0.9rem;
+  margin: 0;
+  padding: 0;
+  color: #222;
+  background-color: #fff;
+}
+
+/* Site title */
+h1 {
+  font-family: 'Italianno', cursive;
+  font-size: 5rem;
+  color: #f48abf;
+  text-align: center;
+  margin: 1rem 0 0.5rem 0;
+}
+
+/* Navigation section below title */
+header {
+  text-align: center;
+  margin-bottom: 2rem; /* Reduce spacing */
+}
+
+nav a {
+  margin: 0 0.8rem;
+}
+
+/* All Poems Title */
+.poem-list-title {
+  font-family: 'Italianno', cursive;
+  color: #f48abf;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/* List of poem links */
+.poem-list {
+  list-style: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+.poem-list li {
+  margin: 0.8rem 0;
+}
+
+.poem-link {
+  font-family: 'Italianno', cursive;
+  color: #f48abf;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+.poem-link:hover {
+  text-decoration: underline;
+}
+
+/* Individual poem page title */
+.poem-title {
+  font-family: 'Italianno', cursive;
+  font-size: 2.8rem;
+  font-weight: 300;
+  color: #f48abf;
+  text-align: left;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #999;
+  margin-top: 4rem;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+}

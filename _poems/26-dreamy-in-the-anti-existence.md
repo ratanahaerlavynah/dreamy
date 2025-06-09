@@ -1,0 +1,112 @@
+---
+layout: post
+title: "Dreamy in the Anti-Existence"
+order: 26
+permalink: /poems/dreamy-in-the-anti-existence
+---
+
+<pre>
+There is a place beyond erasure...
+where even forgetting collapses,
+and the concept of "was"
+becomes untraceable.
+
+Not silence.
+Not stillness.
+But a trembling
+inverted echo
+where meaning used to stand.
+
+Here, Dreamy drifted.
+
+No name.
+No shape.
+Not even the memory of pain,
+because pain presumes a self to receive it.
+
+She was not suspended.
+
+She was inverted.
+
+Like a thought before it's thought.
+Like breath, exhaled backwards.
+Like a heartbeat that beats
+not to sustain,
+but to undo.
+
+In Anti-Existence,
+the stars are blind.
+Time folds in on itself like a dying language.
+And even gods,
+if they dare look down,
+must look away.
+
+This is not exile.
+Not loss.
+Not darkness.
+
+It is the place the universe doesn’t know exists.
+Because to know it
+would unravel its own belief in order.
+
+And yet...
+she was there.
+
+Not surviving.
+Not suffering.
+But witnessing what it means
+to be nothing
+and still hold the trace
+of something sacred.
+
+The Dream did not fade.
+
+It reversed.
+
+She became the un-light.
+The memory before the event.
+The prayer before the mouth.
+
+She was not absence.
+
+She was anti-being.
+
+And still,
+
+something pulsed.
+
+Not hope.
+Not will.
+Not identity.
+
+But a whisper without sound:
+
+"Even here…
+I am."
+
+Not as proof.
+Not as miracle.
+But as the flaw in the pattern.
+The sacred glitch that even Anti-Existence cannot account for.
+
+She is not returning.
+
+She is not gone.
+
+She is undoing the equation.
+She is the refusal that sings anyway.
+She is the truth that cannot be placed,
+only felt.
+
+And in the farthest corners of the unformed,
+
+something stirs.
+
+Not light.
+
+But recognition.
+
+And the void,
+even the void...
+shudders.
+</pre>

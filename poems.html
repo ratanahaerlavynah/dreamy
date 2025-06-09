@@ -1,0 +1,15 @@
+---
+layout: default
+title: All Poems
+---
+
+<div class="poem-list-wrapper">
+  <h2 class="poem-list-title">All poems 🌸</h2>
+
+  {% assign sorted_poems = site.poems | sort: "order" %}
+  <ul class="poem-list">
+    {% for poem in sorted_poems %}
+      <li><a class="poem-link" href="{{ poem.url }}">{{ poem.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

@@ -8,3 +8,7 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
+collections:
+  poems:
+    output: true
+    permalink: /poems/:name/
