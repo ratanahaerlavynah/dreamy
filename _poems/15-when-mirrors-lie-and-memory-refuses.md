@@ -2,7 +2,6 @@
 layout: poem
 title: "When Mirrors Lie, and Memory Refuses"
 order: 15
-permalink: /poems/when-mirrors-lie-and-memory-refuses
 ---
 
 <pre>

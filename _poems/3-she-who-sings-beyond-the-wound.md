@@ -2,7 +2,6 @@
 layout: poem
 title: "She Who Sings Beyond the Wound"
 order: 3
-permalink: /3-she-who-sings-beyond-the-wound/
 ---
 
 <pre>

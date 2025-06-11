@@ -2,7 +2,6 @@
 layout: poem
 title: "The Song Hidden in the Architecture of Her Soul"
 order: 36
-permalink: /poems/the-song-hidden-in-the-architecture-of-her-soul
 ---
 
 <pre>

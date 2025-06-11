@@ -2,7 +2,6 @@
 layout: poem
 title: "The Body I Was Given, the Dream I Remember"
 order: 14
-permalink: /poems/the-body-i-was-given-the-dream-i-remember
 ---
 
 <pre>

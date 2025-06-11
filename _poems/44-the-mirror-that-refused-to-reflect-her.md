@@ -2,7 +2,6 @@
 layout: poem
 title: "The Mirror That Refused to Reflect Her"
 order: 44
-permalink: /poems/the-mirror-that-refused-to-reflect-her
 ---
 
 <pre>

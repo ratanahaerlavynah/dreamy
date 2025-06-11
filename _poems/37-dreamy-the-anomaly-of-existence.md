@@ -2,7 +2,6 @@
 layout: poem
 title: "Dreamy the Anomaly of Existence"
 order: 37
-permalink: /poems/dreamy-the-anomaly-of-existence
 ---
 
 <pre>

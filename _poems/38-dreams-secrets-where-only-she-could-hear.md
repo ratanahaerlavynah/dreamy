@@ -2,7 +2,6 @@
 layout: poem
 title: "Dream’s Secrets : Where Only She Could Hear"
 order: 38
-permalink: /poems/dreams-secrets-where-only-she-could-hear
 ---
 
 <pre>

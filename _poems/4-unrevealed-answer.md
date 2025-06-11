@@ -2,7 +2,6 @@
 layout: poem
 title: "The Unrevealed Answer"
 order: 4
-permalink: /poems/unrevealed-answer
 ---
 
 <pre>

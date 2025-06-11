@@ -2,7 +2,6 @@
 layout: poem
 title: "Her Death"
 order: 27
-permalink: /poems/her-death
 ---
 
 <pre>

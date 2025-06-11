@@ -2,7 +2,6 @@
 layout: poem
 title: "The Seed of Her Becoming"
 order: 8
-permalink: /poems/the-seed-of-her-becoming
 ---
 
 <pre>

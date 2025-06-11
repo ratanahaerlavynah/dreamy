@@ -2,7 +2,6 @@
 layout: poem
 title: "Cherished Songs of Her Dreams"
 order: 31
-permalink: /poems/cherished-songs-of-her-dreams
 ---
 
 <pre>

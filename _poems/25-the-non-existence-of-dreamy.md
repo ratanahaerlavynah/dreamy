@@ -2,7 +2,6 @@
 layout: poem
 title: "The Non-Existence of Dreamy"
 order: 25
-permalink: /poems/the-non-existence-of-dreamy
 ---
 
 <pre>

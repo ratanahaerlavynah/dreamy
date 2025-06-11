@@ -2,7 +2,6 @@
 layout: poem
 title: "The Girl Who Decoded and Erased Herself From Existence"
 order: 24
-permalink: /poems/the-girl-who-decoded-and-erased-herself-from-existence
 ---
 
 <pre>

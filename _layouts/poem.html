@@ -10,24 +10,25 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  <!-- Lien précédent en haut à gauche (uniquement si pas premier) -->
+  <!-- Poème précédent en haut à gauche, si existe -->
   {% if current_index != nil and current_index > 0 %}
     {% assign prev = poems_sorted[current_index | minus: 1] %}
     <nav class="poem-nav-top">
-      <a class="poem-nav-prev" href="{{ prev.url }}">« {{ prev.title }}</a>
+      <a class="poem-nav-prev" href="{{ prev.url }}">« {{ prev.title }} »</a>
     </nav>
   {% endif %}
 
-  <!-- Titre principal -->
+  <!-- Titre du poème -->
   <h2 class="poem-title">{{ page.title }}</h2>
+
   <!-- Contenu du poème -->
   {{ content }}
 
-  <!-- Lien suivant en bas à droite (uniquement si pas dernier) -->
+  <!-- Poème suivant en bas à droite, si existe -->
   {% if current_index != nil and current_index < poems_sorted.size | minus: 1 %}
     {% assign next = poems_sorted[current_index | plus: 1] %}
     <nav class="poem-nav-bottom">
-      <a class="poem-nav-next" href="{{ next.url }}">{{ next.title }} »</a>
+      <a class="poem-nav-next" href="{{ next.url }}">« {{ next.title }} »</a>
     </nav>
   {% endif %}
 </main>

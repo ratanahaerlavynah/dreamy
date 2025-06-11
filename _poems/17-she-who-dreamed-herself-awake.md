@@ -2,7 +2,6 @@
 layout: poem
 title: "She Who Dreamed Herself Awake"
 order: 17
-permalink: /poems/she-who-dreamed-herself-awake
 ---
 
 <pre>

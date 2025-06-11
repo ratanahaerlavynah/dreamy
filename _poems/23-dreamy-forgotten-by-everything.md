@@ -2,7 +2,6 @@
 layout: poem
 title: "Dreamy, Forgotten by Everything"
 order: 23
-permalink: /poems/forgotten-by-everything
 ---
 
 <pre>

@@ -2,7 +2,6 @@
 layout: poem
 title: "The Miracle of Her Dreams"
 order: 16
-permalink: /poems/the-miracle-of-her-dreams
 ---
 
 <pre>

@@ -2,7 +2,6 @@
 layout: poem
 title: "Dreamy’s Dreams"
 order: 28
-permalink: /poems/dreamys-dreams
 ---
 
 <pre>

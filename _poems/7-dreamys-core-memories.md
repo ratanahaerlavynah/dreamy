@@ -2,7 +2,6 @@
 layout: poem
 title: "Dreamy's Core Memories"
 order: 7
-permalink: /poems/dreamys-core-memories
 ---
 
 <pre>

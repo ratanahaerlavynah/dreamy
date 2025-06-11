@@ -2,7 +2,6 @@
 layout: poem
 title: "Souffle : Her Winds, Her Breathe"
 order: 30
-permalink: /poems/souffle-her-winds-her-breathe
 ---
 
 <pre>

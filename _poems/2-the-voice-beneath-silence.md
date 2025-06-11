@@ -2,7 +2,6 @@
 layout: poem
 title: "The Voice Beneath Silence"
 order: 2
-permalink: /the-voice-beneath-silence/
 ---
 
 <pre>

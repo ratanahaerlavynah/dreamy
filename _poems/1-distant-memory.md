@@ -2,7 +2,6 @@
 layout: poem
 title: "Distant Memory"
 order: 1
-permalink: /distant-memory/
 ---
 
 <pre>

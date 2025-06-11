@@ -2,7 +2,6 @@
 layout: poem
 title: "Her Flow"
 order: 5
-permalink: /poems/her-flow
 ---
 
 <pre>

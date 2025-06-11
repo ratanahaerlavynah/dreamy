@@ -2,7 +2,6 @@
 layout: poem
 title: "The Memory Beneath the Current"
 order: 6
-permalink: /poems/the-memory-beneath-the-current
 ---
 
 <pre>

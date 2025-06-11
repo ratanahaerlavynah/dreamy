@@ -2,7 +2,6 @@
 layout: poem
 title: "The Clocks in Her Heart"
 order: 22
-permalink: /poems/the-clocks-in-her-heart
 ---
 
 <pre>

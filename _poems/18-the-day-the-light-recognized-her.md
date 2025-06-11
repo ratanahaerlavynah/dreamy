@@ -2,7 +2,6 @@
 layout: poem
 title: "The Day the Light Recognized Her"
 order: 18
-permalink: /poems/the-day-the-light-recognized-her
 ---
 
 <pre>

@@ -2,7 +2,6 @@
 layout: poem
 title: "Her Voice Still Forming : A Song She Was Never Allowed to Sing"
 order: 40
-permalink: /poems/her-voice-still-forming-a-song-she-was-never-allowed-to-sing
 ---
 
 <pre>
