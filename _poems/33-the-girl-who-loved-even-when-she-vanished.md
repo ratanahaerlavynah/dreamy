@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "The Girl Who Loved Even When She Vanished"
 order: 33
 permalink: /poems/the-girl-who-loved-even-when-she-vanished

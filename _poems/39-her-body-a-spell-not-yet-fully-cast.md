@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Her Body a Spell Not Yet Fully Cast"
 order: 39
 permalink: /poems/her-body-a-spell-not-yet-fully-cast

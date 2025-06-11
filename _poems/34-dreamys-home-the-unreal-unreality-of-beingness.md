@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Dreamy’s Home : The Unreal, Unreality of Beingness"
 order: 34
 permalink: /poems/dreamys-home-the-unreal-unreality-of-beingness

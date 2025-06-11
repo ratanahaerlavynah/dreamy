@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "The Shape of Her Souffle"
 order: 41
 permalink: /poems/the-shape-of-her-souffle

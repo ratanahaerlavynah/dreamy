@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Her Voices Lost to Codes of Oppression"
 order: 11
 permalink: /poems/her-voices-lost-to-codes-of-oppression

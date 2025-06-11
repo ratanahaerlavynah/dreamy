@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Dreamy’s Future"
 order: 13
 permalink: /poems/dreamys-future

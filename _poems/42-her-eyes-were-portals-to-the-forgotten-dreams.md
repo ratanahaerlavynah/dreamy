@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Her Eyes Were Portals to the Forgotten Dreams"
 order: 42
 permalink: /poems/her-eyes-were-portals-to-the-forgotten-dreams

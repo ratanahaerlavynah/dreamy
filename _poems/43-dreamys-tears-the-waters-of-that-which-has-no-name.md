@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Dreamy’s Tears, the Waters of That-Which-Has-No-Name"
 order: 43
 permalink: /poems/dreamys-tears-the-waters-of-that-which-has-no-name

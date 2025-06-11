@@ -8,15 +8,6 @@ body {
   background-color: #fff;
 }
 
-/* Site title */
-h1 {
-  font-family: 'Italianno', cursive;
-  font-size: 5rem;
-  color: #f48abf;
-  text-align: center;
-  margin: 1rem 0 0.5rem 0;
-}
-
 /* Navigation section below title */
 header {
   text-align: center;
@@ -76,4 +67,27 @@ footer {
   margin-top: 4rem;
   border-top: 1px solid #ddd;
   padding-top: 1rem;
+}
+/* === banner only === */
+#site-title {
+  font-family: 'Italianno', cursive;
+  font-size: 5rem;
+  color: #f48abf;
+  text-align: center;
+  margin: 1rem 0 0.5rem 0;
+}
+
+/* === every poem’s main heading === */
+article.post-h-entry h1.post-title {
+  font-family: 'Italianno', cursive;
+  font-size: 2.8rem;
+  font-weight: 300;
+  color: #f48abf;
+  text-align: left;
+  margin: 2rem 0 1rem 2rem;   /* left indent */
+}
+
+/* override the poem header wrapper that previously centred text */
+article.post-h-entry header {
+  text-align: left !important;
 }

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Dreamy in the Anti-Existence"
 order: 26
 permalink: /poems/dreamy-in-the-anti-existence

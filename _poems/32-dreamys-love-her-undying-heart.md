@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Dreamy's Love, Her Undying Heart"
 order: 32
 permalink: /poems/dreamys-love-her-undying-heart

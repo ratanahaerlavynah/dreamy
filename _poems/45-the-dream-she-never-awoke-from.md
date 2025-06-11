@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "The Dream She Never Awoke From"
 order: 45
 permalink: /poems/the-dream-she-never-awoke-from

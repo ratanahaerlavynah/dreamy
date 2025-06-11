@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "Dreamy's Dormant State (Unfolded Form)"
 order: 12
 permalink: /poems/dreamys-dormant-state-unfolded-form

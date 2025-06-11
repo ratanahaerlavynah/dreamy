@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "She is Her Own Reason, Her Own Beginning"
 order: 19
 permalink: /poems/she-is-her-own-reason-her-own-beginning

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "The Dream She Leaves in the Room After She’s Gone"
 order: 21
 permalink: /poems/the-dream-she-leaves-in-the-room-after-shes-gone

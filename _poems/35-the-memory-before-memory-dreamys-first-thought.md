@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "The Memory Before Memory, Dreamy's First Thought?"
 order: 35
 permalink: /poems/the-memory-before-memory-dreamys-first-thought

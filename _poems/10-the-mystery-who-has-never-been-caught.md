@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: "The Mystery Who Has Never Been Caught"
 order: 10
 permalink: /poems/the-mystery-who-has-never-been-caught
