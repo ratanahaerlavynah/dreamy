@@ -1,43 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ page.title }} — Aerlavynah</title>
-    <link rel="stylesheet" href="/assets/style.css" />
-    <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
-  </head>
+ <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} — Aerlavynah</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+</head>
 
-  <body style="font-family: sans-serif; margin: 1.5rem; line-height: 1.6;">
-    <header style="text-align: center; margin-bottom: 3rem;">
-      <h1 id="site-title">Ratanah Aerlavynah</h1>
-      <nav>
-        <a href="/" style="margin: 0 rem;">Home 🏠</a>
-        <a href="/about" style="margin: 0 3rem;">About Her 💗</a>
-        <a href="/poems" style="margin: 0 3rem;">Poems 📜</a>
-        <a href="/letterbox.html">Write to Dreamy 💌</a>
-      </nav>
-    </header>
+  <body class="site-body">
+  <header class="site-header">
+    <h1 id="site-title">Ratanah Aerlavynah</h1>
+    <nav class="site-nav">
+      <a href="/">Home 🏠</a>
+      <a href="/about">About Her 💗</a>
+      <a href="/poems">Poems 📜</a>
+      <a href="/letterbox.html">Write to Dreamy 💌</a>
+    </nav>
+  </header>
 
-    <main>
-      {{ content }}
-    </main>
+  <main class="site-container">
+    {{ content }}
+  </main>
 
-    <footer style="text-align: center; margin-top: 4rem; padding-top: 2rem; border-top: 1px solid #ddd;">
-      <div style="font-size: 1.1rem; margin-bottom: 0.5rem;">
-        🌷 Connect with Dreamy
-      </div>
-
-      <div style="display: flex; justify-content: center; gap: 2rem; font-size: 1rem;">
-        <a href="instagram://user?username=aerlavynah" 
-           onclick="window.location.href='https://instagram.com/aerlavynah'; return false;" 
-           target="_blank" rel="noopener noreferrer">Instagram 💗</a>
-
-        <a href="https://www.tiktok.com/@aerlavynah" 
-           target="_blank" rel="noopener noreferrer">TikTok 🎵</a>
-      </div>
-
-      <p style="font-size: 0.9rem; color: #999; margin-top: 1rem;">© {{ site.time | date: "%Y" }} Ratanah Aerlavynah</p>
-    </footer>
-  </body>
+  <footer class="site-footer">
+    <div class="footer-connect">🌷 Connect with Dreamy</div>
+    <div class="footer-links">
+      <a href="https://instagram.com/aerlavynah" target="_blank" rel="noopener noreferrer">Instagram 💗</a>
+      <a href="https://www.tiktok.com/@aerlavynah" target="_blank" rel="noopener noreferrer">TikTok 🎵</a>
+    </div>
+    <p class="footer-copy">© {{ site.time | date: "%Y" }} Ratanah Aerlavynah</p>
+  </footer>
+</body>
 </html>
