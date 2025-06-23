@@ -30,7 +30,7 @@ that still knew her true name.
 She carried that name silently,
 not in her mouth (which spoke the language of survival),
 but in the tilt of her dreams,
-in the ache between syllables when others misgendered her soul.
+in the ache between syllables when others mistaken her soul.
 
 There were nights she walked in sleep, not across landscapes,
 but through memories that had not happened yet:
