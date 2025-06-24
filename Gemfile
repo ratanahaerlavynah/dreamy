@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll",  "~> 4.2.2"   # stable Jekyll
+# Use GitHub Pages' official environment (includes Jekyll, Liquid, etc.)
+gem "github-pages", group: :jekyll_plugins
 
-gem "liquid",  "~> 4.0.4"   # pin Liquid 4.x (avoids the bug)
-
-gem "minima",  "~> 2.5"     # your theme
-
-gem "webrick", "~> 1.8"     # Ruby 3 needs this
+# Required for Ruby 3+ to run the Jekyll server
+gem "webrick", "~> 1.8"

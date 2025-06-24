@@ -91,7 +91,7 @@ Just a girl in an infinite absence,
 dreaming herself
 back into place.
 
-And when she walked out of that nothingness —
+And when she walked out of that nothingness...
 not into light,
 but into being...
 the world didn’t gasp.
