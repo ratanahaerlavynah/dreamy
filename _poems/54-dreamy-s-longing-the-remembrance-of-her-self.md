@@ -18,7 +18,8 @@ the feeling of being called home before I had ever left.
 
 There was a mirror once, 
 but it didn’t show my reflection. 
-It showed a girl I had been before they called me by names that were never mine. Her eyes didn’t seek approval. 
+It showed a girl I had been before they called me by names that were never mine. 
+er eyes didn’t seek approval. 
 They carried storm-tides of memory that had never belonged to Earth.
 
 I touched my own wrist and felt a pulse :

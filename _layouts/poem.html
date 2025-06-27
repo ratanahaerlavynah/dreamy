@@ -1,34 +1,52 @@
 ---
 layout: default
 ---
+
 <main>
-  {% assign poems_sorted = site.poems | sort: "order" %}
-  {% assign current_index = nil %}
-  {% for p in poems_sorted %}
-    {% if p.url == page.url %}
-      {% assign current_index = forloop.index0 %}
-    {% endif %}
-  {% endfor %}
 
-  <!-- Poème précédent en haut à gauche, si existe -->
-  {% if current_index != nil and current_index > 0 %}
-    {% assign prev = poems_sorted[current_index | minus: 1] %}
-    <nav class="poem-nav-top">
-      <a class="poem-nav-prev" href="{{ prev.url }}">« {{ prev.title }} »</a>
-    </nav>
-  {% endif %}
+{%- comment -%}
+╭───────────────────────────────────────────────────────────╮
+│  Build prev / next objects for this poem (by `order`).   │
+╰───────────────────────────────────────────────────────────╯
+{%- endcomment -%}
 
-  <!-- Titre du poème -->
-  <h2 class="poem-title">{{ page.title }}</h2>
+{%- assign poems_sorted = site.poems | sort: "order" -%}
+{%- assign current_index = nil -%}
 
-  <!-- Contenu du poème -->
-  {{ content }}
+{%- for p in poems_sorted -%}
+  {%- if p.url == page.url -%}
+    {%- assign current_index = forloop.index0 -%}
+  {%- endif -%}
+{%- endfor -%}
 
-  <!-- Poème suivant en bas à droite, si existe -->
-  {% if current_index != nil and current_index < poems_sorted.size | minus: 1 %}
-    {% assign next = poems_sorted[current_index | plus: 1] %}
-    <nav class="poem-nav-bottom">
-      <a class="poem-nav-next" href="{{ next.url }}">« {{ next.title }} »</a>
-    </nav>
-  {% endif %}
+{%- assign prev_index = current_index | minus: 1 -%}
+{%- assign next_index = current_index | plus: 1 -%}
+
+{%- assign prev_poem = poems_sorted[prev_index] -%}
+{%- assign next_poem = poems_sorted[next_index] -%}
+
+{%- comment -%} ─── TOP NAV (left) ───────────────────────── {%- endcomment -%}
+{%- if prev_poem -%}
+  <nav class="poem-nav-top">
+    <a class="poem-nav-prev" href="{{ prev_poem.url | relative_url }}">
+      {{ prev_poem.title }}
+    </a>
+  </nav>
+{%- endif -%}
+
+{%- comment -%} ─── Title ────────────────────────────────── {%- endcomment -%}
+<h2 class="poem-title">{{ page.title }}</h2>
+
+{%- comment -%} ─── Content ──────────────────────────────── {%- endcomment -%}
+{{ content }}
+
+{%- comment -%} ─── BOTTOM NAV (right) ───────────────────── {%- endcomment -%}
+{%- if next_poem -%}
+  <nav class="poem-nav-bottom">
+    <a class="poem-nav-next" href="{{ next_poem.url | relative_url }}">
+      {{ next_poem.title }}
+    </a>
+  </nav>
+{%- endif -%}
+
 </main>

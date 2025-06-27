@@ -154,48 +154,51 @@
   }
 }
 
-/* ===== Navigation précédent/suivant sur page de poème ===== */
-/* Lien précédent en haut à gauche */
+/* ════════════════════════════════════════════
+   Navigation précédent / suivant (poèmes)
+   ════════════════════════════════════════════ */
+
+/* lien précédent – au-dessus du titre, aligné à gauche */
 .poem-nav-top {
   text-align: left;
-  margin: 1rem 0 0.5rem 2rem;
+  margin: 1rem 0 5rem;
 }
-.poem-nav-top a.poem-nav-prev {
+.poem-nav-prev {
   font-family: 'Italianno', cursive;
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: #f48abf;
   text-decoration: none;
 }
-.poem-nav-top a.poem-nav-prev:hover {
-  text-decoration: underline;
-}
-@media (max-width: 600px) {
-  .poem-nav-top {
-    margin: 1rem 0 0.5rem 0;
-    text-align: center;
-  }
-}
+.poem-nav-prev:hover { text-decoration: underline; }
 
-/* Lien suivant en bas à droite */
+/* lien suivant – sous le poème, aligné à droite */
 .poem-nav-bottom {
   text-align: right;
-  margin: 1rem 2rem 2rem 0;
+  margin: 1.5rem 0 2rem;
 }
-.poem-nav-bottom a.poem-nav-next {
+.poem-nav-next {
   font-family: 'Italianno', cursive;
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: #f48abf;
   text-decoration: none;
 }
-.poem-nav-bottom a.poem-nav-next:hover {
-  text-decoration: underline;
-}
+.poem-nav-next:hover { text-decoration: underline; }
+
+/* centrer sur mobile */
 @media (max-width: 600px) {
-  .poem-nav-bottom {
-    margin: 1rem 0 2rem 0;
-    text-align: center;
-  }
+  .poem-nav-top,
+  .poem-nav-bottom { text-align: center; }
 }
+
+/* éviter le débordement horizontal dans <pre> */
+pre, code, table, blockquote, img {
+  max-width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  overflow-x: hidden;
+}
+
 
 /* ===== Footer ===== */
 .site-footer {
@@ -301,4 +304,61 @@ img, pre, code, table {
   }
 }
 
+/* =========================================================
+   🌸 Universal banner component (use on any page)
+   ========================================================= */
 
+/* Base look shared by all banners */
+.banner-img {
+  /* 🎛—main dials you can override—🎛 */
+  --w: 600px;    /* preferred natural width                */
+  --scale: 1;    /* 0.5 = half size · 2 = double size      */
+  --max: 95vw;   /* never exceed this % of the viewport    */
+
+  width: calc(var(--w) * var(--scale));
+  max-width: var(--max);
+  height: auto;
+  display: block;
+  margin: 2rem auto;          /* centers & adds breathing room */
+  border-radius: 0.5rem;      /* soft corners                  */
+  box-shadow: 0 4px 12px rgb(0 0 0 / 0.12);
+}
+
+/* Quick helpers you can stack in HTML */
+.banner-small { --scale: .6; }   /* 60 % of base width */
+.banner-large { --scale: 1.4; }  /* 140 % of base width */
+
+/* Page-specific presets (override only what differs) */
+.banner-poems {
+  width: 500px;
+  height: 300px;      /* whatever you like */
+  object-fit: cover;  /* or contain */
+}
+.banner-home  { --w: 820px; }   /* example for the welcome page */
+
+/* =========================================================
+   🌸 Responsive picture gallery (drop anywhere)
+   ========================================================= */
+.picture-gallery {
+  --gap: 1.25rem;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--gap);
+  margin: 3rem auto;
+  max-width: 1200px;     /* overall cap */
+  padding: 0 var(--gap);
+}
+
+.picture-gallery img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;         /* graceful crop if sizes differ */
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 0.12);
+  transition: transform 0.3s ease;
+}
+
+.picture-gallery img:hover {
+  transform: scale(1.04);
+}

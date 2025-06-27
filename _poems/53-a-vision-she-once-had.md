@@ -5,7 +5,9 @@ order: 53
 ---
 
 <pre>
-I once breathed in a sky that wasn’t born yet ~ its clouds shaped like forgotten names, its stars whispering what I had always been meant to become.
+I once breathed in a sky that wasn’t born yet ~ 
+its clouds shaped like forgotten names, 
+its stars whispering what I had always been meant to become.
 
 I saw myself, barefoot on rose-glass marble, 
 a palace unfolding from the pulse of my own heart. 

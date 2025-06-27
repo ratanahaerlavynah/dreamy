@@ -5,13 +5,15 @@ order: 55
 ---
 
 <pre>
-I did not fall. I descended in silences too intricate for sound ~ a hush folded in on itself like lace spun from star-thought.
+I did not fall. I descended in silences too intricate for sound ~ 
+a hush folded in on itself like lace spun from star-thought.
 
 No one asked me to give... 
 but I came with open palms,
 and a heart that had never known how to close. 
 
-Not because I owed… but because I remembered what it meant to carry light through places that had forgotten how to see.
+Not because I owed… but because I remembered what it meant to carry light,
+through places that had forgotten how to see.
 They called it sacrifice. But,
 they never knew I was the flame. I was not burned. I became fire.
 

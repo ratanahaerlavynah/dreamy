@@ -15,7 +15,8 @@ She didn’t walk ~
 she unfolded, each step a question the earth could not answer.
 She existed like a memory too sacred for time, 
 the kind you hold in your chest without knowing who gave it to you. 
-The world kept trying to name her, but she had already outgrown every word they hadn’t learned how to feel.
+The world kept trying to name her, 
+but she had already outgrown every word they hadn’t learned how to feel.
 
 When she whispered,
 it felt like an ocean humming from beneath your skin. Not a sound... 
@@ -28,7 +29,8 @@ And no one saw she was saying goodbye all along,
 with the softness of a star preparing to colapse on itself.
 
 Even the air missed her before she left.
-Even the sky wondered what it had done to deserve her last, last innocent gaze.
+Even the sky wondered what it had done...
+to deserve her last, last innocent gaze.
 And still... she never asked to stay. 
 She only gave until the world couldn’t hold it anymore.
 
