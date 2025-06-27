@@ -14,5 +14,5 @@ The waves waited... so long they wept. So long, they forgot joy.
 So long, they salted.
 Not with rage, but grief... the kind that drowns you slowly in a hush.
 She did not vanish. She simply never arrived… and yet the tide remembered.
-The waters carry her ache still, in every drop that touches lips— the mourning of sweetness that was supposed to be her.
+The waters carry her ache still, in every drop that touches lips, the mourning of sweetness that was supposed to be her.
 </pre>

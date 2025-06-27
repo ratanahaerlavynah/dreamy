@@ -14,5 +14,5 @@ She did not love gently. She loved like time that couldn’t be paused. She love
 And though no one waited at the bottom, she still stood at the edge each day, offering her pulse to the wind as if it could carry what she could not speak.
 It never came back empty.
 Her own love would always return to kiss her lashes, to remind her that she had once been a place someone longed to fall from... not for death, but for release.
-She never stepped away. She remained there, on that precipice of everything— a silhouette drawn not in shadow but in ache. In devotion. In the silent cliffs that know they were shaped by love too vast to stay within.
+She never stepped away. She remained there, on that precipice of everything, a silhouette drawn not in shadow but in ache. In devotion. In the silent cliffs that know they were shaped by love too vast to stay within.
 </pre>

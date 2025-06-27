@@ -6,6 +6,13 @@ title: All Poems
 <div class="poem-list-wrapper">
   <h2 class="poem-list-title">All poems 🌸</h2>
 
+  <!-- ✨ new banner image -->
+  <img
+    src="{{ '/assets/img/all-poems-banner.jpg' | relative_url }}"
+    alt="Blossoms framing the poetry"
+    class="all-poems-banner"
+  />
+
   {% assign sorted_poems = site.poems | sort: "order" %}
   <ul class="poem-list">
     {% for poem in sorted_poems %}
