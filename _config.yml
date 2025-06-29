@@ -30,4 +30,4 @@ collections:
     permalink: /poems/:name/
     
 include:
-  - poems-data.js
+- poems-data.js
