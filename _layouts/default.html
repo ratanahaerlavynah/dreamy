@@ -6,8 +6,41 @@
     <title>{{ page.title }} — Aerlavynah</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
     <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
-  </head>
 
+    {% seo %}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ratanah Aerlavynah",
+      "url": "https://aerlavynah.com",
+      "description": "Ratanah Aerlavynah (Dreamy) is a contemporary web poet and cultural commentator. Her oeuvre examines memory, space, and identity through concise lyrical forms.",
+    "image": [
+    "https://aerlavynah.com/assets/img/Welcome%20Into%20the%20Dream.png",
+    "https://aerlavynah.com/assets/img/Douceur%20dans%20les%20nuages%20pastel.png" 
+      ],
+      "sameAs": [
+        "https://www.instagram.com/aerlavynah",
+        "https://www.tiktok.com/@aerlavynah"
+      ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://aerlavynah.com",
+      "name": "Aerlavynah — Dreamy’s Dream Poems",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://aerlavynah.com/poems/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+  </head>
 
   <body class="site-body">
     <header class="site-header">
@@ -21,6 +54,19 @@
     </header>
 
     <main class="site-container">
+      <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "position": 1, "@type": "ListItem", "name": "Home", "item": "https://aerlavynah.com/" },
+            { "position": 2, "@type": "ListItem", "name": "All Poems", "item": "https://aerlavynah.com/poems/" }
+          ]
+        }
+        </script>
+      </nav>
+
       {{ content }}
     </main>
 
@@ -32,34 +78,32 @@
       </div>
       <p class="footer-copy">© {{ site.time | date: "%Y" }} Ratanah Aerlavynah</p>
     </footer>
-  </body>
 
+    <!-- Form handler -->
+    <script>
+      document.getElementById('dreamy-form')?.addEventListener('submit', function(event) {
+        event.preventDefault();
+        alert('Thank you for your letter! Dreamy will read it soon. 🌸');
+        this.reset();
+      });
+    </script>
 
-  
-</html>
-  <script>
-    document.getElementById('dreamy-form').addEventListener('submit', function(event) {
-      event.preventDefault();
-      alert('Thank you for your letter! Dreamy will read it soon. 🌸');
-      this.reset();
-    });
-  </script>
-  <script>
-    // Smooth scroll for internal links
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function(e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
+    <!-- Smooth internal scroll -->
+    <script>
+      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+          e.preventDefault();
+          document.querySelector(this.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
         });
       });
-    });
-  </script>
-  <script>
-    // Add a class to the body for dark mode
-    document.body.classList.add('dark-mode');
-    // Toggle dark mode on click
-    document.body.addEventListener('click', function() {
-      this.classList.toggle('dark-mode');
-    });
-  </script>                                     
+    </script>
+
+    <!-- Dark mode toggle (click anywhere) -->
+    <script>
+      document.body.classList.add('dark-mode');
+      document.body.addEventListener('click', function() {
+        this.classList.toggle('dark-mode');
+      });
+    </script>
+  </body>
+</html>

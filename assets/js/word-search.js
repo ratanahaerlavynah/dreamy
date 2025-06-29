@@ -6,6 +6,10 @@ const close = document.getElementById('modal-close');
 // Ouvrir / fermer la fenêtre
 btn.addEventListener('click', () => modal.classList.toggle('show'));
 close.addEventListener('click', () => modal.classList.remove('show'));
+close.addEventListener('touchend', (e) => {
+  e.preventDefault();
+  modal.classList.remove('show');
+});
 
 // Compter en direct
 const input = document.getElementById('word-search-input');

@@ -9,7 +9,8 @@ title: All Poems
   <!-- 🌸 Banner specific to this page -->
   <img src="{{ '/assets/img/Douceur dans les nuages pastel.png' | relative_url }}"
        alt="Blossoms framing the poetry"
-       class="banner-img banner-poems" />
+       class="banner-img banner-poems" 
+       />
 
   <!-- 🌸 OPTIONAL gallery (delete if you don’t need it) -->
   <section class="picture-gallery">
@@ -32,6 +33,22 @@ title: All Poems
   >
     🔍
   </button>
+ <div class="modal" id="word-search-modal">
+    <div class="modal-content">
+      <!-- CROIX de fermeture DANS modal-content -->
+      <button class="modal-close" id="modal-close">✕</button>
+
+      <h2>Search for words</h2>
+      <input
+        type="text"
+        id="word-search-input"
+        placeholder="Type a word…"
+        aria-label="Search for words"
+      >
+      <div id="word-search-results"></div>
+    </div>
+  </div>
+  <!-- fin du modal -->
 </div>
 
   <script>

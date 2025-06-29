@@ -584,3 +584,38 @@ img, pre, code, table {
   transform: scale(1.05);
   box-shadow: 0 4px 12px rgba(214,51,108,0.4);
 }
+
+/* Petite croix ronde, rose-rouge, positionnée en haut à droite */
+.modal-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background-color: #ffc0cb;    /* rose très clair */
+  color: #d6336c;               /* rouge-rose plus soutenu */
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(214,51,108,0.4);
+}
+
+/* Effet au survol */
+.modal-close:hover {
+  background-color: #ffe4e9;
+  color: #b32a53;
+}
+
+
+@media (max-width: 768px) {
+  .banner-img.banner-poems {
+    width: 100%;        /* pleine largeur */
+    height: auto;       /* hauteur auto pour garder les proportions */
+    object-fit: cover;  /* si tu fixes une hauteur, cover remplit sans déformer */
+    display: block;     /* évite les marges blanches autour */
+  }
+}
