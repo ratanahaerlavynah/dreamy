@@ -2,39 +2,37 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <!-- make sure this is still here: -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <!-- preload your big hero image first -->
+    <!-- Preload homepage hero image for faster rendering -->
     <link
       rel="preload"
       as="image"
-      href="{{ '/assets/img/Douceur dans les nuages pastel.png' | relative_url }}"
+      href="{{ '/assets/img/banner-home.png' | relative_url }}"
     />
 
-    <!-- **THIS** is your stylesheet link that you must not remove: -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
+    <title>{{ page.title }} — Aerlavynah</title>
+    {% seo %}
 
-    <!-- and your web font, too: -->
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
+    <!-- Web font -->
     <link
       href="https://fonts.googleapis.com/css2?family=Italianno&display=swap"
       rel="stylesheet"
     />
 
-    <title>{{ page.title }} — Aerlavynah</title>
-    {% seo %}
-    <!-- …the rest of your head… -->
-
+    <!-- Person JSON‑LD -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "Ratanah Aerlavynah",
       "url": "https://aerlavynah.com",
-      "description": "Ratanah Aerlavynah (Dreamy) is a contemporary web poet and cultural commentator. Her oeuvre examines memory, space, and identity through concise lyrical forms.",
-    "image": [
-    "https://aerlavynah.com/assets/img/Welcome%20Into%20the%20Dream.png",
-    "https://aerlavynah.com/assets/img/Douceur%20dans%20les%20nuages%20pastel.png" 
+      "description": "Ratanah Aerlavynah (Dreamy) is a contemporary web poet. Her oeuvre examines memory, space, and identity through concise lyrical forms.",
+      "image": [
+        "https://aerlavynah.com/assets/img/banner-home.png",
+        "https://aerlavynah.com/assets/img/Douceur dans les nuages pastel.png"
       ],
       "sameAs": [
         "https://www.instagram.com/aerlavynah",
@@ -43,6 +41,7 @@
     }
     </script>
 
+    <!-- WebSite JSON‑LD with SearchAction -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -83,6 +82,17 @@
         </script>
       </nav>
 
+      <!-- Homepage Hero Banner -->
+      {% if page.url == '/' %}
+        <img
+          src="{{ '/assets/img/banner-home.png' | relative_url }}"
+          alt="Welcome Into the Dream"
+          class="banner-img banner-home"
+          width="600" height="600"
+          loading="eager"
+        />
+      {% endif %}
+
       {{ content }}
     </main>
 
@@ -95,47 +105,7 @@
       <p class="footer-copy">© {{ site.time | date: "%Y" }} Ratanah Aerlavynah</p>
     </footer>
 
-    <!-- Form handler -->
-    <script>
-      document.getElementById('dreamy-form')?.addEventListener('submit', function(event) {
-        event.preventDefault();
-        alert('Thank you for your letter! Dreamy will read it soon. 🌸');
-        this.reset();
-      });
-    </script>
-
-    <!-- Smooth internal scroll -->
-    <script>
-      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function(e) {
-          e.preventDefault();
-          document.querySelector(this.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
-        });
-      
-    </script>
-
-    <!-- Dark mode toggle (click anywhere) -->
-    <script>
-      document.body.classList.add('dark-mode');
-      document.body.addEventListener('click', function() {
-        this.classList.toggle('dark-mode');
-      });
-    </script>
-    <!--–– Index de tous les poèmes, généré par Jekyll ––-->
-    <script>
-        window.poemsIndex = [
-      {% for poem in site.poems %}
-        {
-          "filename": "{{ poem.path | split: '/' | last }}",
-          "slug":     "{{ poem.url  | split: '/' | last }}",
-         "title":    {{ poem.title   | jsonify }},
-         "content":  {{ poem.content | strip_html | normalize_whitespace | jsonify }}
-        }{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-     ];
-    </script>
-</body>
+    <!-- Optional scripts below -->
+    {{ content_for_footer }}
+  </body>
 </html>
-
-
-    
