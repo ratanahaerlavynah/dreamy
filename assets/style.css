@@ -1,3 +1,10 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 /* ===== Global Body ===== */
 body {
   margin: 0;
@@ -84,9 +91,11 @@ body {
 /* ===== Poem Page Title ===== */
 .poem-title {
   font-family: 'Italianno', cursive;
-  font-size: 2.8rem;
+  font-size: 3.5rem;
+  font-weight: 180;
+  text-align: left;
   color: #f48abf;
-  margin: 2rem 0 1rem 2rem;
+  margin: 1.8rem 0 rem 1.5rem;
 }
 @media (max-width: 600px) {
   .poem-title { text-align: center; margin: 2rem 0 1rem; font-size: 2rem; }
@@ -269,5 +278,21 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
   object-fit: cover;
   border-radius: 0.5rem;          /* match your other banners */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+.poem-content {
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+
+  /* largeur automatique, limitée à l’écran */
+  /* width: 100%;  ← tu peux commenter ça */
+  max-width: 100%;
+  
+  margin: 0 auto;
+  padding: 0 1rem;
+
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
