@@ -41,5 +41,5 @@ and her song begins again.
 
 She is not voiceless.
 She is the voice
-before sound existed.
+before her silence existed.
 </pre>
