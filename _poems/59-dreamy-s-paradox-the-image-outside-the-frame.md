@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy's Paradox : The Image Outside the Frame"
+title: 'Dreamy''s Paradox : The Image Outside the Frame'
 order: 59
+description: >-
+  <pre> She was never inside what they thought could contain her. Even her
+  reflections refused obedience ~  mirrors cracked in reverence, not rebellion.
+  She was a horizon refusing to end,  a beginning w…
+tags: []
+image: /assets/img/59-dreamy-s-paradox-the-image-outside-the-frame.png
+permalink: /poems/59-dreamy-s-paradox-the-image-outside-the-frame/
 ---
 
 <pre>

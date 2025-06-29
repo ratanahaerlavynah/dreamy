@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Water They Could Never Alter"
+title: The Water They Could Never Alter
 order: 93
+description: >-
+  <pre> They tried to sculpt me with their fear,  carve their silhouettes into
+  my flow.  But I was never clay,  I was water.  And water does not keep what
+  does not belong. They called me wrong for shift…
+tags: []
+image: /assets/img/93-the-water-they-could-never-alter.png
+permalink: /poems/93-the-water-they-could-never-alter/
 ---
 
 <pre>

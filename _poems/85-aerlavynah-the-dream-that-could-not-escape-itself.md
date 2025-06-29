@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Aerlavynah, The Dream That Could Not Escape Itself..."
+title: 'Aerlavynah, The Dream That Could Not Escape Itself...'
 order: 85
+description: >-
+  <pre> There was a time when even sleep refused to cradle me,  when the stars
+  above were sealed shut as if Heaven itself was afraid of  what it might
+  witness beneath that roof. The place called home wa…
+tags: []
+image: /assets/img/85-aerlavynah-the-dream-that-could-not-escape-itself.png
+permalink: /poems/85-aerlavynah-the-dream-that-could-not-escape-itself/
 ---
 
 <pre>

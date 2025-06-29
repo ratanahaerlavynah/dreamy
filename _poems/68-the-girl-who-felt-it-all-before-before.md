@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Girl Who Felt It All Before Before"
+title: The Girl Who Felt It All Before Before
 order: 68
+description: >-
+  <pre> There was once a hush before memory, before shape ~  and she was already
+  there, feeling what hadn’t yet begun. She lived through things that had not
+  happened,  her heart flooded by echoes of fut…
+tags: []
+image: /assets/img/68-the-girl-who-felt-it-all-before-before.png
+permalink: /poems/68-the-girl-who-felt-it-all-before-before/
 ---
 
 <pre>

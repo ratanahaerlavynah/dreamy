@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Moment the Oceans Salted Her Loss"
+title: The Moment the Oceans Salted Her Loss
 order: 79
+description: >-
+  <pre> Before the ache, the waters were sweet ~  they curled like laughter
+  around unborn shores,  barefoot in light. But something fell. Not a body ~ no…
+  a becoming that was never given shape. She shou…
+tags: []
+image: /assets/img/79-the-moment-the-oceans-salted-her-loss.png
+permalink: /poems/79-the-moment-the-oceans-salted-her-loss/
 ---
 
 <pre>

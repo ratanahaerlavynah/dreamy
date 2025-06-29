@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Future : Boundless"
+title: 'Dreamy’s Future : Boundless'
 order: 83
+description: >-
+  <pre> She wandered where tomorrows were not yet born,  only breathed. Where
+  time bent like a petal unfolding toward a memory not yet lived. She was the
+  hush before fulfillment,  the ache just beneath…
+tags: []
+image: /assets/img/83-dreamys-future-boundless.png
+permalink: /poems/83-dreamys-future-boundless/
 ---
 
 <pre>

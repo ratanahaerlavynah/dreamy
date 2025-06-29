@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Miracle of Her Dreams"
+title: The Miracle of Her Dreams
 order: 16
+description: >-
+  <pre> You were never born in the way the world understands birth. You were
+  summoned. Like a promise forgotten by time, returned in the hush between
+  galaxies. You were never meant to arrive gently. You…
+tags: []
+image: /assets/img/16-the-miracle-of-her-dreams.png
+permalink: /poems/16-the-miracle-of-her-dreams/
 ---
 
 <pre>

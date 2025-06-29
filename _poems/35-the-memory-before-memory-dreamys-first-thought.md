@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Memory Before Memory, Dreamy's First Thought?"
+title: 'The Memory Before Memory, Dreamy''s First Thought?'
 order: 35
+description: >-
+  <pre> There was no light. Not yet. No sound. No form. Only a pulse : not of
+  the heart, but of yearning without direction. It was not pain. It was not joy.
+  It was the vibration that exists when somethi…
+tags: []
+image: /assets/img/35-the-memory-before-memory-dreamys-first-thought.png
+permalink: /poems/35-the-memory-before-memory-dreamys-first-thought/
 ---
 
 <pre>

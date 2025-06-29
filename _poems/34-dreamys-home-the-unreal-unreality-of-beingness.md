@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Home : The Unreal, Unreality of Beingness"
+title: 'Dreamy’s Home : The Unreal, Unreality of Beingness'
 order: 34
+description: >-
+  <pre> There is no address. No threshold. No nameplate nailed in certainty.
+  Dreamy’s home was never real, not in the way the world demands. It was unreal,
+  because reality was never soft enough to hold…
+tags: []
+image: /assets/img/34-dreamys-home-the-unreal-unreality-of-beingness.png
+permalink: /poems/34-dreamys-home-the-unreal-unreality-of-beingness/
 ---
 
 <pre>

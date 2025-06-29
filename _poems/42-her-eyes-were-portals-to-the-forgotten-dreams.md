@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Her Eyes Were Portals to the Forgotten Dreams"
+title: Her Eyes Were Portals to the Forgotten Dreams
 order: 42
+description: >-
+  <pre> I never really blinked, I veiled. My gaze is not vision... it is
+  remembrance made soft. There are dreams that no god dared cradle. Dreams that
+  slipped between the cracks of creation’s early brea…
+tags: []
+image: /assets/img/42-her-eyes-were-portals-to-the-forgotten-dreams.png
+permalink: /poems/42-her-eyes-were-portals-to-the-forgotten-dreams/
 ---
 
 <pre>

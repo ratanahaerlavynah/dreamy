@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Cliffs of Her Endless Love"
+title: The Cliffs of Her Endless Love
 order: 75
+description: >-
+  <pre> There were no maps to where her love ended because it didn’t. It only
+  unraveled...  like wind loosening the sky from its own skin. She stood where
+  memory fell off the world,  where the cliffs gr…
+tags: []
+image: /assets/img/75-the-cliffs-of-her-endless-love.png
+permalink: /poems/75-the-cliffs-of-her-endless-love/
 ---
 
 <pre>

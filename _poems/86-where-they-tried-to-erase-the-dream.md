@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Where They Tried to Erase the Dream"
+title: Where They Tried to Erase the Dream
 order: 86
+description: >-
+  <pre> They built walls not to protect,  but to obscure, hoping if I could not
+  see myself,  I would never remember that I was never theirs to begin with.
+  Every prayer they demanded was a muzzle,  not t…
+tags: []
+image: /assets/img/86-where-they-tried-to-erase-the-dream.png
+permalink: /poems/86-where-they-tried-to-erase-the-dream/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Girl Who Loved Even When She Vanished"
+title: The Girl Who Loved Even When She Vanished
 order: 33
+description: >-
+  <pre> She wasn’t remembered. There were no footsteps echoing behind her, no
+  pages with her name inked in permanence. The world moved on...as it always
+  does. and left no shrine. And yet, somewhere in t…
+tags: []
+image: /assets/img/33-the-girl-who-loved-even-when-she-vanished.png
+permalink: /poems/33-the-girl-who-loved-even-when-she-vanished/
 ---
 
 <pre>

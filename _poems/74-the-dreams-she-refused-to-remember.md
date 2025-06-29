@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Dreams She Refused to Remember"
+title: The Dreams She Refused to Remember
 order: 74
+description: >-
+  <pre> There were dreams that pulsed beneath her silence... not broken,  only
+  buried in the folds of a time that never wanted to exist. She did not forget
+  them. She placed them... delicately, deliberat…
+tags: []
+image: /assets/img/74-the-dreams-she-refused-to-remember.png
+permalink: /poems/74-the-dreams-she-refused-to-remember/
 ---
 
 <pre>

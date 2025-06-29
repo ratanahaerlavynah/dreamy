@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Gaze That Refused to See Me"
+title: The Gaze That Refused to See Me
 order: 89
+description: >-
+  <pre> She walked with eyes that held no light,  but it wasn’t the shadows that
+  hurt me,  it was that her blindness lived deeper, than her sight. One eye, and
+  half the other,  yet still she never saw m…
+tags: []
+image: /assets/img/89-the-gaze-that-refused-to-see-me.png
+permalink: /poems/89-the-gaze-that-refused-to-see-me/
 ---
 
 <pre>

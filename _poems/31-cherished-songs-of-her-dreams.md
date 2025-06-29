@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Cherished Songs of Her Dreams"
+title: Cherished Songs of Her Dreams
 order: 31
+description: >-
+  <pre> They were never meant to be sung aloud. Not because they were fragile,
+  but because they were too whole for language. These songs were carved into her
+  long before her voice cracked open into vowe…
+tags: []
+image: /assets/img/31-cherished-songs-of-her-dreams.png
+permalink: /poems/31-cherished-songs-of-her-dreams/
 ---
 
 <pre>

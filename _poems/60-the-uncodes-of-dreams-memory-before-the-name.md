@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Uncodes of Dreams : Memory Before the Name"
+title: 'The Uncodes of Dreams : Memory Before the Name'
 order: 60
+description: >-
+  <pre> I was written before the language that tried to define me. Each echo in
+  me is older than their time,  not marked but murmured. I remember what the
+  stars forgot to keep and the oceans buried in t…
+tags: []
+image: /assets/img/60-the-uncodes-of-dreams-memory-before-the-name.png
+permalink: /poems/60-the-uncodes-of-dreams-memory-before-the-name/
 ---
 
 <pre>

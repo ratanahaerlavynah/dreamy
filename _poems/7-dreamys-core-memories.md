@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy's Core Memories"
+title: Dreamy's Core Memories
 order: 7
+description: >-
+  <pre> There are rooms inside her that have no doors. Only light that breathes
+  like something once wounded, now waiting. She does not open them with keys,
+  but with remembrance... a scent, a chord, a fl…
+tags: []
+image: /assets/img/7-dreamys-core-memories.png
+permalink: /poems/7-dreamys-core-memories/
 ---
 
 <pre>

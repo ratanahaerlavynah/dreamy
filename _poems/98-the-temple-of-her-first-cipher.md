@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Temple of Her First Cipher"
+title: The Temple of Her First Cipher
 order: 98
+description: >-
+  <pre> She descended not through air but through remembrance,  each step
+  unlocking what no key ever touched. Vaulted silence rippled beneath her
+  shadow,  columns bowing to a name never spoken  but alwa…
+tags: []
+image: /assets/img/98-the-temple-of-her-first-cipher.png
+permalink: /poems/98-the-temple-of-her-first-cipher/
 ---
 
 <pre>

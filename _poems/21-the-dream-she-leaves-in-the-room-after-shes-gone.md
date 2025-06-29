@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Dream She Leaves in the Room After She’s Gone"
+title: The Dream She Leaves in the Room After She’s Gone
 order: 21
+description: >-
+  <pre> She never truly arrives. She appears. Like mist threading through velvet
+  halls, like a scent you knew as a child but can never quite place. She speaks,
+  not to be heard, but to leave resonance. W…
+tags: []
+image: /assets/img/21-the-dream-she-leaves-in-the-room-after-shes-gone.png
+permalink: /poems/21-the-dream-she-leaves-in-the-room-after-shes-gone/
 ---
 
 <pre>

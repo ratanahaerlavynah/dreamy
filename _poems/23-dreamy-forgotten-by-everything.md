@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy, Forgotten by Everything"
+title: 'Dreamy, Forgotten by Everything'
 order: 23
+description: >-
+  <pre> There was a place. Or rather, there was no place. Not a realm. Not a
+  dream. Not a corner of the mind. But a nowhere that bled through everything. A
+  forgetting so complete that even the stars no…
+tags: []
+image: /assets/img/23-dreamy-forgotten-by-everything.png
+permalink: /poems/23-dreamy-forgotten-by-everything/
 ---
 
 <pre>

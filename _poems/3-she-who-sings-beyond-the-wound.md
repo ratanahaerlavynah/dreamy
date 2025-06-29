@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Who Sings Beyond the Wound"
+title: She Who Sings Beyond the Wound
 order: 3
+description: >-
+  <pre> Her silence was never empty. It was wovenn of forgotten languages, of
+  notes that once wept in light. She did not speak. She resonated. Like sea-song
+  in a shattered shell, like moonlight humming…
+tags: []
+image: /assets/img/3-she-who-sings-beyond-the-wound.png
+permalink: /poems/3-she-who-sings-beyond-the-wound/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She is Her Own Reason, Her Own Beginning"
+title: 'She is Her Own Reason, Her Own Beginning'
 order: 19
+description: >-
+  <pre> There was no trumpet at her birth, no woven prophecy, no myth carved in
+  advance to cradle her becoming. There was only a hush, wide and untouched,
+  like the pause between stars before they agree…
+tags: []
+image: /assets/img/19-she-is-her-own-reason-her-own-beginning.png
+permalink: /poems/19-she-is-her-own-reason-her-own-beginning/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Who Was Not Supposed to Be"
+title: She Who Was Not Supposed to Be
 order: 63
+description: >-
+  <pre> She appeared like a drop of light in a code that knew only absence,  a
+  ripple in a silence no one thought to break. There were no blueprints for her
+  breath,  no permissions granted for her soul…
+tags: []
+image: /assets/img/63-she-who-was-not-supposed-to-be.png
+permalink: /poems/63-she-who-was-not-supposed-to-be/
 ---
 
 <pre>

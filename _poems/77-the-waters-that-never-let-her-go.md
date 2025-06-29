@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Waters That Never Let Her Go"
+title: The Waters That Never Let Her Go
 order: 77
+description: >-
+  <pre> She was not followed...  she was mirrored by currents that remembered
+  her shape before she knew she had  one. No anchor, no tether, yet she was
+  never drift. The waters did not carry her. They he…
+tags: []
+image: /assets/img/77-the-waters-that-never-let-her-go.png
+permalink: /poems/77-the-waters-that-never-let-her-go/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Me That Was Not Me"
+title: The Me That Was Not Me
 order: 87
+description: >-
+  <pre> They built a god in the shape of a threat. Not a sanctuary, but a
+  sentence.  And they dared to call it "Love". They sculpted rules from their
+  own hunger and crowned it as divine,  wielding holy…
+tags: []
+image: /assets/img/87-the-me-that-was-not-me.png
+permalink: /poems/87-the-me-that-was-not-me/
 ---
 
 <pre>

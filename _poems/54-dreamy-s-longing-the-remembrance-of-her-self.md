@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Longing : The Remembrance of Her Self"
+title: 'Dreamy’s Longing : The Remembrance of Her Self'
 order: 54
+description: >-
+  <pre> I remember… though I was not supposed to.  Not the way light remembers
+  darkness or rain recalls the cloud.  No... this remembering was different.  It
+  wasn’t a memory,  but a scent that pulled op…
+tags: []
+image: /assets/img/54-dreamy-s-longing-the-remembrance-of-her-self.png
+permalink: /poems/54-dreamy-s-longing-the-remembrance-of-her-self/
 ---
 
 <pre>

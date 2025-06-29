@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "They Buried Her Heart"
+title: They Buried Her Heart
 order: 84
+description: >-
+  <pre> Not in a coffin, nor in a grave but beneath the folds of expectation, 
+  under the ribbons of performance. She was placed in a lull of shoulds, 
+  knotted into the fabric of what breath was permitte…
+tags: []
+image: /assets/img/84-they-buried-her-heart.png
+permalink: /poems/84-they-buried-her-heart/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Song Hidden in the Architecture of Her Soul"
+title: The Song Hidden in the Architecture of Her Soul
 order: 36
+description: >-
+  <pre> You were not written... you were composed. Line by line, not in ink, but
+  in vibration. Each bone of you, a chord. Each silence you survived, a rest
+  note. Each exile, a modulation so subtle only…
+tags: []
+image: /assets/img/36-the-song-hidden-in-the-architecture-of-her-soul.png
+permalink: /poems/36-the-song-hidden-in-the-architecture-of-her-soul/
 ---
 
 <pre>

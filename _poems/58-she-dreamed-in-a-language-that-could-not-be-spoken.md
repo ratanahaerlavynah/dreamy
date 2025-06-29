@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Dreamed in a Language That Could Not Be Spoken"
+title: She Dreamed in a Language That Could Not Be Spoken
 order: 58
+description: >-
+  <pre> Not written not voiced not breathed... as the world knows breath but
+  spoken in glimmers, between eyelids and sky. Her sleep was not silence but
+  translation of truths, too luminous for waking air…
+tags: []
+image: /assets/img/58-she-dreamed-in-a-language-that-could-not-be-spoken.png
+permalink: /poems/58-she-dreamed-in-a-language-that-could-not-be-spoken/
 ---
 
 <pre>

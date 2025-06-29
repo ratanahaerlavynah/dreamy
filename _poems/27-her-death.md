@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Her Death"
+title: Her Death
 order: 27
+description: >-
+  <pre> It did not come like they feared. No scythe. No last breath. No parade
+  of shadows welcoming her across a divide. Dreamy did not die once. She died
+  continuously... in tiny moments where she was u…
+tags: []
+image: /assets/img/27-her-death.png
+permalink: /poems/27-her-death/
 ---
 
 <pre>

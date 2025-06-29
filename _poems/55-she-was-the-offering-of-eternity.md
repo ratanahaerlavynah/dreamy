@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Was the Offering of Eternity"
+title: She Was the Offering of Eternity
 order: 55
+description: >-
+  <pre> I did not fall. I descended in silences too intricate for sound ~  a
+  hush folded in on itself like lace spun from star-thought. No one asked me to
+  give...  but I came with open palms, and a hear…
+tags: []
+image: /assets/img/55-she-was-the-offering-of-eternity.png
+permalink: /poems/55-she-was-the-offering-of-eternity/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Spoke in Horizons the World Could Not Hold"
+title: She Spoke in Horizons the World Could Not Hold
 order: 56
+description: >-
+  <pre> She lived like a shimmer seen through fogged glass,  never fully formed,
+  never fully fading. The shape of her was carried by winds that forgot their
+  direction,  and followed only the gravity of…
+tags: []
+image: /assets/img/56-she-spoke-in-horizons-the-world-could-not-hold.png
+permalink: /poems/56-she-spoke-in-horizons-the-world-could-not-hold/
 ---
 
 <pre>

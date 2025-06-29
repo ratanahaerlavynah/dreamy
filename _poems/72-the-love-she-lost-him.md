@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Love She Lost, Him."
+title: 'The Love She Lost, Him.'
 order: 72
+description: >-
+  <pre> There are tides that do not return because they remember  what it cost
+  them to arrive. She does not cry for what was.  She aches for what could have
+  been if she hadn’t hesitated at the edge of…
+tags: []
+image: /assets/img/72-the-love-she-lost-him.png
+permalink: /poems/72-the-love-she-lost-him/
 ---
 
 <pre>

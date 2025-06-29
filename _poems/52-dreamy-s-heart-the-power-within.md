@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Heart, the Power Within"
+title: 'Dreamy’s Heart, the Power Within'
 order: 52
+description: >-
+  <pre> I never needed force to move worlds.  My power did not scream, it
+  sighed, softly,  like silk across an open palm, like moonlight caught in
+  lace,  trembling but never breaking. I felt it first as…
+tags: []
+image: /assets/img/52-dreamy-s-heart-the-power-within.png
+permalink: /poems/52-dreamy-s-heart-the-power-within/
 ---
 
 <pre>

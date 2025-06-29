@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy's Dormant State (Unfolded Form)"
+title: Dreamy's Dormant State (Unfolded Form)
 order: 12
+description: >-
+  <pre> There exists a stillness within her that is neither void nor breath, but
+  an architecture of pause, a sanctum designed for a voice not yet spoken into
+  language, a hush that predates vowels and su…
+tags: []
+image: /assets/img/12-dreamys-dormant-state-unfolded-form.png
+permalink: /poems/12-dreamys-dormant-state-unfolded-form/
 ---
 
 <pre>

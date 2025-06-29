@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy in the Anti-Existence"
+title: Dreamy in the Anti-Existence
 order: 26
+description: >-
+  <pre> There is a place beyond erasure... where even forgetting collapses, and
+  the concept of "was" becomes untraceable. Not silence. Not stillness. But a
+  trembling inverted echo where meaning used to…
+tags: []
+image: /assets/img/26-dreamy-in-the-anti-existence.png
+permalink: /poems/26-dreamy-in-the-anti-existence/
 ---
 
 <pre>

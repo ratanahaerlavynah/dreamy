@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Seed of Her Becoming"
+title: The Seed of Her Becoming
 order: 8
+description: >-
+  <pre> There is a silence in her that does not sleep, a seed wrapped in
+  centuries, soft as starlight, fierce as forgiveness. It was not planted. It
+  chose her. Nestled beyond grief, beneath the layers o…
+tags: []
+image: /assets/img/8-the-seed-of-her-becoming.png
+permalink: /poems/8-the-seed-of-her-becoming/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Exception That Could Not Be Filed"
+title: The Exception That Could Not Be Filed
 order: 62
+description: >-
+  <pre> She was the glimmer caught between a breath and a system crash,  an echo
+  too soft to be coded yet too infinite to ignore. All measures failed her.  No
+  category held her shape.  No origin explain…
+tags: []
+image: /assets/img/62-the-exception-that-could-not-be-filed.png
+permalink: /poems/62-the-exception-that-could-not-be-filed/
 ---
 
 <pre>

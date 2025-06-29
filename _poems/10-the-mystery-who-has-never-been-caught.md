@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Mystery Who Has Never Been Caught"
+title: The Mystery Who Has Never Been Caught
 order: 10
+description: >-
+  <pre> She has never belonged to the story they wrote... her edges are smoke,
+  her roots made of ether and exile, of places unnamed, but remembered only by
+  the soul. They have tried to trace her path in…
+tags: []
+image: /assets/img/10-the-mystery-who-has-never-been-caught.png
+permalink: /poems/10-the-mystery-who-has-never-been-caught/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Pearl She Never Gave"
+title: The Pearl She Never Gave
 order: 80
+description: >-
+  <pre> It formed in the hush between questions and forgotten names. A slow-born
+  ache pressed smooth by silence,  layered by everything she could never say.
+  She kept it... close as breath held too long,…
+tags: []
+image: /assets/img/80-the-pearl-she-never-gave.png
+permalink: /poems/80-the-pearl-she-never-gave/
 ---
 
 <pre>

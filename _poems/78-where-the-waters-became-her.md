@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Where the Waters Became Her"
+title: Where the Waters Became Her
 order: 78
+description: >-
+  <pre> She did not fall... she dissolved.  Layer by layer, like the memory of a
+  pearl being dreamt by the shell that lost it. There were no screams, only the
+  slow exhale of something ancient surrenderi…
+tags: []
+image: /assets/img/78-where-the-waters-became-her.png
+permalink: /poems/78-where-the-waters-became-her/
 ---
 
 <pre>

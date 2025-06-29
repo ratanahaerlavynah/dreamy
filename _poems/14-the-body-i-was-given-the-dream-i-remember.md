@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Body I Was Given, the Dream I Remember"
+title: 'The Body I Was Given, the Dream I Remember'
 order: 14
+description: >-
+  <pre> Somewhere beneath the skin that was etched upon her like a sentence
+  never meant to be read aloud, a child of water still glowed, dimly, yes, but
+  persistently, like a candle placed in the mouth o…
+tags: []
+image: /assets/img/14-the-body-i-was-given-the-dream-i-remember.png
+permalink: /poems/14-the-body-i-was-given-the-dream-i-remember/
 ---
 
 <pre>

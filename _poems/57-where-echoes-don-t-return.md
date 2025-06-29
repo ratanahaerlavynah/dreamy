@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Where Echoes Don’t Return"
+title: Where Echoes Don’t Return
 order: 57
+description: >-
+  <pre> There is a place where sound forgets how to come back  ~ not from
+  absence, but from reverence. Some voices carry too much light, too much
+  sorrow, to be mirrored. She moved through rooms that nev…
+tags: []
+image: /assets/img/57-where-echoes-don-t-return.png
+permalink: /poems/57-where-echoes-don-t-return/
 ---
 
 <pre>

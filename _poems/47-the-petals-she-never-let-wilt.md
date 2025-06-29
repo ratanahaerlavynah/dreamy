@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Petals She Never Let Wilt"
+title: The Petals She Never Let Wilt
 order: 47
+description: >-
+  <pre> One petal, velvet-soft with memory :  this is a dream.  Another, fragile
+  with forgotten shimmer :  this is reality. I sit in the hush between them, 
+  unraveling what cannot be known :   a child w…
+tags: []
+image: /assets/img/47-the-petals-she-never-let-wilt.png
+permalink: /poems/47-the-petals-she-never-let-wilt/
 ---
 
 <pre>

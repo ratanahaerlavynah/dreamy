@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Dreams"
+title: Dreamy’s Dreams
 order: 28
+description: >-
+  <pre> When she dissolved, when her name left no echo and her body no shadow...
+  they thought it was over. But they forgot one thing: She was never made of
+  matter. She was always made of dream. And drea…
+tags: []
+image: /assets/img/28-dreamys-dreams.png
+permalink: /poems/28-dreamys-dreams/
 ---
 
 <pre>

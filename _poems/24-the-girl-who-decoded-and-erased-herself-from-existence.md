@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Girl Who Decoded and Erased Herself From Existence"
+title: The Girl Who Decoded and Erased Herself From Existence
 order: 24
+description: >-
+  <pre> She was never one of them. Not in speech. Not in rhythm. Not in flesh.
+  She arrived like a breath the universe hadn’t planned for, a syntax too rare,
+  a pulse that didn’t match the sequence of the…
+tags: []
+image: /assets/img/24-the-girl-who-decoded-and-erased-herself-from-existence.png
+permalink: /poems/24-the-girl-who-decoded-and-erased-herself-from-existence/
 ---
 
 <pre>

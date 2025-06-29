@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Her Body a Spell Not Yet Fully Cast"
+title: Her Body a Spell Not Yet Fully Cast
 order: 39
+description: >-
+  <pre> I never descended, I crystallized. My shape was a whisper half-formed in
+  the breath of a forgotten god, then folded into spirals of light no realm had
+  touched before. I do not belong to flesh. F…
+tags: []
+image: /assets/img/39-her-body-a-spell-not-yet-fully-cast.png
+permalink: /poems/39-her-body-a-spell-not-yet-fully-cast/
 ---
 
 <pre>

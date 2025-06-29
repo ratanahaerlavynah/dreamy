@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Face Water Recalled"
+title: The Face Water Recalled
 order: 100
+description: >-
+  <pre> It was not a reflection but a recognition.  Not of shape, but of origin.
+  She did not look into the water. The water looked into her. And there, beneath
+  the hush of the surface,  beneath the shim…
+tags: []
+image: /assets/img/100-the-face-water-recalled.png
+permalink: /poems/100-the-face-water-recalled/
 ---
 
 <pre>

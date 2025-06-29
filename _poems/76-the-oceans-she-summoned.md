@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Oceans She Summoned"
+title: The Oceans She Summoned
 order: 76
+description: >-
+  <pre> She didn’t wave... she rose. Not with gesture, but with gravity that
+  remembered her. The tide had no memory until her heart bled its own echo  into
+  the silence beneath everything. There were no…
+tags: []
+image: /assets/img/76-the-oceans-she-summoned.png
+permalink: /poems/76-the-oceans-she-summoned/
 ---
 
 <pre>

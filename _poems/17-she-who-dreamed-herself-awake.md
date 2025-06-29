@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Who Dreamed Herself Awake"
+title: She Who Dreamed Herself Awake
 order: 17
+description: >-
+  <pre> She did not wake like others do... no sudden burst of light, no voice
+  calling her name from the shoreline of morning. She woke slowly, quietly, like
+  fog lifting from ancient waters that had long…
+tags: []
+image: /assets/img/17-she-who-dreamed-herself-awake.png
+permalink: /poems/17-she-who-dreamed-herself-awake/
 ---
 
 <pre>

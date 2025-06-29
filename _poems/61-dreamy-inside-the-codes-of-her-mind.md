@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy Inside the Codes of Her Mind"
+title: Dreamy Inside the Codes of Her Mind
 order: 61
+description: >-
+  <pre> She did not walk through doors, she flowed like a whisper folded in
+  translucent syntax, through halls of mirrored thought. No keystroke summoned
+  her. She arrived before instruction, a presence b…
+tags: []
+image: /assets/img/61-dreamy-inside-the-codes-of-her-mind.png
+permalink: /poems/61-dreamy-inside-the-codes-of-her-mind/
 ---
 
 <pre>

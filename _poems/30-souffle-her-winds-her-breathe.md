@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Souffle : Her Winds, Her Breathe"
+title: 'Souffle : Her Winds, Her Breathe'
 order: 30
+description: >-
+  <pre> She never spoke to fill space. She breathed to reveal it. Her breath was
+  not air. It was memory passing through veil. A hush that carried everything
+  she dared not say but could no longer carry a…
+tags: []
+image: /assets/img/30-souffle-her-winds-her-breathe.png
+permalink: /poems/30-souffle-her-winds-her-breathe/
 ---
 
 <pre>

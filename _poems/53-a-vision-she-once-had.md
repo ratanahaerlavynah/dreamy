@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "A Vision She Once Had…"
+title: A Vision She Once Had…
 order: 53
+description: >-
+  <pre> I once breathed in a sky that wasn’t born yet ~  its clouds shaped like
+  forgotten names,  its stars whispering what I had always been meant to become.
+  I saw myself, barefoot on rose-glass marble…
+tags: []
+image: /assets/img/53-a-vision-she-once-had.png
+permalink: /poems/53-a-vision-she-once-had/
 ---
 
 <pre>

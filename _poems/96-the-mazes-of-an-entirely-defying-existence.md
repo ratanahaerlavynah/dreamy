@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Mazes of an Entirely Defying Existence"
+title: The Mazes of an Entirely Defying Existence
 order: 96
+description: >-
+  <pre> She never followed paths. Paths bled into patterns and patterns were
+  prisons. So she made mazes. Not to trap,  but to remind the stars that not all
+  orbits circle something deserving. Her existen…
+tags: []
+image: /assets/img/96-the-mazes-of-an-entirely-defying-existence.png
+permalink: /poems/96-the-mazes-of-an-entirely-defying-existence/
 ---
 
 <pre>

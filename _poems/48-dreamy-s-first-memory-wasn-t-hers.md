@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy's First Memory Wasn’t Hers"
+title: Dreamy's First Memory Wasn’t Hers
 order: 48
+description: >-
+  <pre> I remember not what I saw, but what I inherited. A silence too ancient
+  for origin...  so familiar it slipped into me before I had even learned to
+  cry. It wasn't mine. The first pulse I felt belo…
+tags: []
+image: /assets/img/48-dreamy-s-first-memory-wasn-t-hers.png
+permalink: /poems/48-dreamy-s-first-memory-wasn-t-hers/
 ---
 
 <pre>

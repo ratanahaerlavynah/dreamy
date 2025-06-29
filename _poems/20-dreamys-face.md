@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Face"
+title: Dreamy’s Face
 order: 20
+description: >-
+  <pre> Her face… no, not her face, but the echo of her becoming; that’s what
+  the world tried to flatten into bone, into angles, into numbers that never
+  once held her softness. They tried to sculpt her…
+tags: []
+image: /assets/img/20-dreamys-face.png
+permalink: /poems/20-dreamys-face/
 ---
 
 <pre>

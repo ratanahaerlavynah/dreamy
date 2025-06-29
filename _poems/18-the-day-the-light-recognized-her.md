@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Day the Light Recognized Her"
+title: The Day the Light Recognized Her
 order: 18
+description: >-
+  <pre> There had been light before. Of course there had. She had walked through
+  it, sat beneath it, even tried to wear it as if radiance alone could make her
+  visible in the right way, to the right eyes…
+tags: []
+image: /assets/img/18-the-day-the-light-recognized-her.png
+permalink: /poems/18-the-day-the-light-recognized-her/
 ---
 
 <pre>

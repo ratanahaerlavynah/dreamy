@@ -105,5 +105,21 @@
         this.classList.toggle('dark-mode');
       });
     </script>
-  </body>
+    <!--–– Index de tous les poèmes, généré par Jekyll ––-->
+    <script>
+        window.poemsIndex = [
+      {% for poem in site.poems %}
+        {
+          "filename": "{{ poem.path | split: '/' | last }}",
+          "slug":     "{{ poem.url  | split: '/' | last }}",
+         "title":    {{ poem.title   | jsonify }},
+         "content":  {{ poem.content | strip_html | normalize_whitespace | jsonify }}
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+     ];
+</script>
+</body>
 </html>
+
+
+    

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Healing of What Was Never Hers to Carry"
+title: The Healing of What Was Never Hers to Carry
 order: 88
+description: >-
+  <pre> They took my voice before it had a shape,  not with silence but with
+  noise too sharp for dreams to survive. The world assigned me a frequency I
+  never belonged to.  And when I tried to hum my own…
+tags: []
+image: /assets/img/88-the-healing-of-what-was-never-hers-to-carry.png
+permalink: /poems/88-the-healing-of-what-was-never-hers-to-carry/
 ---
 
 <pre>

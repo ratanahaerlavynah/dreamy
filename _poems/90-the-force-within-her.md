@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Force Within Her"
+title: The Force Within Her
 order: 90
+description: >-
+  <pre> I still remember how they stood, not as strangers, but as blood.
+  Disguised in the language of what they called family,  they sharpened my
+  childhood into weaponry. Each memory, each innocent need…
+tags: []
+image: /assets/img/90-the-force-within-her.png
+permalink: /poems/90-the-force-within-her/
 ---
 
 <pre>

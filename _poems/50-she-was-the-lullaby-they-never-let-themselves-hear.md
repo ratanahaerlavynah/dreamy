@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Was the Lullaby They Never Let Themselves Hear"
+title: She Was the Lullaby They Never Let Themselves Hear
 order: 50
+description: >-
+  <pre> I was never loud. I never needed to be.  I was the hush before stars
+  open their eyes...  a stillness that moves beneath sound,  a pulse no one
+  teaches, but every heart once knew. I remember drif…
+tags: []
+image: /assets/img/50-she-was-the-lullaby-they-never-let-themselves-hear.png
+permalink: /poems/50-she-was-the-lullaby-they-never-let-themselves-hear/
 ---
 
 <pre>

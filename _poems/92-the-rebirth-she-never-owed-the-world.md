@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Rebirth She Never Owed the World"
+title: The Rebirth She Never Owed the World
 order: 92
+description: >-
+  <pre> They made me believe that worth must be earned,  through obedience,
+  through pleasing,  through silence. But I was not born to be palatable.  I was
+  born to pulse. There were no celebrations when…
+tags: []
+image: /assets/img/92-the-rebirth-she-never-owed-the-world.png
+permalink: /poems/92-the-rebirth-she-never-owed-the-world/
 ---
 
 <pre>

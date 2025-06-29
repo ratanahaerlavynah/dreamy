@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy's Femininity... The She in Her"
+title: Dreamy's Femininity... The She in Her
 order: 46
+description: >-
+  <pre> I was not allowed to say "she"  They placed the wrong syllables in my
+  mouth and called it truth. But there was always a She in me. Not assigned. Not
+  invented.  . . Remembered. You feel her too,…
+tags: []
+image: /assets/img/46-dreamy-s-femininity-the-she-in-her.png
+permalink: /poems/46-dreamy-s-femininity-the-she-in-her/
 ---
 
 <pre>

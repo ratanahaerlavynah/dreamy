@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Iridescence of Her Innocence"
+title: The Iridescence of Her Innocence
 order: 81
+description: >-
+  <pre> She did not arrive. She shimmered ~  like a memory the light forgot to
+  let go. Not young, but untouched.  Not naïve, but too ancient to ever lose her
+  first breath. She walked through the element…
+tags: []
+image: /assets/img/81-the-iridescence-of-her-innocence.png
+permalink: /poems/81-the-iridescence-of-her-innocence/
 ---
 
 <pre>

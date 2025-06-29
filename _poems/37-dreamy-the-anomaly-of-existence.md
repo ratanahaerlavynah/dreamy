@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy the Anomaly of Existence"
+title: Dreamy the Anomaly of Existence
 order: 37
+description: >-
+  <pre> She was never supposed to be. Not by the calculations of the world. Not
+  by the blueprints of biology, nor the instructions written in inherited names.
+  She was the misstep that became a miracle,…
+tags: []
+image: /assets/img/37-dreamy-the-anomaly-of-existence.png
+permalink: /poems/37-dreamy-the-anomaly-of-existence/
 ---
 
 <pre>

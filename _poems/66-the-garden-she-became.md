@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Garden She Became"
+title: The Garden She Became
 order: 66
+description: >-
+  <pre> She had never received the flowers not even once; not even in the hollow
+  pauses  where a girl is supposed to be met with gentle surprise. The world
+  passed by hands filled with everything but her…
+tags: []
+image: /assets/img/66-the-garden-she-became.png
+permalink: /poems/66-the-garden-she-became/
 ---
 
 <pre>

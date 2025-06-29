@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Silence That Dreamed Her Too Soon"
+title: The Silence That Dreamed Her Too Soon
 order: 69
+description: >-
+  <pre> There were no eyes yet but something had already begun weeping.  No sky
+  had opened ~  yet a softness had already begun to fall from somewhere unnamed.
+  She did not arrive.  What stirred came befo…
+tags: []
+image: /assets/img/69-the-silence-that-dreamed-her-too-soon.png
+permalink: /poems/69-the-silence-that-dreamed-her-too-soon/
 ---
 
 <pre>

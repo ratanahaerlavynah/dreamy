@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Portal She Never Opened, Yet Guarded With Her Soul"
+title: 'The Portal She Never Opened, Yet Guarded With Her Soul'
 order: 95
+description: >-
+  <pre> She was the kind of door that never creaked nor yielded,  not because it
+  was locked,  but because the world had not yet earned what lay beyond. Not
+  mystery but memory,  the kind she kept behind…
+tags: []
+image: /assets/img/95-the-portal-she-never-opened-yet-guarded-with-her-soul.png
+permalink: /poems/95-the-portal-she-never-opened-yet-guarded-with-her-soul/
 ---
 
 <pre>

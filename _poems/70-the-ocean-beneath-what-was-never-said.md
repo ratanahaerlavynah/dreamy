@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Ocean Beneath What Was Never Said"
+title: The Ocean Beneath What Was Never Said
 order: 70
+description: >-
+  <pre> There was no entrance,  only a soft dissonance where reality frayed, 
+  and a warmth gathered just before the concept of presence learned how to
+  bloom. Not summoned, but breathed into the hush tha…
+tags: []
+image: /assets/img/70-the-ocean-beneath-what-was-never-said.png
+permalink: /poems/70-the-ocean-beneath-what-was-never-said/
 ---
 
 <pre>

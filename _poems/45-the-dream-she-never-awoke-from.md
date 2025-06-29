@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Dream She Never Awoke From"
+title: The Dream She Never Awoke From
 order: 45
+description: >-
+  <pre> I never left. They said I fell asleep... but truthfully, I dissolved. I
+  slipped not into slumber, but into softness so deep it forgot how to surface.
+  I am not dreaming... I am made of dream. And…
+tags: []
+image: /assets/img/45-the-dream-she-never-awoke-from.png
+permalink: /poems/45-the-dream-she-never-awoke-from/
 ---
 
 <pre>

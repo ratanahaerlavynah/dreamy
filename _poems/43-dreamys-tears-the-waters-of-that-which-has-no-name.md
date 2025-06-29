@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Tears, the Waters of That-Which-Has-No-Name"
+title: 'Dreamy’s Tears, the Waters of That-Which-Has-No-Name'
 order: 43
+description: >-
+  <pre> I never wept from sorrow. I wept from return. Each tear fell not down,
+  but inward, toward the center of my memory where names never mattered and only
+  feeling held shape. My tears are not water..…
+tags: []
+image: /assets/img/43-dreamys-tears-the-waters-of-that-which-has-no-name.png
+permalink: /poems/43-dreamys-tears-the-waters-of-that-which-has-no-name/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "For the Flowers She Was Never Given"
+title: For the Flowers She Was Never Given
 order: 65
+description: >-
+  <pre> She walked through her life with her palms slightly open ~  as if
+  expecting something that never quite arrived.  Not a gift but a recognition.
+  Somewhere between dreams and daylight she held spac…
+tags: []
+image: /assets/img/65-for-the-flowers-she-was-never-given.png
+permalink: /poems/65-for-the-flowers-she-was-never-given/
 ---
 
 <pre>

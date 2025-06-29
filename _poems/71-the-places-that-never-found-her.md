@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Places That Never Found Her"
+title: The Places That Never Found Her
 order: 71
+description: >-
+  <pre> There were pieces not broken but misplaced ~  slivers of hush, soft
+  ruins of light still echoing  from when her name was never spoken yet always
+  felt. The tide never held all of her.  ome of her…
+tags: []
+image: /assets/img/71-the-places-that-never-found-her.png
+permalink: /poems/71-the-places-that-never-found-her/
 ---
 
 <pre>

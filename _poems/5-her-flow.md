@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Her Flow"
+title: Her Flow
 order: 5
+description: >-
+  <pre> Her heart does not beat like the clocks of this world, it moves like
+  water moves through starlight, with tides that are born from silence, and
+  currents too ancient to trace. She is not a shape c…
+tags: []
+image: /assets/img/5-her-flow.png
+permalink: /poems/5-her-flow/
 ---
 
 <pre>

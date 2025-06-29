@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Overflow"
+title: The Overflow
 order: 9
+description: >-
+  <pre> She was never meant to contain all she carried. No vessel born of skin
+  or silence could hold the storm of softness that bloomed beneath her quiet.
+  There came a moment, not loud, not sudden... bu…
+tags: []
+image: /assets/img/9-the-overflow.png
+permalink: /poems/9-the-overflow/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Closed Her Hands Before Love Could Rest Inside"
+title: She Closed Her Hands Before Love Could Rest Inside
 order: 73
+description: >-
+  <pre> She did not believe herself unworthy... only too vast for something so
+  soft to stay. It wasn’t shame, nor doubt,  but an ache deeper than language
+  that told her :  "you must not be held, or He w…
+tags: []
+image: /assets/img/73-she-closed-her-hands-before-love-could-rest-inside.png
+permalink: /poems/73-she-closed-her-hands-before-love-could-rest-inside/
 ---
 
 <pre>

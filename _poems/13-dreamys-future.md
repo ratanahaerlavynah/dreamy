@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Future"
+title: Dreamy’s Future
 order: 13
+description: >-
+  <pre> There is a moment that has not yet arrived, but already weeps for her.
+  It hovers outside the bounds of sequence, clothed in the shimmer of unformed
+  time, braiding itself slowly from the sighs sh…
+tags: []
+image: /assets/img/13-dreamys-future.png
+permalink: /poems/13-dreamys-future/
 ---
 
 <pre>

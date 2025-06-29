@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dream’s Secrets : Where Only She Could Hear"
+title: 'Dream’s Secrets : Where Only She Could Hear'
 order: 38
+description: >-
+  <pre> They never saw where she went. Not when her eyes closed. Not when her
+  voice quieted. They thought she was resting. But she was entering the Vault.
+  The place behind her pupils, behind even memory…
+tags: []
+image: /assets/img/38-dreams-secrets-where-only-she-could-hear.png
+permalink: /poems/38-dreams-secrets-where-only-she-could-hear/
 ---
 
 <pre>

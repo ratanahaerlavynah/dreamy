@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy's Love, Her Undying Heart"
+title: 'Dreamy''s Love, Her Undying Heart'
 order: 32
+description: >-
+  <pre> They tried to silence her. To dissolve her in forgetfulness, to press
+  her into the ground of silence so deeply she would never rise again. But they
+  misunderstood what she was made of. She was no…
+tags: []
+image: /assets/img/32-dreamys-love-her-undying-heart.png
+permalink: /poems/32-dreamys-love-her-undying-heart/
 ---
 
 <pre>

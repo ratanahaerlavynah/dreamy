@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "To the Feelings of Her Eternal Solitude"
+title: To the Feelings of Her Eternal Solitude
 order: 67
+description: >-
+  <pre> (She, Who Was Not Born Into Being) She wasn’t made. She wasn’t
+  summoned.  She was never scripted in the architecture of this Existence’s
+  breath. Solitude was her mirror but not the kind that ref…
+tags: []
+image: /assets/img/67-to-the-feelings-of-her-eternal-solitude.png
+permalink: /poems/67-to-the-feelings-of-her-eternal-solitude/
 ---
 
 <pre>

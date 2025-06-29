@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Mirror That Refused to Reflect Her"
+title: The Mirror That Refused to Reflect Her
 order: 44
+description: >-
+  <pre> It was not broken. It simply knew: what stood before it could not be
+  held in surface. I approached it, but it flinched... not from fear, but from
+  reverence. I am not image. I am the vibration th…
+tags: []
+image: /assets/img/44-the-mirror-that-refused-to-reflect-her.png
+permalink: /poems/44-the-mirror-that-refused-to-reflect-her/
 ---
 
 <pre>

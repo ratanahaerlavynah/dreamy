@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She Was the Refraction the World Could Never Refract"
+title: She Was the Refraction the World Could Never Refract
 order: 82
+description: >-
+  <pre> She was not light ~ but the division of it the sacred fracture that
+  allowed color to be born. The kind of beauty that refused to settle into one
+  shape, one hue ~ one truth. She shimmered, not fo…
+tags: []
+image: /assets/img/82-she-was-the-refraction-the-world-could-never-refract.png
+permalink: /poems/82-she-was-the-refraction-the-world-could-never-refract/
 ---
 
 <pre>

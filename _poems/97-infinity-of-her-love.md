@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Infinity of Her Love"
+title: Infinity of Her Love
 order: 97
+description: >-
+  <pre> She did not pour. She did not give.  She simply opened Love. Unscaled.
+  Unshaped. Unrequired. There were no bounds.  Not because she tore them down, 
+  but because none had ever been drawn around h…
+tags: []
+image: /assets/img/97-infinity-of-her-love.png
+permalink: /poems/97-infinity-of-her-love/
 ---
 
 <pre>

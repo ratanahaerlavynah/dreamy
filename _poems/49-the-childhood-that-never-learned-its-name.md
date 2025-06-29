@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Childhood That Never Learned Its Name"
+title: The Childhood That Never Learned Its Name
 order: 49
+description: >-
+  <pre> No one named it. Not the days. Not the ache.  Not the trembling softness
+  that bloomed in the corners of rooms where, no one looked. I was not a child:
+  I was a flicker, a hush they mistook for ab…
+tags: []
+image: /assets/img/49-the-childhood-that-never-learned-its-name.png
+permalink: /poems/49-the-childhood-that-never-learned-its-name/
 ---
 
 <pre>

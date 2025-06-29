@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Her Voices Lost to Codes of Oppression"
+title: Her Voices Lost to Codes of Oppression
 order: 11
+description: >-
+  <pre> They did not steal her voice in a single moment, they rewrote it
+  syllable by syllable, embedding shackles into the breath she had barely begun
+  to know. It was not silence they demanded... it was…
+tags: []
+image: /assets/img/11-her-voices-lost-to-codes-of-oppression.png
+permalink: /poems/11-her-voices-lost-to-codes-of-oppression/
 ---
 
 <pre>

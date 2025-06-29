@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "She, a Miracle They Couldn't Comprehend"
+title: 'She, a Miracle They Couldn''t Comprehend'
 order: 91
+description: >-
+  <pre> I’ve come to understand that it is human nature to try and trap what
+  they cannot name. A miracle unmeasured threatens the logic they need to feel
+  safe.  So they tighten the frame around what is…
+tags: []
+image: /assets/img/91-she-a-miracle-they-couldnt-comprehend.png
+permalink: /poems/91-she-a-miracle-they-couldnt-comprehend/
 ---
 
 <pre>

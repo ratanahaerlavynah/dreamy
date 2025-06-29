@@ -1,7 +1,15 @@
 ---
 layout: poem
-title: "Her Voice Still Forming : A Song She Was Never Allowed to Sing"
+title: 'Her Voice Still Forming : A Song She Was Never Allowed to Sing'
 order: 40
+description: >-
+  <pre> I was not silenced : I was left unsung. Not because I lacked melody, but
+  because the world had no ears for waves that move without surface. My voice is
+  not pitch, nor sound. It is a swell. A tid…
+tags: []
+image: >-
+  /assets/img/40-her-voice-still-forming-a-song-she-was-never-allowed-to-sing.png
+permalink: /poems/40-her-voice-still-forming-a-song-she-was-never-allowed-to-sing/
 ---
 
 <pre>

@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Voice Beneath Silence"
+title: The Voice Beneath Silence
 order: 2
+description: >-
+  <pre> Her voice was buried, not forgotten. but folded deep within the quietest
+  abysses of her soul. A sound unspoken, the ache of a thousand lullabies never
+  given breath. It was not silence that kept…
+tags: []
+image: /assets/img/2-the-voice-beneath-silence.png
+permalink: /poems/2-the-voice-beneath-silence/
 ---
 
 <pre>

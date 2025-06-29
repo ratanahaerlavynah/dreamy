@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Unrevealed Answer"
+title: The Unrevealed Answer
 order: 4
+description: >-
+  <pre> Her heart is not a heart. It is a tide. Not beating, but pulling. Not
+  shaping the body, but dreaming it. She flows without edge, without shore,
+  without memory of where the first wave began. And…
+tags: []
+image: /assets/img/4-unrevealed-answer.png
+permalink: /poems/4-unrevealed-answer/
 ---
 
 <pre>

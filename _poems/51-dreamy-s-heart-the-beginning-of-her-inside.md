@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Dreamy’s Heart : the Beginning of her Inside"
+title: 'Dreamy’s Heart : the Beginning of her Inside'
 order: 51
+description: >-
+  <pre> I do not remember being born.  But I remember the hum, the feeling, the
+  morning warmth.  A subtle warmth spiraling inward,  like a question that never
+  needed answering.  That was me: or rather,…
+tags: []
+image: /assets/img/51-dreamy-s-heart-the-beginning-of-her-inside.png
+permalink: /poems/51-dreamy-s-heart-the-beginning-of-her-inside/
 ---
 
 <pre>

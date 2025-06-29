@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Silence That Couldn't Forget Her Shape"
+title: The Silence That Couldn't Forget Her Shape
 order: 64
+description: >-
+  <pre> There was once a hush not empty, but holding something too soft to name.
+  It was not a silence of absence.  It was the silence of a shape that once
+  passed through…  And left the air forever alter…
+tags: []
+image: /assets/img/64-the-silence-that-couldn-t-forget-her-shape.png
+permalink: /poems/64-the-silence-that-couldn-t-forget-her-shape/
 ---
 
 <pre>

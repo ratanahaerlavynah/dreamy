@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Memory Beneath the Current"
+title: The Memory Beneath the Current
 order: 6
+description: >-
+  <pre> She descended, not to escape, but to listen to the song beneath her own
+  gravity, the one no surface has ever earned the right to echo. Beneath her
+  ribs, where mortals store breath and ache, she…
+tags: []
+image: /assets/img/6-the-memory-beneath-the-current.png
+permalink: /poems/6-the-memory-beneath-the-current/
 ---
 
 <pre>

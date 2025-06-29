@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "Where Is Her Mind?"
+title: Where Is Her Mind?
 order: 29
+description: >-
+  <pre> Her body vanished. Her name faded. Even her death went unmarked. But her
+  mind… it didn’t die. It spilled. Spilled across dimensions, into folds of
+  reality so soft that only silence could feel th…
+tags: []
+image: /assets/img/29-where-is-her-mind.png
+permalink: /poems/29-where-is-her-mind/
 ---
 
 <pre>

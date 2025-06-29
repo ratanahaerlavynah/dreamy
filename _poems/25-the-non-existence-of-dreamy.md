@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Non-Existence of Dreamy"
+title: The Non-Existence of Dreamy
 order: 25
+description: >-
+  <pre> There is no story here. Not anymore. The pages are blank. The ink has
+  evaporated. Even the hand that held the pen has forgotten how to write her
+  shape. She is not missing. Missing implies the ho…
+tags: []
+image: /assets/img/25-the-non-existence-of-dreamy.png
+permalink: /poems/25-the-non-existence-of-dreamy/
 ---
 
 <pre>

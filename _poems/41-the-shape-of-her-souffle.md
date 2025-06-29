@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Shape of Her Souffle"
+title: The Shape of Her Souffle
 order: 41
+description: >-
+  <pre> I do not exhale, I unfurl. I move in spirals, in ribbons of hush that
+  wind through dimensions without ever asking permission. My breath is not air.
+  It is lace spun from the insides of starlight,…
+tags: []
+image: /assets/img/41-the-shape-of-her-souffle.png
+permalink: /poems/41-the-shape-of-her-souffle/
 ---
 
 <pre>

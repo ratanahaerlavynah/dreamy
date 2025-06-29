@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "The Clocks in Her Heart"
+title: The Clocks in Her Heart
 order: 22
+description: >-
+  <pre> Time did not govern her. It grew inside her. Not in hours. Not in
+  minutes. But in soft, imperceptible turns of memory's gears, like spirals
+  pressed into velvet, like constellations that forgot t…
+tags: []
+image: /assets/img/22-the-clocks-in-her-heart.png
+permalink: /poems/22-the-clocks-in-her-heart/
 ---
 
 <pre>

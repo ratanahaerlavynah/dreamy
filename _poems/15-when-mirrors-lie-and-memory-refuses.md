@@ -1,7 +1,14 @@
 ---
 layout: poem
-title: "When Mirrors Lie, and Memory Refuses"
+title: 'When Mirrors Lie, and Memory Refuses'
 order: 15
+description: >-
+  <pre> She stood once, no, still stands. Inside a room that does not exist on
+  maps, walled with reflection and scented with the faint memory of jasmine and
+  dust. The kind of room that only appears when…
+tags: []
+image: /assets/img/15-when-mirrors-lie-and-memory-refuses.png
+permalink: /poems/15-when-mirrors-lie-and-memory-refuses/
 ---
 
 <pre>
