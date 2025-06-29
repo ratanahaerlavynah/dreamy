@@ -453,3 +453,7 @@ img, pre, code, table {
   border-color: #ff69b4;
   box-shadow: 0 0 8px rgba(255,105,180,0.3);
 }
+
+.modal { display: none; /* … */ }
+.modal.show { display: flex; /* … */ }
+/* et tout le reste du style du modal et du bouton word-search-btn */

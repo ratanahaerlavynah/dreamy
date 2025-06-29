@@ -6,6 +6,7 @@ const btn = document.getElementById('word-search-btn');
 const modal = document.getElementById('word-search-modal');
 const close = document.getElementById('modal-close');
 
+// Ouvre/ferme le modal
 btn.addEventListener('click', () => modal.classList.toggle('show'));
 close.addEventListener('click', () => modal.classList.remove('show'));
 

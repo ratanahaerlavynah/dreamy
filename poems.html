@@ -24,6 +24,12 @@ title: All Poems
     id="poem-search"
     placeholder="🔍 Search a title..."
     aria-label="Search poems"
+
+    <!-- Bouton pour ouvrir la recherche de mots -->
+<button id="word-search-btn" class="word-search-btn" aria-label="Search for words">
+  🔲
+</button>
+
   >
 </div>
   <script>
@@ -43,5 +49,15 @@ title: All Poems
       <li><a class="poem-link" href="{{ poem.url }}">{{ poem.title }}</a></li>
     {% endfor %}
   </ul>
+</div>
+
+<!-- Modal de recherche de mots -->
+<div id="word-search-modal" class="modal">
+  <div class="modal-content">
+    <span id="modal-close" class="modal-close">&times;</span>
+    <h2>Search for words</h2>
+    <input type="text" id="word-search-input" placeholder="Type a letter…">
+    <div id="word-search-results"></div>
+  </div>
 </div>
 
