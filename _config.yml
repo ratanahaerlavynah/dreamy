@@ -6,10 +6,12 @@ url: "https://ratanahaerlavynah.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 markdown: kramdown
 collections:
   poems:
     output: true
     permalink: /poems/:name/
-
+    
+    
