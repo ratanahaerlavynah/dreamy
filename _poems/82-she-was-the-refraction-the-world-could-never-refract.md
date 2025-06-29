@@ -11,7 +11,7 @@ the sacred fracture
 that allowed color to be born.
 
 The kind of beauty
-that refused to settle into one shape ~
+that refused to settle into one shape,
 one hue ~
 one truth.
 
@@ -20,7 +20,7 @@ but because stillness could not contain her.
 
 Even silence
 found itself prismatic in her presence,
-split into unspoken shades
+split into unspoken shades,
 of longing,
 memory,
 and awe.
@@ -30,8 +30,8 @@ she undulated, like something between air and thought,
 never touching the ground,
 yet reshaping it.
 
-She was not a jewel
-but the echo of one
+She was not a jewel,
+but the echo of one...
 that once existed
 in the sky’s first breath.
 
@@ -59,7 +59,7 @@ how to ache beautifully.
 .
 .
 The world could only name her
-in metaphors ~
+in metaphors,
 because reality
 had never birthed
 something so
