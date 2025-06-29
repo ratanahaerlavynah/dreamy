@@ -27,10 +27,11 @@ title: All Poems
 
     <!-- Bouton pour ouvrir la recherche de mots -->
 <button id="word-search-btn" class="word-search-btn" aria-label="Search for words">
-  🔲
+  🔍
 </button>
 
-  >
+
+  
 </div>
   <script>
     document.getElementById('poem-search').addEventListener('input', function() {
@@ -50,7 +51,6 @@ title: All Poems
     {% endfor %}
   </ul>
 </div>
-
 <!-- Modal de recherche de mots -->
 <div id="word-search-modal" class="modal">
   <div class="modal-content">
@@ -60,4 +60,7 @@ title: All Poems
     <div id="word-search-results"></div>
   </div>
 </div>
+
+<script src="/assets/js/poems-data.js"></script>
+<script src="/assets/js/word-search.js"></script>
 

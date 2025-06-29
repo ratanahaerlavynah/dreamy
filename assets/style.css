@@ -454,6 +454,107 @@ img, pre, code, table {
   box-shadow: 0 0 8px rgba(255,105,180,0.3);
 }
 
-.modal { display: none; /* … */ }
-.modal.show { display: flex; /* … */ }
-/* et tout le reste du style du modal et du bouton word-search-btn */
+/* Bouton pop-up rose délicat */
+.word-search-btn {
+  position: fixed;
+  top: 1.2rem;
+  right: 1.2rem;
+  background: #ffe4f0;       /* rose pastel doux */
+  color: #d6336c;            /* rose profond pour l’icône 🔲 */
+  border: 2px solid #ffc0cb; /* encadrement fin rosé */
+  padding: 0.5em 0.6em;
+  border-radius: 50%;        /* rond */
+  font-size: 1.2em;
+  box-shadow: 0 2px 6px rgba(214,51,108,0.3);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.word-search-btn:hover {
+  background: #ffc0cb;
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(214,51,108,0.4);
+}
+/* Fond semi-transparent qui voile le reste */
+.modal {
+  display: none;
+  position: fixed; top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(255,255,255,0.8); 
+  backdrop-filter: blur(4px);
+  justify-content: center; align-items: center;
+  z-index: 2000;
+}
+.modal.show { display: flex; }
+
+/* Fenêtre centrale toute en rondeur */
+.modal-content {
+  background: #fff0f6;
+  border: 2px solid #ffc0cb;
+  border-radius: 16px;
+  padding: 1.5em 2em;
+  box-shadow: 0 8px 20px rgba(214,51,108,0.2);
+  max-width: 90%; width: 320px;
+  text-align: center;
+  position: relative;
+}
+
+/* Croisillon de fermeture */
+.modal-close {
+  position: absolute;
+  top: 0.5em; right: 0.8em;
+  font-size: 1.2em;
+  cursor: pointer;
+  color: #d6336c;
+}
+
+/* Champ de saisie rose et arrondi */
+#word-search-input {
+  width: 100%;
+  padding: 0.6em;
+  border: 1px solid #ffc0cb;
+  border-radius: 12px;
+  margin: 1em 0;
+  font-size: 1em;
+  outline: none;
+}
+
+/* Résultats joliment listés */
+#word-search-results {
+  max-height: 180px; overflow-y: auto;
+  text-align: left;
+}
+#word-search-results p {
+  margin: 0.4em 0;
+  font-size: 0.9em;
+  color: #d6336c;
+}
+
+.word-search-btn {
+  /* Dimensions carrées pour un cercle parfait */
+  width: 2.5em;
+  height: 2.5em;
+  padding: 0;
+
+  /* Rond à 50% */
+  border-radius: 50%;
+
+  /* Centrage de l’emoji à l’intérieur */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  /* Couleurs et ombres */
+  background: #ffe4f0;
+  color: #d6336c;
+  border: 2px solid #ffc0cb;
+  font-size: 1.2em;
+  box-shadow: 0 2px 6px rgba(214,51,108,0.3);
+
+  /* Interaction */
+  transition: all 0.2s ease;
+}
+.word-search-btn:hover {
+  background: #ffc0cb;
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(214,51,108,0.4);
+}
