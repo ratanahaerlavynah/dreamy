@@ -37,21 +37,6 @@ title: All Poems
     });
   </script>
 
-  <!-- 🌸 List of poems, sorted by order -->
-  <!-- Ensure each poem has an 'order' field in its front matter -->
-  <!-- Example: order: 1, order: 2, etc. -->
-  <!-- This will sort them numerically based on the 'order' field -->
-  {% comment %}
-  Ensure each poem has an 'order' field in its front matter.
-  Example: order: 1, order: 2, etc.
-  This will sort them numerically based on the 'order' field.
-  {% endcomment %}
-  {% comment %}
-
-
-
-
-
   {% assign sorted_poems = site.poems | sort: "order" %}
   <ul class="poem-list">
     {% for poem in sorted_poems %}
