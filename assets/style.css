@@ -89,14 +89,19 @@ body {
 .poem-link:hover { text-decoration: underline; }
 
 /* ===== Poem Page Title ===== */
+/* >>> en bas de style.css */
 .poem-title {
   font-family: 'Italianno', cursive;
-  font-size: 2.9rem;
-  font-weight: 100;
-  text-align: left;
+  font-size: 2.8rem;
   color: #f48abf;
-  margin: 1.8rem 0 rem 1.5rem;
+  margin: 1.8rem 0 1.5rem;
+
+  /* nos nouvelles lignes : */
+  font-weight: 100 !important;
+  letter-spacing: -0.03em !important;
+  font-stretch: condensed !important;
 }
+
 @media (max-width: 600px) {
   .poem-title { text-align: center; margin: 2rem 0 1rem; font-size: 2rem; }
 }
