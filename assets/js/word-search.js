@@ -1,39 +1,49 @@
-// Récupérer les éléments
-const btn = document.getElementById('word-search-btn');
-const modal = document.getElementById('word-search-modal');
-const close = document.getElementById('modal-close');
+// assets/js/word-search.js
 
-// Ouvrir / fermer la fenêtre
-btn.addEventListener('click', () => modal.classList.toggle('show'));
-close.addEventListener('click', () => modal.classList.remove('show'));
-close.addEventListener('touchend', (e) => {
+// grab elements
+const btn       = document.getElementById('word-search-btn');
+const modal     = document.getElementById('word-search-modal');
+const closeBtn  = document.getElementById('modal-close');
+const input     = document.getElementById('word-search-input');
+const results   = document.getElementById('word-search-results');
+
+// open/close handlers
+btn.addEventListener('click', () => {
+  modal.classList.add('show');
+  input.focus();
+});
+closeBtn.addEventListener('click', () => {
+  modal.classList.remove('show');
+});
+closeBtn.addEventListener('touchend', e => {
   e.preventDefault();
   modal.classList.remove('show');
 });
 
-// Compter en direct
-const input = document.getElementById('word-search-input');
-const results = document.getElementById('word-search-results');
-
+// live count as user types
 input.addEventListener('input', () => {
   const term = input.value.toLowerCase().trim();
   const counts = {};
+
   if (term) {
     poemsIndex.forEach(p => {
       const words = p.content.match(/\b\w+\b/g) || [];
       words.forEach(w => {
-const lw = w.toLowerCase();
-  if (lw.startsWith(term))     
-    counts[lw] = (counts[lw] || 0) + 1;      });
+        const lw = w.toLowerCase();
+        if (lw.startsWith(term)) {
+          counts[lw] = (counts[lw] || 0) + 1;
+        }
+      });
     });
   }
-  // Afficher
+
+  // render
   results.innerHTML = '';
   Object.entries(counts)
-    .sort((a,b)=>b[1]-a[1])
-    .forEach(([w,c])=>{
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([word, count]) => {
       const p = document.createElement('p');
-      p.textContent = `${w} 💕 ${c} mention${c>1?'s':''}`;
+      p.textContent = `${word} 💕 ${count} mention${count > 1 ? 's' : ''}`;
       results.appendChild(p);
     });
 });

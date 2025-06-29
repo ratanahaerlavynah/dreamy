@@ -7,11 +7,13 @@ title: All Poems
   <h2 class="poem-list-title">All poems 🌸</h2>
 
   <!-- 🌸 Banner specific to this page -->
-  <img src="{{ '/assets/img/Douceur dans les nuages pastel.png' | relative_url }}"
-       alt="Blossoms framing the poetry"
-       class="banner-img banner-poems" 
-       loading="eager"
-       width="1024" height="400" />
+  <img
+    src="{{ '/assets/img/Douceur dans les nuages pastel.png' | relative_url }}"
+    alt="Blossoms framing the poetry"
+    class="banner-img banner-poems"
+    loading="eager"
+    width="1024" height="400"
+  />
 
   <!-- 🌸 OPTIONAL gallery (delete if you don’t need it) -->
   <section class="picture-gallery">
@@ -26,7 +28,9 @@ title: All Poems
       id="poem-search"
       placeholder="🔍 Search a title…"
       aria-label="Search poems"
-    >
+    />
+
+    <!-- "🔍" circular button next to title search -->
     <button
       id="word-search-btn"
       class="word-search-btn"
@@ -34,9 +38,11 @@ title: All Poems
     >
       🔍
     </button>
+
+    <!-- word-search modal -->
     <div class="modal" id="word-search-modal">
       <div class="modal-content">
-        <!-- Close button inside modal-content -->
+        <!-- close button inside -->
         <button class="modal-close" id="modal-close">✕</button>
 
         <h2>Search for words</h2>
@@ -45,8 +51,7 @@ title: All Poems
           id="word-search-input"
           placeholder="Type a word…"
           aria-label="Search for words"
-          loading="lazy"
-        >
+        />
         <div id="word-search-results"></div>
       </div>
     </div>
@@ -55,23 +60,23 @@ title: All Poems
   <script>
     document.getElementById('poem-search').addEventListener('input', function() {
       const searchTerm = this.value.toLowerCase();
-      const poemLinks = document.querySelectorAll('.poem-link');
-      poemLinks.forEach(link => {
-        const title = link.textContent.toLowerCase();
-        link.style.display = title.includes(searchTerm) ? 'block' : 'none';
+      document.querySelectorAll('.poem-link').forEach(link => {
+        link.style.display =
+          link.textContent.toLowerCase().includes(searchTerm)
+            ? 'block'
+            : 'none';
       });
     });
   </script>
 
-  {% assign sorted_poems = site.poems | sort: "order" %}
+  {% assign sorted_poems = site.poems | sort: 'order' %}
   <ul class="poem-list">
     {% for poem in sorted_poems %}
-      <li>
-        <a class="poem-link" href="{{ poem.url }}">{{ poem.title }}</a>
-      </li>
+      <li><a class="poem-link" href="{{ poem.url }}">{{ poem.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
 
-<script src="{{ '/assets/js/poems-data.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/word-search.js' | relative_url }}"></script>
+<!-- defer your heavy scripts -->
+<script defer src="{{ '/assets/js/poems-data.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/word-search.js' | relative_url }}"></script>

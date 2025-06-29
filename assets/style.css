@@ -1,15 +1,13 @@
-/* ===== Corps global ===== */
-.site-body {
+/* ===== Global Body ===== */
+body {
   margin: 0;
   padding: 0;
-  font-family: 'Courier New', monospace;
-  font-size: 0.9rem;
-  line-height: 1.6;
+  font: 0.9rem/1.6 'Courier New', monospace;
   color: #222;
-  background-color: #fff;
+  background: #fff;
 }
 
-/* ===== Container central ===== */
+/* ===== Container ===== */
 .site-container {
   max-width: 800px;
   margin: 0 auto;
@@ -20,68 +18,32 @@
 /* ===== Header ===== */
 .site-header {
   text-align: center;
-  margin-bottom: 2rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  margin: 0 0 2rem;
+  padding: 1rem 0;
 }
 
-
-@keyframes glow-pulse {
-  0%, 100% {
-    text-shadow:
-      0 0 6px rgba(255, 215, 0, 0.6),
-      0 0 10px rgba(255, 140, 203, 0.4);
-  }
-  50% {
-    text-shadow:
-      0 0 12px rgba(255, 215, 0, 0.8),
-      0 0 20px rgba(255, 140, 203, 0.7);
-  }
-}
-#site-title {
-  /* ... les autres règles ... */
-  animation: glow-pulse 2.5s ease-in-out infinite;
-}
-
-
-/* Titre du site en gradient rose et scintillement léger */
+/* ===== Site Title ===== */
 #site-title {
   font-family: 'Italianno', cursive;
-  /* Taille fluide : min 3rem, fluide, max 6rem */
   font-size: clamp(3rem, 8vw, 6rem);
   font-weight: 200;
-  margin: 1rem 0 0.5rem 0;
-  text-align: center;
-
-  /* Gradient du rose foncé vers rose plus clair */
+  margin: 1rem 0 0.5rem;
   background: linear-gradient(90deg, #f48abf, #ffc0e8);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-
-  /* Glow très léger en rose */
-  text-shadow:
-    0 0 4px rgba(244, 138, 191, 0.6),
-    0 0 6px rgba(255, 192, 203, 0.4);
-  /* Animation facultative pour un scintillement discret */
   animation: site-title-glow 3s ease-in-out infinite;
 }
-
-/* Animation de scintillement discret */
 @keyframes site-title-glow {
-  0%, 100% {
-    text-shadow:
-      0 0 3px rgba(244, 138, 191, 0.5),
-      0 0 5px rgba(255, 192, 203, 0.3);
+  0%,100% {
+    text-shadow: 0 0 3px rgba(244,138,191,0.5), 0 0 5px rgba(255,192,203,0.3);
   }
   50% {
-    text-shadow:
-      0 0 6px rgba(244, 138, 191, 0.7),
-      0 0 8px rgba(255, 192, 203, 0.5);
+    text-shadow: 0 0 6px rgba(244,138,191,0.7), 0 0 8px rgba(255,192,203,0.5);
   }
 }
 
-/* ===== Navigation principale ===== */
+/* ===== Navigation ===== */
 .site-nav {
   display: flex;
   flex-wrap: wrap;
@@ -95,21 +57,13 @@
   color: #333;
   padding: 0.5rem 1rem;
 }
-.site-nav a:hover {
-  text-decoration: underline;
-}
+.site-nav a:hover { text-decoration: underline; }
 @media (max-width: 480px) {
-  .site-nav {
-    flex-direction: column;
-    align-items: center;
-  }
-  .site-nav a {
-    padding: 0.4rem 0.8rem;
-    font-size: 0.9rem;
-  }
+  .site-nav { flex-direction: column; }
+  .site-nav a { padding: 0.4rem 0.8rem; font-size: 0.9rem; }
 }
 
-/* ===== Pages de liste de poèmes ===== */
+/* ===== Poem List ===== */
 .poem-list-title {
   font-family: 'Italianno', cursive;
   color: #f48abf;
@@ -117,505 +71,193 @@
   text-align: center;
   margin-bottom: 2rem;
 }
-.poem-list {
-  list-style: none;
-  padding-left: 0;
-  text-align: center;
-}
-.poem-list li {
-  margin: 0.8rem 0;
-}
+.poem-list { list-style: none; padding: 0; text-align: center; }
+.poem-list li { margin: 0.8rem 0; }
 .poem-link {
   font-family: 'Italianno', cursive;
   color: #f48abf;
   font-size: 2rem;
   text-decoration: none;
 }
-.poem-link:hover {
-  text-decoration: underline;
-}
+.poem-link:hover { text-decoration: underline; }
 
-/* ===== Titre de page de poème ===== */
+/* ===== Poem Page Title ===== */
 .poem-title {
   font-family: 'Italianno', cursive;
   font-size: 2.8rem;
-  font-weight: 300;
   color: #f48abf;
-  text-align: left;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 2rem 0 1rem 2rem;
 }
 @media (max-width: 600px) {
-  .poem-title {
-    text-align: center;
-    margin-left: 0;
-    font-size: 2rem;
-  }
+  .poem-title { text-align: center; margin: 2rem 0 1rem; font-size: 2rem; }
 }
 
-/* ════════════════════════════════════════════
-   Navigation précédent / suivant (poèmes)
-   ════════════════════════════════════════════ */
-
-/* ── Lien précédent (au-dessus du titre, aligné à gauche) ── */
-.poem-nav-top {
-  text-align: left;
-  /* 0.125rem above, 0.125rem below */
-  margin: 0.125rem 0 0.125rem !important;
+/* ===== Prev/Next Navigation ===== */
+.poem-nav-top, .poem-nav-bottom {
+  margin: 0; display: flex; justify-content: space-between;
 }
-
-
-.poem-nav-top .poem-nav-prev {
+.poem-nav-top { margin-bottom: .5rem; }
+.poem-nav-bottom { margin-top: 1.5rem; }
+.poem-nav-prev, .poem-nav-next {
   font-family: 'Italianno', cursive;
   font-size: 1.5rem;
   color: #f48abf;
   text-decoration: none;
 }
-.poem-nav-top .poem-nav-prev:hover {
-  text-decoration: underline;
-}
-
-/* Remove the default top margin on the title so it sits snug under the nav */
-h2.poem-title {
-  margin-top: 0;
-  margin-bottom: 1rem;  /* adjust bottom gap as needed */
-}
-
-/* ── Lien suivant (sous le poème, aligné à droite) ── */
-.poem-nav-bottom {
-  text-align: right;
-  margin: 1.5rem 0 2rem;
-}
-.poem-nav-bottom .poem-nav-next {
-  font-family: 'Italianno', cursive;
-  font-size: 1.5rem;
-  color: #f48abf;
-  text-decoration: none;
-}
-.poem-nav-bottom .poem-nav-next:hover {
-  text-decoration: underline;
-}
-
-/* ── Centre both navs on mobile ── */
+.poem-nav-prev:hover, .poem-nav-next:hover { text-decoration: underline; }
 @media (max-width: 600px) {
-  .poem-nav-top,
-  .poem-nav-bottom {
-    text-align: center;
-  }
+  .poem-nav-top, .poem-nav-bottom { justify-content: center; }
 }
 
-/* ── Avoid horizontal scroll in code/pre/etc. ── */
-pre, code, table, blockquote, img {
-  max-width: 100%;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  overflow-x: hidden;
+/* ===== Images & Media ===== */
+img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
+
+/* Banner Component */
+.banner-img {
+  --w: 600px; --scale: 1; --max: 95vw;
+  width: calc(var(--w) * var(--scale));
+  max-width: var(--max);
+  height: auto;
+  margin: 2rem auto;
+  border-radius: .5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
+.banner-poems {
+  /* Center banner image */
+  display: block;
+  margin: 2rem auto;
+  object-fit: cover;
+} object-fit: cover; }
 
-/* ───────────────────────────────────────────────────── */
-/* FORCE tight prev-link/title spacing for poems pages */
-/* ───────────────────────────────────────────────────── */
-
-nav.poem-nav-top {
-  margin-top:    0   !important; /* zero-out any top gap */
-  margin-bottom: 0   !important; /* zero-out bottom gap */
+/* ===== Picture Gallery ===== */
+.picture-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+  gap: 1.25rem;
+  margin: 3rem auto;
+  max-width: 1200px;
+  padding: 0 1.25rem;
 }
-
-h2.poem-title {
-  margin-top:    0   !important; /* sit flush under nav */
-  margin-bottom: 0.5rem !important; /* small breathing room */
+.picture-gallery img {
+  width: 100%; height: auto;
+  object-fit: cover;
+  border-radius: .5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  transition: transform .3s ease;
 }
+.picture-gallery img:hover { transform: scale(1.04); }
 
+/* ===== Search & Modal ===== */
+.search-container { text-align: center; margin: 2em 0; }
+#poem-search {
+  width: 80%; max-width: 360px;
+  padding: .6em 1em;
+  font: 1em inherit;
+  border: 1px solid #ffc0cb;
+  border-radius: 24px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: box-shadow .2s, border-color .2s;
+}
+#poem-search:focus { border-color: #ff69b4; box-shadow: 0 0 8px rgba(255,105,180,0.3); }
+#poem-search::placeholder { color: #ffb6c1; font-style: italic; }
 
+.word-search-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  background: #ffe4f0; color: #d6336c;
+  border: 2px solid #ffc0cb; border-radius: 50px;
+  padding: .5em 1em; font-size: .9em;
+  box-shadow: 0 2px 6px rgba(214,51,108,0.3);
+  cursor: pointer; transition: all .2s;
+  margin-left: .5em;
+}
+.word-search-btn:hover { transform: scale(1.05); }
+
+.modal {
+  display: none; position: fixed; inset: 0;
+  background: rgba(255,255,255,0.8); backdrop-filter: blur(4px);
+  justify-content: center; align-items: center; z-index: 2000;
+}
+.modal.show { display: flex; }
+.modal-content {
+  background: #fff0f6; border: 2px solid #ffc0cb;
+  border-radius: 16px; padding: 1.5em 2em;
+  box-shadow: 0 8px 20px rgba(214,51,108,0.2);
+  max-width: 90%; width: 320px; text-align: center;
+}
+.modal-close {
+  position: absolute; top: .5rem; right: .5rem;
+  width: 1.5rem; height: 1.5rem; padding:0;
+  border:none; border-radius:50%;
+  background:#ffc0cb; color:#d6336c;
+  font-size:1rem; cursor:pointer;
+}
+.modal-close:hover { background:#ffe4e9; }
+
+@media (max-width:768px) {
+  .banner-img.banner-poems { width:100%; height:auto; object-fit:cover; }
+}
 
 /* ===== Footer ===== */
 .site-footer {
-  text-align: center;
-  margin-top: 3rem;
-  padding-top: 1rem;
-  border-top: 1px solid #ddd;
+  text-align:center;
+  margin-top:3rem; padding-top:1rem;
+  border-top:1px solid #ddd;
 }
-.footer-connect {
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
-}
-.footer-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-  font-size: 1rem;
-  margin-bottom: 1rem;
-}
-.footer-links a {
-  text-decoration: none;
-  color: #333;
-}
-.footer-links a:hover {
-  text-decoration: underline;
-}
-.footer-copy {
-  font-size: 0.9rem;
-  color: #999;
-  margin: 0;
+.footer-connect { font-size:1.1rem; margin-bottom:.5rem; }
+.footer-links { display:flex; flex-wrap:wrap; justify-content:center; gap:1rem; }
+.footer-links a { text-decoration:none; color:#333; }
+.footer-links a:hover { text-decoration:underline; }
+.footer-copy { font-size:.9rem; color:#999; margin:0; }
+
+/* ===== Print Styles ===== */
+@media print {
+  body * { visibility: hidden; }
+  .poem-content, .poem-title, .poem-footer-print { visibility: visible; }
+  .poem-title { color:#ff69b4 !important; font-style:italic !important; }
+  .poem-content { font-family:inherit; line-height:1.6; margin:0 1em; }
+  .poem-footer-print { margin-top:2em; font-size:.8em; text-align:center; color:#555; }
 }
 
-/* ===== Images, code, tableaux ===== */
-img, pre, code, table {
-  max-width: 100%;
-  overflow-x: auto;
-
-}
+/* ===== Home Page Titles ===== */
 .home-title {
-  font-family: 'Italianno', cursive;
-  font-size: clamp(2rem, 6vw, 4rem);
-  font-weight: 200;
+  font-family:'Italianno',cursive;
+  font-size:clamp(2rem,6vw,4rem);
+  font-weight:200;
+  margin:1rem 0;
+  /* center the subtitle text */
   text-align: center;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-
-  /* Gradient rose */
-  background: linear-gradient(90deg, #f48abf, #ffc0e8);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-
-  /* Glow modéré */
-  text-shadow:
-    0 0 5px rgba(255, 255, 255, 0.6),
-    0 0 8px rgb(255, 255, 255);
-  animation: home-title-glow 0.9s ease-in-out infinite;
+  background:linear-gradient(90deg,#f48abf,#ffc0e8);
+  -webkit-background-clip:text;
+  background-clip:text;
+  -webkit-text-fill-color:transparent;
+  animation:home-title-glow .9s ease-in-out infinite;
 }
-
 @keyframes home-title-glow {
-  0%, 100% {
-    text-shadow:
-      0 0 4px rgba(244, 138, 191, 0.5),
-      0 0 6px rgba(255, 192, 203, 0.4);
-  }
-  50% {
-    text-shadow:
-      0 0 8px rgba(244, 138, 191, 0.7),
-      0 0 12px rgba(255, 192, 203, 0.6);
-  }
+  0%,100% { text-shadow:0 0 4px rgba(244,138,191,0.5),0 0 6px rgba(255,192,203,0.4); }
+  50%  { text-shadow:0 0 8px rgba(244,138,191,0.7),0 0 12px rgba(255,192,203,0.6); }
 }
-
 .home-subtitle {
-  font-family: monospace; /* ou laisse sans font-family pour hériter */
+  display: block;
+  width: 100%;
+  margin: 0 auto 2rem;
+  font-family: inherit;
   font-size: 1rem;
   text-align: center;
-  margin-bottom: 2rem;
-  /* Option 1 : gradient rose similaire */
   background: linear-gradient(90deg, #f48abf, #ffd0ee);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-
-  /* Glow un peu plus prononcé que le titre */
-  text-shadow:
-    0 0 6px rgba(244, 138, 191, 0.7),
-    0 0 10px rgba(255, 192, 203, 0.6);
-  /* Animation plus marquée */
   animation: subtitle-glow 2.5s ease-in-out infinite;
 }
-
 @keyframes subtitle-glow {
-  0%, 100% {
-    text-shadow:
-      0 0 4px rgba(244, 138, 191, 0.6),
-      0 0 8px rgba(255, 192, 203, 0.4);
-  }
-  50% {
-    text-shadow:
-      0 0 8px rgba(244, 138, 191, 0.8),
-      0 0 14px rgba(255, 192, 203, 0.6);
-  }
+  0%,100% { text-shadow:0 0 4px rgba(244,138,191,0.6),0 0 8px rgba(255,192,203,0.4); }
+  50%  { text-shadow:0 0 8px rgba(244,138,191,0.8),0 0 14px rgba(255,192,203,0.6); }
 }
-
-
-/* =========================================================
-   🌸 Universal banner component (use on any page)
-   ========================================================= */
-
-/* Base look shared by all banners */
-.banner-img {
-  /* 🎛—main dials you can override—🎛 */
-  --w: 600px;    /* preferred natural width                */
-  --scale: 1;    /* 0.5 = half size · 2 = double size      */
-  --max: 95vw;   /* never exceed this % of the viewport    */
-
-  width: calc(var(--w) * var(--scale));
-  max-width: var(--max);
-  height: auto;
-  display: block;
-  margin: 2rem auto;          /* centers & adds breathing room */
-  border-radius: 0.5rem;      /* soft corners                  */
-  box-shadow: 0 4px 12px rgb(0 0 0 / 0.12);
-}
-
-/* Quick helpers you can stack in HTML */
-.banner-small { --scale: .6; }   /* 60 % of base width */
-.banner-large { --scale: 1.4; }  /* 140 % of base width */
-
-/* Page-specific presets (override only what differs) */
-.banner-poems {
-  width: 600px;
-  height: 300px;      /* whatever you like */
-  object-fit: cover;  /* or contain */
-}
+/* Center homepage banner */
 .banner-home {
-  --w: 240px;      /* preferred natural width */
-  --max: 90vw;     /* never exceed 90% of viewport */
-}
-/* =========================================================
-   🌸 Responsive picture gallery (drop anywhere)
-   ========================================================= */
-.picture-gallery {
-  --gap: 1.25rem;
-
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: var(--gap);
-  margin: 3rem auto;
-  max-width: 1200px;     /* overall cap */
-  padding: 0 var(--gap);
-}
-
-.picture-gallery img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;         /* graceful crop if sizes differ */
-  border-radius: 0.5rem;
-  box-shadow: 0 4px 12px rgb(0 0 0 / 0.12);
-  transition: transform 0.3s ease;
-}
-
-.picture-gallery img:hover {
-  transform: scale(1.04);
-}
-@media print {
-  /* Masquer tout sauf le poème et ses sources */
-  body * { visibility: hidden; }
-  .poem-content, .poem-title, .poem-footer-print { visibility: visible; }
-
-  /* Conserver l’italique rose slim pour le titre */
-  .poem-title {
-    color: #ff69b4 !important;
-    font-style: italic !important;
-    font-size: 1.4em;
-  }
-
-  /* Corps du poème : même police, même interligne */
-  .poem-content {
-    font-family: inherit;
-    line-height: 1.6;
-    margin: 0 1em;
-  }
-
-  /* Footer imprimé avec tes sources et copyright */
-  .poem-footer-print {
-    margin-top: 2em;
-    font-size: 0.8em;
-    text-align: center;
-    color: #555;
-  }
-
-  /* Supprimer navigation et autres éléments */
-  nav, .pagination, header, footer, .search-container {
-    display: none !important;
-  }
-}
-.search-container {
-  text-align: center;
-  margin: 2em 0;
-}
-
-#poem-search {
-  width: 80%;
-  max-width: 360px;
-  padding: 0.6em 1em;
-  font-size: 1em;
-  border: 1px solid #ffc0cb;
-  border-radius: 24px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  outline: none;
-  transition: box-shadow 0.2s ease, border-color 0.2s ease;
-}
-
-#poem-search::placeholder {
-  color: #ffb6c1;
-  font-style: italic;
-}
-
-#poem-search:focus {
-  border-color: #ff69b4;
-  box-shadow: 0 0 8px rgba(255,105,180,0.3);
-}
-
-/* Bouton pop-up rose délicat */
-.word-search-btn {
-  position: fixed;
-  top: 1.2rem;
-  right: 1.2rem;
-  background: #ffe4f0;       /* rose pastel doux */
-  color: #d6336c;            /* rose profond pour l’icône 🔲 */
-  border: 2px solid #ffc0cb; /* encadrement fin rosé */
-  padding: 0.5em 0.6em;
-  border-radius: 50%;        /* rond */
-  font-size: 1.2em;
-  box-shadow: 0 2px 6px rgba(214,51,108,0.3);
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-.word-search-btn:hover {
-  background: #ffc0cb;
-  transform: scale(1.1);
-  box-shadow: 0 4px 12px rgba(214,51,108,0.4);
-}
-/* Fond semi-transparent qui voile le reste */
-.modal {
-  display: none;
-  position: fixed; top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(255,255,255,0.8); 
-  backdrop-filter: blur(4px);
-  justify-content: center; align-items: center;
-  z-index: 2000;
-}
-.modal.show { display: flex; }
-
-/* Fenêtre centrale toute en rondeur */
-.modal-content {
-  background: #fff0f6;
-  border: 2px solid #ffc0cb;
-  border-radius: 16px;
-  padding: 1.5em 2em;
-  box-shadow: 0 8px 20px rgba(214,51,108,0.2);
-  max-width: 90%; width: 320px;
-  text-align: center;
-  position: relative;
-}
-
-/* Croisillon de fermeture */
-.modal-close {
-  position: absolute;
-  top: 0.5em; right: 0.8em;
-  font-size: 1.2em;
-  cursor: pointer;
-  color: #d6336c;
-}
-
-/* Champ de saisie rose et arrondi */
-#word-search-input {
-  width: 100%;
-  padding: 0.6em;
-  border: 1px solid #ffc0cb;
-  border-radius: 12px;
-  margin: 1em 0;
-  font-size: 1em;
-  outline: none;
-}
-
-/* Résultats joliment listés */
-#word-search-results {
-  max-height: 180px; overflow-y: auto;
-  text-align: left;
-}
-#word-search-results p {
-  margin: 0.4em 0;
-  font-size: 0.9em;
-  color: #d6336c;
-}
-
-.word-search-btn {
-  /* Dimensions carrées pour un cercle parfait */
-  width: 2.5em;
-  height: 2.5em;
-  padding: 0;
-
-  /* Rond à 50% */
-  border-radius: 50%;
-
-  /* Centrage de l’emoji à l’intérieur */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  /* Couleurs et ombres */
-  background: #ffe4f0;
-  color: #d6336c;
-  border: 2px solid #ffc0cb;
-  font-size: 1.2em;
-  box-shadow: 0 2px 6px rgba(214,51,108,0.3);
-
-  /* Interaction */
-  transition: all 0.2s ease;
-}
-.word-search-btn:hover {
-  background: #ffc0cb;
-  transform: scale(1.1);
-  box-shadow: 0 4px 12px rgba(214,51,108,0.4);
-}
-/* Bouton “mention” inline, pas fixe */
-.word-search-btn {
-  position: static !important;     /* Override fixed/sticky */
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: #ffe4f0;
-  color: #d6336c;
-  border: 2px solid #ffc0cb;
-  border-radius: 50px;
-  padding: 0.5em 1em;
-  font-size: 0.9em;
-  box-shadow: 0 2px 6px rgba(214,51,108,0.3);
-  cursor: pointer;
-  transition: all 0.2s ease;
-  margin-left: 0.5em;              /* Space from input */
-  top: auto;                       /* Cancel any top positioning */
-  right: auto;                     /* Cancel any right positioning */
-}
-
-/* Hover effect */
-.word-search-btn:hover {
-  background: #ffc0cb;
-  transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(214,51,108,0.4);
-}
-
-/* Petite croix ronde, rose-rouge, positionnée en haut à droite */
-.modal-close {
-  position: absolute;
-  top: 0.5rem;
-  right: 0.5rem;
-  width: 1.5rem;
-  height: 1.5rem;
-  padding: 0;
-  border: none;
-  border-radius: 50%;
-  background-color: #ffc0cb;    /* rose très clair */
-  color: #d6336c;               /* rouge-rose plus soutenu */
-  font-size: 1rem;
-  line-height: 1.5rem;
-  text-align: center;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(214,51,108,0.4);
-}
-
-/* Effet au survol */
-.modal-close:hover {
-  background-color: #ffe4e9;
-  color: #b32a53;
-}
-
-
-@media (max-width: 768px) {
-  .banner-img.banner-poems {
-    width: 100%;        /* pleine largeur */
-    height: auto;       /* hauteur auto pour garder les proportions */
-    object-fit: cover;  /* si tu fixes une hauteur, cover remplit sans déformer */
-    display: block;     /* évite les marges blanches autour */
-  }
+  display: block;
+  margin: 2rem auto;
+  object-fit: cover;
+  width: 400px;
+  height: 500px;
 }
