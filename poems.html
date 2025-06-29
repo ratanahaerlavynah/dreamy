@@ -18,21 +18,22 @@ title: All Poems
     <!-- <img src="{{ '/assets/img/extra-photo-2.jpg' | relative_url }}" alt=""> -->
   </section>
 
-  <div class="search-container">
+<div class="search-container">
   <input
     type="text"
     id="poem-search"
-    placeholder="🔍 Search a title..."
+    placeholder="🔍 Search a title…"
     aria-label="Search poems"
-
-    <!-- Bouton pour ouvrir la recherche de mots -->
-<button id="word-search-btn" class="word-search-btn" aria-label="Search for words">
-  🔍
-</button>
-
-
-  
+  >
+  <button
+    id="word-search-btn"
+    class="word-search-btn"
+    aria-label="Search mentions"
+  >
+    🔍
+  </button>
 </div>
+
   <script>
     document.getElementById('poem-search').addEventListener('input', function() {
       const searchTerm = this.value.toLowerCase();
