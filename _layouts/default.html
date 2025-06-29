@@ -2,12 +2,28 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ page.title }} — Aerlavynah</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
-    <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+    <!-- make sure this is still here: -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <!-- preload your big hero image first -->
+    <link
+      rel="preload"
+      as="image"
+      href="{{ '/assets/img/Douceur dans les nuages pastel.png' | relative_url }}"
+    />
+
+    <!-- **THIS** is your stylesheet link that you must not remove: -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
+
+    <!-- and your web font, too: -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Italianno&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>{{ page.title }} — Aerlavynah</title>
     {% seo %}
+    <!-- …the rest of your head… -->
 
     <script type="application/ld+json">
     {

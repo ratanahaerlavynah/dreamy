@@ -10,46 +10,47 @@ title: All Poems
   <img src="{{ '/assets/img/Douceur dans les nuages pastel.png' | relative_url }}"
        alt="Blossoms framing the poetry"
        class="banner-img banner-poems" 
-       />
+       loading="eager"
+       width="1024" height="400" />
 
   <!-- 🌸 OPTIONAL gallery (delete if you don’t need it) -->
   <section class="picture-gallery">
     <!-- Example extra images; remove or duplicate at will -->
-    <!-- <img src="{{ '/assets/img/extra-photo-1.jpg' | relative_url }}" alt=""> -->
-    <!-- <img src="{{ '/assets/img/extra-photo-2.jpg' | relative_url }}" alt=""> -->
+    <!-- <img src="{{ '/assets/img/extra-photo-1.jpg' | relative_url }}" alt="" loading="lazy" width="400" height="300" /> -->
+    <!-- <img src="{{ '/assets/img/extra-photo-2.jpg' | relative_url }}" alt="" loading="lazy" width="400" height="300" /> -->
   </section>
 
-<div class="search-container">
-  <input
-    type="text"
-    id="poem-search"
-    placeholder="🔍 Search a title…"
-    aria-label="Search poems"
-  >
-  <button
-    id="word-search-btn"
-    class="word-search-btn"
-    aria-label="Search mentions"
-  >
-    🔍
-  </button>
- <div class="modal" id="word-search-modal">
-    <div class="modal-content">
-      <!-- CROIX de fermeture DANS modal-content -->
-      <button class="modal-close" id="modal-close">✕</button>
+  <div class="search-container">
+    <input
+      type="text"
+      id="poem-search"
+      placeholder="🔍 Search a title…"
+      aria-label="Search poems"
+    >
+    <button
+      id="word-search-btn"
+      class="word-search-btn"
+      aria-label="Search mentions"
+    >
+      🔍
+    </button>
+    <div class="modal" id="word-search-modal">
+      <div class="modal-content">
+        <!-- Close button inside modal-content -->
+        <button class="modal-close" id="modal-close">✕</button>
 
-      <h2>Search for words</h2>
-      <input
-        type="text"
-        id="word-search-input"
-        placeholder="Type a word…"
-        aria-label="Search for words"
-      >
-      <div id="word-search-results"></div>
+        <h2>Search for words</h2>
+        <input
+          type="text"
+          id="word-search-input"
+          placeholder="Type a word…"
+          aria-label="Search for words"
+          loading="lazy"
+        >
+        <div id="word-search-results"></div>
+      </div>
     </div>
   </div>
-  <!-- fin du modal -->
-</div>
 
   <script>
     document.getElementById('poem-search').addEventListener('input', function() {
@@ -65,20 +66,12 @@ title: All Poems
   {% assign sorted_poems = site.poems | sort: "order" %}
   <ul class="poem-list">
     {% for poem in sorted_poems %}
-      <li><a class="poem-link" href="{{ poem.url }}">{{ poem.title }}</a></li>
+      <li>
+        <a class="poem-link" href="{{ poem.url }}">{{ poem.title }}</a>
+      </li>
     {% endfor %}
   </ul>
 </div>
-<!-- Modal de recherche de mots -->
-<div id="word-search-modal" class="modal">
-  <div class="modal-content">
-    <span id="modal-close" class="modal-close">&times;</span>
-    <h2>Search for words</h2>
-    <input type="text" id="word-search-input" placeholder="Type a letter…">
-    <div id="word-search-results"></div>
-  </div>
-</div>
 
-<script src="/assets/js/poems-data.js"></script>
-<script src="/assets/js/word-search.js"></script>
-
+<script src="{{ '/assets/js/poems-data.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/word-search.js' | relative_url }}"></script>
