@@ -361,7 +361,7 @@ img, pre, code, table {
 
 /* Page-specific presets (override only what differs) */
 .banner-poems {
-  width: 550px;
+  width: 600px;
   height: 300px;      /* whatever you like */
   object-fit: cover;  /* or contain */
 }
