@@ -30,3 +30,5 @@ collections:
     permalink: /poems/:name/
     
     
+include:
+  - poems.json
