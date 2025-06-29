@@ -158,39 +158,54 @@
    Navigation précédent / suivant (poèmes)
    ════════════════════════════════════════════ */
 
-/* lien précédent – au-dessus du titre, aligné à gauche */
+/* ── Lien précédent (au-dessus du titre, aligné à gauche) ── */
 .poem-nav-top {
   text-align: left;
-  margin: 1rem 0 5rem;
+  /* 0.125rem above, 0.125rem below */
+  margin: 0.125rem 0 0.125rem !important;
 }
-.poem-nav-prev {
+
+
+.poem-nav-top .poem-nav-prev {
   font-family: 'Italianno', cursive;
   font-size: 1.5rem;
   color: #f48abf;
   text-decoration: none;
 }
-.poem-nav-prev:hover { text-decoration: underline; }
+.poem-nav-top .poem-nav-prev:hover {
+  text-decoration: underline;
+}
 
-/* lien suivant – sous le poème, aligné à droite */
+/* Remove the default top margin on the title so it sits snug under the nav */
+h2.poem-title {
+  margin-top: 0;
+  margin-bottom: 1rem;  /* adjust bottom gap as needed */
+}
+
+/* ── Lien suivant (sous le poème, aligné à droite) ── */
 .poem-nav-bottom {
   text-align: right;
   margin: 1.5rem 0 2rem;
 }
-.poem-nav-next {
+.poem-nav-bottom .poem-nav-next {
   font-family: 'Italianno', cursive;
   font-size: 1.5rem;
   color: #f48abf;
   text-decoration: none;
 }
-.poem-nav-next:hover { text-decoration: underline; }
-
-/* centrer sur mobile */
-@media (max-width: 600px) {
-  .poem-nav-top,
-  .poem-nav-bottom { text-align: center; }
+.poem-nav-bottom .poem-nav-next:hover {
+  text-decoration: underline;
 }
 
-/* éviter le débordement horizontal dans <pre> */
+/* ── Centre both navs on mobile ── */
+@media (max-width: 600px) {
+  .poem-nav-top,
+  .poem-nav-bottom {
+    text-align: center;
+  }
+}
+
+/* ── Avoid horizontal scroll in code/pre/etc. ── */
 pre, code, table, blockquote, img {
   max-width: 100%;
   white-space: pre-wrap;
@@ -198,6 +213,21 @@ pre, code, table, blockquote, img {
   overflow-wrap: break-word;
   overflow-x: hidden;
 }
+
+/* ───────────────────────────────────────────────────── */
+/* FORCE tight prev-link/title spacing for poems pages */
+/* ───────────────────────────────────────────────────── */
+
+nav.poem-nav-top {
+  margin-top:    0   !important; /* zero-out any top gap */
+  margin-bottom: 0   !important; /* zero-out bottom gap */
+}
+
+h2.poem-title {
+  margin-top:    0   !important; /* sit flush under nav */
+  margin-bottom: 0.5rem !important; /* small breathing room */
+}
+
 
 
 /* ===== Footer ===== */
@@ -304,6 +334,7 @@ img, pre, code, table {
   }
 }
 
+
 /* =========================================================
    🌸 Universal banner component (use on any page)
    ========================================================= */
@@ -330,12 +361,13 @@ img, pre, code, table {
 
 /* Page-specific presets (override only what differs) */
 .banner-poems {
-  width: 500px;
+  width: 550px;
   height: 300px;      /* whatever you like */
   object-fit: cover;  /* or contain */
 }
-.banner-home  { --w: 820px; }   /* example for the welcome page */
-
+.banner-home {
+  --w: 240px;      /* preferred natural width */
+  --max: 90vw;     /* never exceed 90% of viewport */
 /* =========================================================
    🌸 Responsive picture gallery (drop anywhere)
    ========================================================= */

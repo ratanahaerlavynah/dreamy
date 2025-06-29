@@ -19,13 +19,13 @@ She shimmered, not for attention,
 but because stillness could not contain her.
 
 Even silence
-found itself prismatic in her presence —
+found itself prismatic in her presence,
 split into unspoken shades
 of longing,
 memory,
 and awe.
 
-She did not walk —
+She did not walk,
 she undulated, like something between air and thought,
 never touching the ground,
 yet reshaping it.
@@ -36,7 +36,7 @@ that once existed
 in the sky’s first breath.
 
 When people looked at her,
-they did not see her —
+they did not see her,
 only the parts of themselves
 they had forgotten how to feel.
 
@@ -50,7 +50,7 @@ when faced with her shimmer,
 cracked not from force
 but reverence.
 
-She wasn’t hidden —
+She wasn’t hidden,
 only too luminous
 to be held by anything
 that hadn’t first learned

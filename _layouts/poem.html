@@ -25,14 +25,14 @@ layout: default
 {%- assign prev_poem = poems_sorted[prev_index] -%}
 {%- assign next_poem = poems_sorted[next_index] -%}
 
-{%- comment -%} ─── TOP NAV (left) ───────────────────────── {%- endcomment -%}
 {%- if prev_poem -%}
-  <nav class="poem-nav-top">
+  <nav class="poem-nav-top" style="margin-bottom:0.05rem; margin-top:0.2rem;">
     <a class="poem-nav-prev" href="{{ prev_poem.url | relative_url }}">
       {{ prev_poem.title }}
     </a>
   </nav>
 {%- endif -%}
+
 
 {%- comment -%} ─── Title ────────────────────────────────── {%- endcomment -%}
 <h2 class="poem-title">{{ page.title }}</h2>

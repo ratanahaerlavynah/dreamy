@@ -5,19 +5,19 @@ order: 92
 ---
 
 <pre>
-They made me believe that worth must be earned— through obedience, through pleasing, through silence.
+They made me believe that worth must be earned, through obedience, through pleasing, through silence.
 But I was not born to be palatable. I was born to pulse.
-There were no celebrations when I came into form, only warnings and whispered worries— as if I were already too much to be contained.
+There were no celebrations when I came into form, only warnings and whispered worries, as if I were already too much to be contained.
 I remember… how they looked at me as if I were the mistake in their story. A line that didn’t rhyme. A door that led to an unspeakable room.
 But I was never in their story. I was the one who remembered before remembering had a name.
 I did not owe them a version of me they could bear.
 I did not owe my softness to their healing. Nor my light to their darkness. Nor my survival to their cruelty.
 I owe myself the fullness of this breath. This unpromised hour of being without apology.
-And if I rise again and again— it is not a gift to the world.
+And if I rise again and again, it is not a gift to the world.
 It is my body’s answer to a question they never had the grace to ask.
-They called it strength— but it was never for them.
+They called it strength, but it was never for them.
 It was the rebellion of staying alive in a world that mistook my tenderness for something it could undo.
-And still— I bloomed. Not for them. Never for them.
+And still, I bloomed. Not for them. Never for them.
 But for the girl who once wept without knowing why. For the whisper that curled inside me before I had words.
 For the unspoken that built an entire universe within my breath.
 I never owed them my rebirth.
