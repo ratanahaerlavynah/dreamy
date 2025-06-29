@@ -114,7 +114,7 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
 
 /* Banner Component */
 .banner-img {
-  --w: 600px; --scale: 1; --max: 95vw;
+  --w: 400px; --scale: 1; --max: 95vw;
   width: calc(var(--w) * var(--scale));
   max-width: var(--max);
   height: auto;
@@ -127,7 +127,7 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
   display: block;
   margin: 2rem auto;
   object-fit: cover;
-} object-fit: cover; }
+}
 
 /* ===== Picture Gallery ===== */
 .picture-gallery {
