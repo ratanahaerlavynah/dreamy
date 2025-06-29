@@ -29,6 +29,5 @@ collections:
     output: true
     permalink: /poems/:name/
     
+
     
-include:
-  - poems.json

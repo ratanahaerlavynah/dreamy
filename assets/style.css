@@ -395,3 +395,61 @@ img, pre, code, table {
 .picture-gallery img:hover {
   transform: scale(1.04);
 }
+@media print {
+  /* Masquer tout sauf le poème et ses sources */
+  body * { visibility: hidden; }
+  .poem-content, .poem-title, .poem-footer-print { visibility: visible; }
+
+  /* Conserver l’italique rose slim pour le titre */
+  .poem-title {
+    color: #ff69b4 !important;
+    font-style: italic !important;
+    font-size: 1.4em;
+  }
+
+  /* Corps du poème : même police, même interligne */
+  .poem-content {
+    font-family: inherit;
+    line-height: 1.6;
+    margin: 0 1em;
+  }
+
+  /* Footer imprimé avec tes sources et copyright */
+  .poem-footer-print {
+    margin-top: 2em;
+    font-size: 0.8em;
+    text-align: center;
+    color: #555;
+  }
+
+  /* Supprimer navigation et autres éléments */
+  nav, .pagination, header, footer, .search-container {
+    display: none !important;
+  }
+}
+.search-container {
+  text-align: center;
+  margin: 2em 0;
+}
+
+#poem-search {
+  width: 80%;
+  max-width: 360px;
+  padding: 0.6em 1em;
+  font-size: 1em;
+  border: 1px solid #ffc0cb;
+  border-radius: 24px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  outline: none;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+#poem-search::placeholder {
+  color: #ffb6c1;
+  font-style: italic;
+}
+
+#poem-search:focus {
+  border-color: #ff69b4;
+  box-shadow: 0 0 8px rgba(255,105,180,0.3);
+}
