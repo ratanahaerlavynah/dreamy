@@ -368,6 +368,7 @@ img, pre, code, table {
 .banner-home {
   --w: 240px;      /* preferred natural width */
   --max: 90vw;     /* never exceed 90% of viewport */
+}
 /* =========================================================
    🌸 Responsive picture gallery (drop anywhere)
    ========================================================= */
