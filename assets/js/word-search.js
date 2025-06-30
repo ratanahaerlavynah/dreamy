@@ -1,7 +1,7 @@
 // Load poemsIndex from poems-index.html
 let poemsIndex = [];
 
-fetch('/dreamy/poems-index.html')
+fetch('/poems-index.html')
   .then(res => res.text())
   .then(html => {
     const parser = new DOMParser();
