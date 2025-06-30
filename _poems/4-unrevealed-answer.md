@@ -23,16 +23,19 @@ but dreaming it.
 
 She flows without edge,
 without shore,
-without memory of where the first wave began.
+without memory 
+of where the first wave began.
 And still,
 something moves in her
 like origin.
 
-She is the hush before water breaks the stone,
+She is the hush 
+before water breaks the stone,
 the lull that hums before a planet sings.
 The liquid hush
 between pain
-and the promise of something unspeakably soft.
+and the promise of something...
+unspeakably soft.
 
 Her tides do not obey.
 Not the moon.

@@ -7,10 +7,18 @@ fetch('/poems-index.html')
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, 'text/html');
     const nodes = doc.querySelectorAll('#poems-index .poem');
-    poemsIndex = Array.from(nodes).map(el => ({
-      title: el.dataset.title,
-      content: el.textContent.trim()
-    }));
+    poemsIndex = Array.from(nodes).map(el => {
+      // Insert a space after each block-level child to avoid word merging
+      const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null, false);
+      let content = '';
+      while (walker.nextNode()) {
+        content += walker.currentNode.nodeValue + ' ';
+      }
+      return {
+        title: el.dataset.title,
+        content: content.trim()
+      };
+    });    
   });
 
   // assets/js/word-search.js
@@ -58,8 +66,11 @@ input.addEventListener('input', () => {
     .sort((a, b) => b[1] - a[1])
     .forEach(([word, count]) => {
       const p = document.createElement('p');
-      p.textContent = `${word} 💕 ${count} mention${count > 1 ? 's' : ''}`;
-      results.appendChild(p);
+p.textContent = `${word} 💕 ${count} mention${count > 1 ? 's' : ''}`;
+p.style.margin = '0.25em 0';
+p.style.padding = '0.25em 0';
+p.style.borderBottom = '1px dotted #ffc0cb';
+results.appendChild(p);
     });
 });
 
