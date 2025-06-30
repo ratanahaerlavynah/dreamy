@@ -221,7 +221,7 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
 .footer-links { display:flex; flex-wrap:wrap; justify-content:center; gap:1rem; }
 .footer-links a { text-decoration:none; color:#333; }
 .footer-links a:hover { text-decoration:underline; }
-.footer-copy { font-size:.9rem; color:#999; margin:0; }
+.footer-copy { font-size:.7rem; color:#999; margin:0; }
 
 /* ===== Print Styles ===== */
 @media print {
