@@ -29,7 +29,7 @@ It is a field.
 
 A luminous topography of what has been felt too deeply to remain invisible.
 Each eyelash a history,
-each freckle a flicker from lives she carried through the veil,
+each smile a dewdrop of dawn’s purest hope,
 each line... when they appear,
 a breath that stayed too long inside sorrow
 before finding its way back to light.
