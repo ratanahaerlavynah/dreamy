@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /poems-index.html
+---
+
+<div id="poems-index">
+  {% for poem in site.poems %}
+    <div class="poem" data-title="{{ poem.title | escape }}">
+      {{ poem.content | strip_html | strip_newlines }}
+    </div>
+  {% endfor %}
+</div>

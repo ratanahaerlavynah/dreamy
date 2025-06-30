@@ -1,4 +1,19 @@
-// assets/js/word-search.js
+// Load poemsIndex from poems-index.html
+let poemsIndex = [];
+
+fetch('/dreamy/poems-index.html')
+  .then(res => res.text())
+  .then(html => {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+    const nodes = doc.querySelectorAll('#poems-index .poem');
+    poemsIndex = Array.from(nodes).map(el => ({
+      title: el.dataset.title,
+      content: el.textContent.trim()
+    }));
+  });
+
+  // assets/js/word-search.js
 
 // grab elements
 const btn       = document.getElementById('word-search-btn');
@@ -47,3 +62,4 @@ input.addEventListener('input', () => {
       results.appendChild(p);
     });
 });
+
