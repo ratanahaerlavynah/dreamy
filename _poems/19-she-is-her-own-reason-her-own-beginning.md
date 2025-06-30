@@ -33,8 +33,8 @@ Not from path,
 but from pulse.
 
 She is not an echo.
-She is the first sound
-before sound is even possible.
+She is the first sigh
+of a sky that dreamt of stars.
 She does not follow meaning...
 she generates it,
 like a moon not waiting for sunlight,
