@@ -16,7 +16,7 @@ There were pieces not broken but misplaced ~
 slivers of hush, soft ruins of light still echoing 
 from when her name was never spoken yet always felt.
 The tide never held all of her. 
-ome of her stayed in the folds of winds that wandered without sky, 
+Some of her stayed in the folds of winds that wandered without sky, 
 in the reflections of mirrors that forgot how to return her image.
 She wasn’t lost. 
 
