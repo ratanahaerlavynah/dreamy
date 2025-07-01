@@ -18,7 +18,7 @@ permalink: /poems/3-she-who-sings-beyond-the-wound/
 
 <pre>
 Her silence was never empty.
-It was wovenn
+It was woven
 of forgotten languages,
 of notes that once wept in light.
 
