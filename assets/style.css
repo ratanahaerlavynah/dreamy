@@ -77,6 +77,7 @@ body {
   font-size: 3rem;
   text-align: center;
   margin-bottom: 2rem;
+  
 }
 .poem-list { list-style: none; padding: 0; text-align: center; }
 .poem-list li { margin: 0.8rem 0; }
@@ -88,8 +89,9 @@ body {
 }
 .poem-link:hover { text-decoration: underline; }
 
+
+
 /* ===== Poem Page Title ===== */
-/* >>> en bas de style.css */
 .poem-title {
   font-family: 'Italianno', cursive;
   font-size: 2.8rem;
@@ -100,6 +102,28 @@ body {
   font-weight: 100 !important;
   letter-spacing: -0.03em !important;
   font-stretch: condensed !important;
+  animation: poem-glow 6s ease-in-out infinite, poem-fade 1.2s ease-in forwards;
+text-shadow: 0 0 4px #f8b8d2;
+
+@keyframes poem-glow {
+  0% {
+    text-shadow: 0 0 4px #f8b8d2;
+  }
+  50% {
+    text-shadow: 0 0 10px #ffcce6, 0 0 20px #f48abf;
+  }
+  100% {
+    text-shadow: 0 0 4px #f8b8d2;
+  }
+}
+
+@keyframes poem-fade {
+  to {
+    opacity: 1;
+  }
+}
+
+
 }
 
 @media (max-width: 600px) {
