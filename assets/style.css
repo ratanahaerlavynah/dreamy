@@ -74,11 +74,17 @@ body {
 .poem-list-title {
   font-family: 'Italianno', cursive;
   color: #f48abf;
-  font-size: 3rem;
+  font-size: 3.4rem;
   text-align: center;
   margin-bottom: 2rem;
-  
+  font-weight: 100 !important;
+  letter-spacing: -0.03em !important;
+  font-stretch: condensed !important;
+  animation: poem-glow 6s ease-in-out infinite, poem-fade 1.2s ease-in forwards;
+  text-shadow: 0 0 4px #f8b8d2;
 }
+
+  
 .poem-list { list-style: none; padding: 0; text-align: center; }
 .poem-list li { margin: 0.8rem 0; }
 .poem-link {
@@ -244,6 +250,165 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
 @media (max-width:768px) {
   .banner-img.banner-poems { width:100%; height:auto; object-fit:cover; }
 }
+
+/* 🌙 Dreamy Dark Mode for Search & Modal */
+
+#poem-search,
+#word-search-input {
+  background-color: #1a1a1a;
+  color: #ffe4f0;
+  border: 1px solid #f48abf;
+  box-shadow: 0 2px 8px rgba(255, 182, 217, 0.2);
+}
+
+#poem-search::placeholder,
+#word-search-input::placeholder {
+  color: #ffb6d5;
+  font-style: italic;
+}
+
+/* Modal backdrop darker */
+.modal {
+  background: rgba(15, 10, 20, 0.85);
+  backdrop-filter: blur(6px);
+}
+
+/* Modal content box in dark tone */
+.modal-content {
+  background-color: #2b1e2e;
+  border-color: #f48abf;
+  box-shadow: 0 8px 24px rgba(244, 138, 191, 0.3);
+  color: #ffeef7;
+}
+
+/* Modal title */
+.modal-content h2 {
+  color: #ffb6d5;
+  font-family: 'Italianno', cursive;
+}
+
+/* Modal close button */
+.modal-close {
+  background-color: #f48abf;
+  color: #1a1a1a;
+}
+
+.modal-close:hover {
+  background-color: #ffdaec;
+}
+
+/* Word search button next to title bar */
+.word-search-btn {
+  background-color: #2b1e2e;
+  color: #ffb6d5;
+  border-color: #f48abf;
+  box-shadow: 0 2px 8px rgba(244, 138, 191, 0.3);
+}
+
+.word-search-btn:hover {
+  background-color: #39293f;
+}
+
+/* 🌙 Dark Mode – Title Search Bar */
+#poem-search {
+  background-color: #1a1a1a !important;
+  color: #ffeef7;
+  border: 1px solid #f48abf;
+  box-shadow: 0 2px 6px rgba(255, 182, 217, 0.15);
+}
+#poem-search::placeholder {
+  color: #f8c9df;
+  font-style: italic;
+}
+
+/* 🌙 Dark Mode – Word Search Modal */
+.modal {
+  background-color: rgba(0, 0, 0, 0.7); /* darker blur */
+  backdrop-filter: blur(8px);
+}
+
+/* 🌙 Modal Inner Box */
+.modal-content {
+  background-color: #1e1a24 !important;
+  border: 2px solid #f48abf !important;
+  box-shadow: 0 8px 24px rgba(244, 138, 191, 0.25);
+  color: #ffeef7;
+}
+
+/* 🌙 Modal Title */
+.modal-content h2 {
+  color: #fcbddf;
+}
+
+/* 🌙 Word Input Field in Modal */
+#word-search-input {
+  background-color: #1a1a1a !important;
+  color: #ffeef7;
+  border: 1px solid #f48abf;
+  box-shadow: 0 2px 6px rgba(255, 182, 217, 0.15);
+}
+#word-search-input::placeholder {
+  color: #f3bfd7;
+}
+
+/* 🌙 Close Button */
+.modal-close {
+  background-color: #f48abf;
+  color: #1a1a1a;
+}
+.modal-close:hover {
+  background-color: #ffd6ea;
+}
+
+/* 🌙 Word Results Styling */
+#word-search-results {
+  color: #f9d6ec;
+}
+#word-search-results a {
+  color: #ffe0f5;
+}
+#word-search-results a:hover {
+  color: #ffd0ec;
+}
+/* === DARK MODE for Search & Modal === */
+
+#poem-search,
+#word-search-input {
+  background: #1a1a1a;
+  color: #f5c5dc;
+  border: 1px solid #ff8ecf;
+  box-shadow: 0 0 6px rgba(255, 105, 180, 0.3);
+}
+
+#poem-search::placeholder,
+#word-search-input::placeholder {
+  color: #ce8ab5;
+  font-style: italic;
+}
+
+/* 🔍 Word search modal background (inside popup) */
+.modal-content {
+  background: #1c1c1f !important;
+  border: 2px solid #ff99cc;
+  box-shadow: 0 8px 24px rgba(255, 128, 187, 0.3);
+  color: #f5d0ea;
+}
+
+/* ❌ Close button inside modal */
+.modal-close {
+  background: #ff99cc;
+  color: #2e0e1a;
+}
+.modal-close:hover {
+  background: #ffbedf;
+}
+
+/* ✨ BACKDROP of the modal — REMOVE white & apply darker glow */
+.modal {
+  background: rgba(0, 0, 0, 0.5) !important;
+  backdrop-filter: blur(8px);
+}
+
 
 /* ===== Footer & Page Style (Legal / Privacy) ===== */
 .site-footer {
