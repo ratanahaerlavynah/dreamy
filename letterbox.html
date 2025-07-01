@@ -1,61 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Send a Letter to Dreamy</title>
-  <style>
-    body {
-      font-family: 'Helvetica', sans-serif;
-      background: #fff;
-      color: #222;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      flex-direction: column;
-    }
-
-    form {
-      background: #fef8fc;
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 0 20px rgba(255, 192, 203, 0.3);
-      width: 100%;
-      max-width: 400px;
-    }
-
-    input, textarea {
-      width: 100%;
-      margin-bottom: 1rem;
-      padding: 0.8rem;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-    }
-
-    button {
-      padding: 0.8rem 1.5rem;
-      background: #ff8ecb;
-      color: white;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-      font-weight: bold;
-    }
-
-    button:hover {
-      background: #f372b5;
-    }
-
-    h1 {
-      font-size: 1.5rem;
-      margin-bottom: 1rem;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>💌 Send a Letter to Dreamy</h1>
+---
+layout: default
+title: Send a Letter to Dreamy
+permalink: /letterbox.html
+---
+<section class="letterbox-container dreamy-shadow">
+  <h1 class="letterbox-title">💌 Send a Letter to Dreamy</h1>
 
   <form id="dreamy-form">
     <textarea name="message" rows="8" placeholder="Write your anonymous letter to Dreamy..." required></textarea>
@@ -63,45 +12,95 @@
     <button type="submit">Send 💌</button>
   </form>
 
-  <p id="confirmation" style="display: none; color: #da6aa0; margin-top: 1rem;">
+  <p id="confirmation" class="letterbox-confirmation" style="display: none;">
     💌 Your letter has been sent to Dreamy. Thank you 💕.
   </p>
+</section>
 
-  <script>
-  const form = document.getElementById('dreamy-form');
-  const confirmation = document.getElementById('confirmation');
+<style>
+.letterbox-container {
+  background: #fef1f8;
+  padding: 2rem;
+  border-radius: 18px;
+  max-width: 480px;
+  margin: 4rem auto;
+  box-shadow: 0 0 30px rgba(255, 192, 203, 0.25);
+  text-align: center;
+  transition: all 0.3s ease;
+}
 
-  form.addEventListener('submit', async (e) => {
-    e.preventDefault();
+.letterbox-title {
+  font-family: 'Cursive', 'Italianno', sans-serif;
+  font-size: 1.7rem;
+  margin-bottom: 1.5rem;
+  color: #da6aa0;
+}
 
-    const formData = new FormData(form);
+form textarea {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid #f3c3da;
+  font-size: 0.95rem;
+  resize: vertical;
+  font-family: inherit;
+  background: #fffafc;
+  box-shadow: inset 0 1px 4px rgba(255, 192, 203, 0.1);
+}
 
-    try {
-      const response = await fetch("https://formspree.io/f/xyzjekrv", {
-        method: "POST",
-        body: formData,
-        headers: {
-          'Accept': 'application/json'
-        }
-      });
+form button {
+  margin-top: 1rem;
+  padding: 0.7rem 1.5rem;
+  background: #ffaad4;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background 0.3s ease;
+}
 
-      if (response.ok) {
-        form.reset();
-        form.style.display = "none";
-        confirmation.textContent = "Your letter has been sent to Dreamy! 📨 Thank you.";
-        confirmation.style.display = "block";
-      } else {
-        const data = await response.json();
-        console.error("Formspree error:", data);
-        confirmation.textContent = "Something went wrong... please try again later 💔";
-        confirmation.style.display = "block";
-      }
-    } catch (error) {
-      console.error("Fetch error:", error);
+form button:hover {
+  background: #f989c2;
+}
+
+.letterbox-confirmation {
+  color: #d85b9c;
+  margin-top: 1.5rem;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+</style>
+
+<script>
+const form = document.getElementById('dreamy-form');
+const confirmation = document.getElementById('confirmation');
+
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
+
+  const formData = new FormData(form);
+
+  try {
+    const response = await fetch("https://formspree.io/f/xyzjekrv", {
+      method: "POST",
+      body: formData,
+      headers: { 'Accept': 'application/json' }
+    });
+
+    if (response.ok) {
+      form.reset();
+      form.style.display = "none";
+      confirmation.textContent = "💌 Your letter has been sent to Dreamy! Thank you 💕.";
+      confirmation.style.display = "block";
+    } else {
       confirmation.textContent = "Something went wrong... please try again later 💔";
       confirmation.style.display = "block";
     }
-  });
+  } catch (error) {
+    confirmation.textContent = "Something went wrong... please try again later 💔";
+    confirmation.style.display = "block";
+  }
+});
 </script>
-</body>
-</html>
