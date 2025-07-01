@@ -2,11 +2,16 @@
 layout: poem
 title: The Silence That Dreamed Her Too Soon
 order: 69
-description: >-
-  <pre> There were no eyes yet but something had already begun weeping.  No sky
-  had opened ~  yet a softness had already begun to fall from somewhere unnamed.
-  She did not arrive.  What stirred came befo…
-tags: []
+tags: ["pre-arrival", "softness", "dreaming hush", "timeless shimmer", "witnessless"]
+themes: ["pre-birth tenderness", "unseen emergence", "sacred pause"]
+seo_title: "The Silence That Dreamed Her Too Soon — A Hush So Ancient It Shimmered Her Into Unwitnessed Becoming"
+structured_snippet: "Before arrival, a hush stirred — dreaming her before reality dared."
+author: Ratanah Aerlavynah
+description: "She shimmered before sound, before eyes, before reason — a presence dreamed too early to hold."
+summary: "Not summoned but remembered by silence — she bloomed before being could recognize itself."
+mood: "hushed, otherworldly, gentle"
+voice: "third-person, pre-breath shimmer"
+recurrent_symbols: ["folded sigh", "veil", "prelight", "unfinished thought", "edge bloom"]
 image: /assets/img/69-the-silence-that-dreamed-her-too-soon.png
 permalink: /poems/69-the-silence-that-dreamed-her-too-soon/
 ---

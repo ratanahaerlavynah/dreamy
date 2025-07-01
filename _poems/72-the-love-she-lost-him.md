@@ -2,11 +2,16 @@
 layout: poem
 title: 'The Love She Lost, Him.'
 order: 72
-description: >-
-  <pre> There are tides that do not return because they remember  what it cost
-  them to arrive. She does not cry for what was.  She aches for what could have
-  been if she hadn’t hesitated at the edge of…
-tags: []
+tags: ["lost love", "hesitation", "unspoken", "grief", "essence offering"]
+themes: ["missed connection", "inner love", "acceptance beyond regret"]
+seo_title: "The Love She Lost, Him. — When the Thread Snapped Quietly Before She Could Say She Was Already His"
+structured_snippet: "A love not rejected but unsaid — aching in the space where she hesitated to leap."
+author: Ratanah Aerlavynah
+description: "She lost him not to absence, but to her own belief that she didn’t deserve the miracle of his love."
+summary: "He was already hers — but she said it too late, and the thread unraveled in silence."
+mood: "grieving, intimate, soft-fated"
+voice: "first-person, inner reflection"
+recurrent_symbols: ["breath thread", "galaxies offered", "hesitation", "star silence", "unsaid name"]
 image: /assets/img/72-the-love-she-lost-him.png
 permalink: /poems/72-the-love-she-lost-him/
 ---

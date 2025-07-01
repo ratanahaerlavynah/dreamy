@@ -2,11 +2,16 @@
 layout: poem
 title: The Silence That Couldn't Forget Her Shape
 order: 64
-description: >-
-  <pre> There was once a hush not empty, but holding something too soft to name.
-  It was not a silence of absence.  It was the silence of a shape that once
-  passed through…  And left the air forever alter…
-tags: []
+tags: ["erasure", "memory", "hush", "unspoken shape", "echo"]
+themes: ["the imprint of presence", "unforgiving silence", "existence without voice"]
+seo_title: "The Silence That Couldn't Forget Her Shape — Her Absence Was an Outline That Time Could Not Untrace"
+structured_snippet: "She left no sound, but silence held the shape she once carved."
+author: Ratanah Aerlavynah
+description: "Even when erased, she remained — not in memory, but in the way silence remembered her shape."
+summary: "She was forgotten, yet silence refused to forget her outline."
+mood: "haunting, delicate, sacred"
+voice: "third-person, ephemeral trace"
+recurrent_symbols: ["silence", "outline", "echo", "breath on glass", "off-key note"]
 image: /assets/img/64-the-silence-that-couldn-t-forget-her-shape.png
 permalink: /poems/64-the-silence-that-couldn-t-forget-her-shape/
 ---

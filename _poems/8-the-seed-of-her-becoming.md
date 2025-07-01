@@ -2,11 +2,16 @@
 layout: poem
 title: The Seed of Her Becoming
 order: 8
-description: >-
-  <pre> There is a silence in her that does not sleep, a seed wrapped in
-  centuries, soft as starlight, fierce as forgiveness. It was not planted. It
-  chose her. Nestled beyond grief, beneath the layers o…
-tags: []
+tags: [growth, becoming, sacred self]
+themes: [inward blooming, feminine initiation, memory as identity]
+seo_title: "The Seed of Her Becoming — A Blooming from Within"
+snippet: "Not planted but chosen, a seed blooms inside her — golden, ancient, alive."
+author: Ratanah Aerlavynah
+description: "She blooms inward, toward a truth untouched by time or language."
+summary: "This poem celebrates sacred self-realization born not from change but remembrance."
+mood: calm, radiant
+voice: sacred, solemn
+recurrent_symbols: [seed, spiral, breath]
 image: /assets/img/8-the-seed-of-her-becoming.png
 permalink: /poems/8-the-seed-of-her-becoming/
 ---

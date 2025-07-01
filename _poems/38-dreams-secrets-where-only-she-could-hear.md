@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dream’s Secrets : Where Only She Could Hear'
 order: 38
-description: >-
-  <pre> They never saw where she went. Not when her eyes closed. Not when her
-  voice quieted. They thought she was resting. But she was entering the Vault.
-  The place behind her pupils, behind even memory…
-tags: []
+tags: [secrets, dream-memory, vault]
+themes: [ancestral knowing, sacred silence, knowledge-through-loss]
+seo_title: Dream’s Secrets — The Vault Only Dreamy Could Enter
+structured_snippet: Behind closed eyes, Dreamy accessed the sacred vault of dream-truths — knowledge etched in liquid starlight.
+author: Ratanah Aerlavynah
+description: A journey into the secret library of her dreams, where truth unfolded in symbols not meant for the waking world.
+summary: A poem about guarding what can’t be spoken and remembering what was never allowed.
+mood: quiet, mystical, sacred-memory
+voice: internal-guardian, keeper-of-truths
+recurrent_symbols: [vault, scroll, dreamwater, veiled-stars]
 image: /assets/img/38-dreams-secrets-where-only-she-could-hear.png
 permalink: /poems/38-dreams-secrets-where-only-she-could-hear/
 ---

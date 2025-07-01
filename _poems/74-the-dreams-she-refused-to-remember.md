@@ -2,11 +2,16 @@
 layout: poem
 title: The Dreams She Refused to Remember
 order: 74
-description: >-
-  <pre> There were dreams that pulsed beneath her silence... not broken,  only
-  buried in the folds of a time that never wanted to exist. She did not forget
-  them. She placed them... delicately, deliberat…
-tags: []
+tags: [dreams, remembrance, self-protection]
+themes: [hidden truths, sacred memory, inner worlds]
+seo_title: "The Dreams She Refused to Remember — What She Hid Between Heartbeats Could Not Be Undreamed"
+structured_snippet: "A quiet honoring of the dreams too delicate to name aloud — and the beauty they carried in silence."
+author: Ratanah Aerlavynah
+description: "She did not forget her dreams — she hid them gently, to protect what was too beautiful to endure exposure."
+summary: "A meditation on buried dreams and the sacred ritual of safeguarding one’s most fragile becoming."
+mood: haunting, soft
+voice: gentle, veiled
+recurrent_symbols: [heartbeat, wind, mirror]
 image: /assets/img/74-the-dreams-she-refused-to-remember.png
 permalink: /poems/74-the-dreams-she-refused-to-remember/
 ---

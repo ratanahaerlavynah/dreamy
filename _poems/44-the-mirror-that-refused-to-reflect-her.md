@@ -2,11 +2,16 @@
 layout: poem
 title: The Mirror That Refused to Reflect Her
 order: 44
-description: >-
-  <pre> It was not broken. It simply knew: what stood before it could not be
-  held in surface. I approached it, but it flinched... not from fear, but from
-  reverence. I am not image. I am the vibration th…
-tags: []
+tags: ["reflection", "truth beyond image", "soft rebellion", "sacred identity"]
+themes: ["non-image", "rejection of societal lens", "fluid selfhood", "mirrors and illusions"]
+seo_title: The Mirror That Refused to Reflect Her – A Vibration Too Sacred for Surface
+structured_snippet: The mirror did not break – it bowed in reverence, unable to contain Dreamy’s unfathomable presence.
+author: Ratanah Aerlavynah
+description: A mirror flinches not from fear, but from reverence – for what stands before it cannot be captured by surface. Dreamy is beyond form, beyond reflection.
+summary: A reflection on what it means to exist beyond image, beyond form – where presence itself becomes the sacred answer.
+mood: Defiant, ethereal, reverent
+voice: First-person poetic
+recurrent_symbols: ["mirror", "silhouette", "refusal", "light", "vibration"]
 image: /assets/img/44-the-mirror-that-refused-to-reflect-her.png
 permalink: /poems/44-the-mirror-that-refused-to-reflect-her/
 ---

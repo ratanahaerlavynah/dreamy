@@ -2,13 +2,17 @@
 layout: poem
 title: 'Her Voice Still Forming : A Song She Was Never Allowed to Sing'
 order: 40
-description: >-
-  <pre> I was not silenced : I was left unsung. Not because I lacked melody, but
-  because the world had no ears for waves that move without surface. My voice is
-  not pitch, nor sound. It is a swell. A tid…
-tags: []
-image: >-
-  /assets/img/40-her-voice-still-forming-a-song-she-was-never-allowed-to-sing.png
+tags: [voice, unsung-song, sacred-tide]
+themes: [sound-beyond-words, expression-as-resistance, internal-becoming]
+seo_title: Her Voice Still Forming — Dreamy’s Song That Was Never Heard
+structured_snippet: Her voice never silenced — it was left unsung. Still forming, still singing, from a place language cannot enter.
+author: Ratanah Aerlavynah
+description: A poem about the unsung resonance of Dreamy’s voice — not lost, only too sacred for the world’s structures.
+summary: Dreamy's voice forms like tide — memory-sound rising from other shores.
+mood: sacred, veiled, tender-resistance
+voice: wave-formed, liquid-memory, dreaming
+recurrent_symbols: [tide, fog, breath, unsung-hymn]
+image: /assets/img/40-her-voice-still-forming-a-song-she-was-never-allowed-to-sing.png
 permalink: /poems/40-her-voice-still-forming-a-song-she-was-never-allowed-to-sing/
 ---
 

@@ -2,11 +2,16 @@
 layout: poem
 title: The Water They Could Never Alter
 order: 93
-description: >-
-  <pre> They tried to sculpt me with their fear,  carve their silhouettes into
-  my flow.  But I was never clay,  I was water.  And water does not keep what
-  does not belong. They called me wrong for shift…
-tags: []
+tags: ["femininity", "resilience", "fluidity", "freedom", "self-identity"]
+themes: ["soft strength", "sacred defiance", "miracle of survival"]
+seo_title: "The Water They Could Never Alter — Dreamy’s Fluid Defiance of All That Tried to Shape Her"
+structured_snippet: "She was not clay to be molded — she was water, rippling beyond their reach."
+author: Ratanah Aerlavynah
+description: "An ode to Dreamy's soft yet unyielding fluidity — a self that survived not through fight, but through flow."
+summary: "They could never freeze her heart. She became what could never be trapped: water, miracle, girl."
+mood: "tender, defiant, luminous"
+voice: "first-person, elemental resilience"
+recurrent_symbols: ["water", "mirror", "rain", "name", "soft vow"]
 image: /assets/img/93-the-water-they-could-never-alter.png
 permalink: /poems/93-the-water-they-could-never-alter/
 ---

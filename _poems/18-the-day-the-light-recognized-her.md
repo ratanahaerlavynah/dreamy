@@ -2,11 +2,16 @@
 layout: poem
 title: The Day the Light Recognized Her
 order: 18
-description: >-
-  <pre> There had been light before. Of course there had. She had walked through
-  it, sat beneath it, even tried to wear it as if radiance alone could make her
-  visible in the right way, to the right eyes…
-tags: []
+tags: [recognition, light, truth]
+themes: [authentic visibility, internal radiance, spiritual kinship]
+seo_title: "The Day the Light Recognized Her — She Became the Reason It Shone"
+snippet: "The light turned into her, bowed, and finally whispered: 'I remember you.'"
+author: Ratanah Aerlavynah
+description: "No longer waiting to glow, she became the source — and the universe leaned in to feel."
+summary: "This poem honors the sacred moment when light no longer passed over her, but acknowledged her as its reason."
+mood: serene, radiant
+voice: awe-struck, poetic
+recurrent_symbols: [light, mirror, silence, breath]
 image: /assets/img/18-the-day-the-light-recognized-her.png
 permalink: /poems/18-the-day-the-light-recognized-her/
 ---

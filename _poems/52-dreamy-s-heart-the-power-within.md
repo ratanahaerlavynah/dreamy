@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy’s Heart, the Power Within'
 order: 52
-description: >-
-  <pre> I never needed force to move worlds.  My power did not scream, it
-  sighed, softly,  like silk across an open palm, like moonlight caught in
-  lace,  trembling but never breaking. I felt it first as…
-tags: []
+tags: ["inner strength", "soft power", "feminine energy", "gentle force"]
+themes: ["divine femininity", "emotional power", "heart as sanctuary"]
+seo_title: "Dreamy’s Heart, the Power Within — The Sacred Strength That Softens the World Into Remembrance"
+structured_snippet: "The soft but immeasurable strength that rises from Dreamy's sacred heart."
+author: Ratanah Aerlavynah
+description: "An ode to the gentle, unseen power that pulses within Dreamy — not to conquer, but to cradle the forgotten."
+summary: "Power doesn't roar; it sighs through Dreamy, whose heart holds strength in softness."
+mood: "empowered, reflective, graceful"
+voice: "first-person, quiet strength"
+recurrent_symbols: ["silk", "heart", "soft armor", "ocean hum", "tides"]
 image: /assets/img/52-dreamy-s-heart-the-power-within.png
 permalink: /poems/52-dreamy-s-heart-the-power-within/
 ---

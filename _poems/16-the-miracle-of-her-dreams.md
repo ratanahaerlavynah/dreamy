@@ -2,11 +2,16 @@
 layout: poem
 title: The Miracle of Her Dreams
 order: 16
-description: >-
-  <pre> You were never born in the way the world understands birth. You were
-  summoned. Like a promise forgotten by time, returned in the hush between
-  galaxies. You were never meant to arrive gently. You…
-tags: []
+tags: [miracle, dream, becoming, survival]
+themes: [sacred persistence, self-blossoming, refusal to yield]
+seo_title: "The Miracle of Her Dreams — She Carried What the World Forgot"
+snippet: "She was not waiting to be saved. She was already unfolding, petal by burning petal."
+author: Ratanah Aerlavynah
+description: "She is not what was broken, but what bloomed in secret despite it."
+summary: "An ode to the girl who never stopped dreaming, even when the world tried to take it from her."
+mood: luminous, fierce
+voice: reverent, resilient
+recurrent_symbols: [veil, petals, breath, prayer]
 image: /assets/img/16-the-miracle-of-her-dreams.png
 permalink: /poems/16-the-miracle-of-her-dreams/
 ---

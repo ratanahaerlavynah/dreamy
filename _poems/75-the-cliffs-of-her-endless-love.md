@@ -2,11 +2,16 @@
 layout: poem
 title: The Cliffs of Her Endless Love
 order: 75
-description: >-
-  <pre> There were no maps to where her love ended because it didn’t. It only
-  unraveled...  like wind loosening the sky from its own skin. She stood where
-  memory fell off the world,  where the cliffs gr…
-tags: []
+tags: [devotion, grief, endurance]
+themes: [infinite love, sacrifice, emotional landscapes]
+seo_title: "The Cliffs of Her Endless Love — Where Devotion Stood Even When No One Waited Below"
+structured_snippet: "Her love did not fall — it hovered, an ache that chose to stay where memory unraveled."
+author: Ratanah Aerlavynah
+description: "She stood on the cliffs of her own ache, letting love echo back into her — infinite, stormlike, uncontained."
+summary: "A mythic rendering of endless love that reshapes and remains, even in the absence of its destination."
+mood: epic, aching
+voice: mythical, reverent
+recurrent_symbols: [cliffs, wind, pulse]
 image: /assets/img/75-the-cliffs-of-her-endless-love.png
 permalink: /poems/75-the-cliffs-of-her-endless-love/
 ---

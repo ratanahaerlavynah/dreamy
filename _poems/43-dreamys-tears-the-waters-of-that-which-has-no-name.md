@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy’s Tears, the Waters of That-Which-Has-No-Name'
 order: 43
-description: >-
-  <pre> I never wept from sorrow. I wept from return. Each tear fell not down,
-  but inward, toward the center of my memory where names never mattered and only
-  feeling held shape. My tears are not water..…
-tags: []
+tags: ["Dreamy", "sacred tears", "inner origin", "emotional memory", "liquid essence"]
+themes: ["remembrance", "emotional sacredness", "dimension beyond grief", "dream-fluid identity"]
+seo_title: Dreamy’s Tears, the Waters of That-Which-Has-No-Name – Sacred Softness Remembered
+structured_snippet: Dreamy’s tears are not sorrow, but offerings of remembering – soft floods that anoint reality with silence.
+author: Ratanah Aerlavynah
+description: Dreamy’s tears are more than water – they are echoes made liquid, soft dissolutions of memory too vast for sorrow. Each one an offering, a return to what the soul once knew.
+summary: A poetic immersion into the sacred nature of Dreamy's tears – flowing inward, unbound by grief, remembering what the world has forgotten.
+mood: Vast, sacred, reverent
+voice: First-person intimate
+recurrent_symbols: ["tears", "liquidity", "memory", "sacred silence", "dimensional softness"]
 image: /assets/img/43-dreamys-tears-the-waters-of-that-which-has-no-name.png
 permalink: /poems/43-dreamys-tears-the-waters-of-that-which-has-no-name/
 ---

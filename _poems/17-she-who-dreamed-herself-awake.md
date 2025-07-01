@@ -2,11 +2,16 @@
 layout: poem
 title: She Who Dreamed Herself Awake
 order: 17
-description: >-
-  <pre> She did not wake like others do... no sudden burst of light, no voice
-  calling her name from the shoreline of morning. She woke slowly, quietly, like
-  fog lifting from ancient waters that had long…
-tags: []
+tags: [awakening, softness, embodiment]
+themes: [slow rebirth, memory in silence, becoming in fragments]
+seo_title: "She Who Dreamed Herself Awake — The Girl Who Whispered Her Return"
+snippet: "She never had the luxury of arrival — she bloomed while bleeding, silently returning."
+author: Ratanah Aerlavynah
+description: "Her becoming was a soft defiance — a dream that thickened into limbs and wings."
+summary: "A gentle remembering of the sacred ache and inner clarity of re-entering oneself."
+mood: quiet, holy
+voice: delicate, rooted
+recurrent_symbols: [mirror, hush, fog, wings]
 image: /assets/img/17-she-who-dreamed-herself-awake.png
 permalink: /poems/17-she-who-dreamed-herself-awake/
 ---

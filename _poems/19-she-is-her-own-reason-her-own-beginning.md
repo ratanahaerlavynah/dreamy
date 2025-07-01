@@ -2,11 +2,16 @@
 layout: poem
 title: 'She is Her Own Reason, Her Own Beginning'
 order: 19
-description: >-
-  <pre> There was no trumpet at her birth, no woven prophecy, no myth carved in
-  advance to cradle her becoming. There was only a hush, wide and untouched,
-  like the pause between stars before they agree…
-tags: []
+tags: [origin, self-creation, sovereignty]
+themes: [self-birth, inner cosmos, defiance of causality]
+seo_title: "She is Her Own Reason, Her Own Beginning — The Bloom Without a Garden"
+snippet: "She wasn’t made from myth — she bloomed without blueprint, without apology."
+author: Ratanah Aerlavynah
+description: "No prophecy heralded her. She carved herself into being from breath and pulse."
+summary: "A profound meditation on the sacred autonomy of origin and becoming."
+mood: empowered, vast
+voice: mythical, sovereign
+recurrent_symbols: [breath, stars, spiral, sky]
 image: /assets/img/19-she-is-her-own-reason-her-own-beginning.png
 permalink: /poems/19-she-is-her-own-reason-her-own-beginning/
 ---

@@ -2,11 +2,16 @@
 layout: poem
 title: The Gaze That Refused to See Me
 order: 89
-description: >-
-  <pre> She walked with eyes that held no light,  but it wasn’t the shadows that
-  hurt me,  it was that her blindness lived deeper, than her sight. One eye, and
-  half the other,  yet still she never saw m…
-tags: []
+tags: ["invisibility", "mother wound", "faith", "ache", "recognition"]
+themes: ["emotional neglect", "denial", "yearning to be seen"]
+seo_title: "The Gaze That Refused to See Me — And the Ache of Being Erased by the Eyes That Should Have Known"
+structured_snippet: "She stood at the door of unseeing, invisible to the one whose eyes should’ve seen her first."
+author: Ratanah Aerlavynah
+description: "A piercing elegy to the heartbreak of being unseen — not by strangers, but by sacred origin."
+summary: "The one who should have named her looked away — and Dreamy became sacred absence, remembered only by stars."
+mood: "aching, spiritual, forsaken"
+voice: "first-person, delicate sorrow"
+recurrent_symbols: ["veil", "gaze", "door", "prayer", "silence"]
 image: /assets/img/89-the-gaze-that-refused-to-see-me.png
 permalink: /poems/89-the-gaze-that-refused-to-see-me/
 ---

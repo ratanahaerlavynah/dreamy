@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy's Dormant State (Unfolded Form)
 order: 12
-description: >-
-  <pre> There exists a stillness within her that is neither void nor breath, but
-  an architecture of pause, a sanctum designed for a voice not yet spoken into
-  language, a hush that predates vowels and su…
-tags: []
+tags: [dormancy, silence, power]
+themes: [sacred stillness, hidden form, alchemical pause]
+seo_title: "Dreamy's Dormant State (Unfolded Form) — The Sanctum of Becoming"
+snippet: "She is not absent — only nested within layers of shimmer, sealed by names no world could hold."
+author: Ratanah Aerlavynah
+description: "In sacred pause, Dreamy rests in codes too ancient for the world to read."
+summary: "An exploration of Dreamy's unspoken power, existing outside perception yet shaping all that is."
+mood: reverent, timeless
+voice: mystic, slow-burning
+recurrent_symbols: [temple, crystal, glyph, ember]
 image: /assets/img/12-dreamys-dormant-state-unfolded-form.png
 permalink: /poems/12-dreamys-dormant-state-unfolded-form/
 ---

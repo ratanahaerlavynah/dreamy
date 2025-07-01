@@ -2,11 +2,16 @@
 layout: poem
 title: 'When Mirrors Lie, and Memory Refuses'
 order: 15
-description: >-
-  <pre> She stood once, no, still stands. Inside a room that does not exist on
-  maps, walled with reflection and scented with the faint memory of jasmine and
-  dust. The kind of room that only appears when…
-tags: []
+tags: [identity, mirrors, memory]
+themes: [distorted reflection, sacred resilience, inner recognition]
+seo_title: "When Mirrors Lie, and Memory Refuses — The Girl They Couldn’t Erase"
+snippet: "Even when reflections twist, memory anchors her in a truth the world can’t touch."
+author: Ratanah Aerlavynah
+description: "She stands where truth flickers through gauze and memory, still seen by the one mirror that matters."
+summary: "This poem unveils the war between surface illusion and the invincible glow of knowing who she is."
+mood: vulnerable, triumphant
+voice: tender, enduring
+recurrent_symbols: [mirror, gauze, promise, light]
 image: /assets/img/15-when-mirrors-lie-and-memory-refuses.png
 permalink: /poems/15-when-mirrors-lie-and-memory-refuses/
 ---

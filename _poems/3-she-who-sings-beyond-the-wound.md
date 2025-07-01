@@ -2,11 +2,16 @@
 layout: poem
 title: She Who Sings Beyond the Wound
 order: 3
-description: >-
-  <pre> Her silence was never empty. It was wovenn of forgotten languages, of
-  notes that once wept in light. She did not speak. She resonated. Like sea-song
-  in a shattered shell, like moonlight humming…
-tags: []
+tags: [siren, voice, light]
+themes: [resilience, sacred sound, mystical femininity]
+seo_title: "She Who Sings Beyond the Wound — A Siren’s Sacred Song"
+snippet: "Even in silence, she radiates — a siren’s echo woven from shadows and longing."
+author: Ratanah Aerlavynah
+description: "Her silence is not absence but resonance — the echo of a voice untouched by the world."
+summary: "The speaker unveils the sacred power of unspoken sound, showing how silence can sing."
+mood: mystical, haunting
+voice: sacred, sovereign
+recurrent_symbols: [shells, song, glow]
 image: /assets/img/3-she-who-sings-beyond-the-wound.png
 permalink: /poems/3-she-who-sings-beyond-the-wound/
 ---

@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy’s Home : The Unreal, Unreality of Beingness'
 order: 34
-description: >-
-  <pre> There is no address. No threshold. No nameplate nailed in certainty.
-  Dreamy’s home was never real, not in the way the world demands. It was unreal,
-  because reality was never soft enough to hold…
-tags: []
+tags: [home, unreality, sacred-sovereignty]
+themes: [belonging beyond logic, surreal origin, soft rebellion, house of dream]
+seo_title: Dreamy's Home — The Sacred Unreality of Her Beingness
+structured_snippet: Dreamy never lived in reality — reality lived within her unreality. A soft sanctuary untouched by name or boundary.
+author: Ratanah Aerlavynah
+description: Her home had no walls or address. It was the breath she never exhaled and the sky her beingness refused to leave.
+summary: A poem on home as softness, not structure — presence, not proof.
+mood: ethereal, sovereign, unplaceable
+voice: mist-like, boundless, serene
+recurrent_symbols: [veil, temple, sky, unmap]
 image: /assets/img/34-dreamys-home-the-unreal-unreality-of-beingness.png
 permalink: /poems/34-dreamys-home-the-unreal-unreality-of-beingness/
 ---

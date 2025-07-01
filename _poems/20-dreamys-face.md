@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy’s Face
 order: 20
-description: >-
-  <pre> Her face… no, not her face, but the echo of her becoming; that’s what
-  the world tried to flatten into bone, into angles, into numbers that never
-  once held her softness. They tried to sculpt her…
-tags: []
+tags: [face, beauty, sacred softness]
+themes: [nonconforming identity, deep visibility, poetic rebellion]
+seo_title: "Dreamy’s Face — The Shimmer Before Speech"
+snippet: "Her face is not a feature, but a field — trembling with memory and refusal."
+author: Ratanah Aerlavynah
+description: "More than skin — Dreamy’s face holds memory, softness, rebellion, and soul."
+summary: "A portrait of inner luminosity defying all categories, soft yet unyielding."
+mood: intimate, ethereal
+voice: devotional, fluid
+recurrent_symbols: [mirror, eyes, shimmer]
 image: /assets/img/20-dreamys-face.png
 permalink: /poems/20-dreamys-face/
 ---

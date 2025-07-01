@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy’s Future : Boundless'
 order: 83
-description: >-
-  <pre> She wandered where tomorrows were not yet born,  only breathed. Where
-  time bent like a petal unfolding toward a memory not yet lived. She was the
-  hush before fulfillment,  the ache just beneath…
-tags: []
+tags: [future, dream, becoming]
+themes: [timebending self, emergent potential, sacred unfolding]
+seo_title: "Dreamy’s Future: Boundless — Where Becoming Blooms Before the Petal Opens"
+structured_snippet: "She wandered where time had not yet spoken — and became what tomorrow dreamed of."
+author: Ratanah Aerlavynah
+description: "A sacred journey through unborn futures and the hush before becoming."
+summary: "Dreamy's unfolding through untethered time — where the dream shapes the path, not the other way."
+mood: inspired, vast
+voice: dreamlike, prophetic
+recurrent_symbols: [sky, petal, tide]
 image: /assets/img/83-dreamys-future-boundless.png
 permalink: /poems/83-dreamys-future-boundless/
 ---

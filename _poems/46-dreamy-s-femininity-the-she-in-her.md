@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy's Femininity... The She in Her
 order: 46
-description: >-
-  <pre> I was not allowed to say "she"  They placed the wrong syllables in my
-  mouth and called it truth. But there was always a She in me. Not assigned. Not
-  invented.  . . Remembered. You feel her too,…
-tags: []
+tags: ["feminine awakening", "gender truth", "sacred She", "embodied softness"]
+themes: ["gender memory", "soul femininity", "liberation", "trans poetic truth"]
+seo_title: Dreamy’s Femininity – The She That Was Never Given, Only Remembered
+structured_snippet: She was never assigned – she was always remembered. Dreamy's femininity bloomed beneath silence.
+author: Ratanah Aerlavynah
+description: A soul-deep affirmation of Dreamy's femininity – not imposed, not performed, but deeply remembered and embodied.
+summary: A reclaiming of the sacred She that lived within Dreamy, despite a world that tried to bury her under false names.
+mood: Fierce, tender, luminous
+voice: First-person affirming
+recurrent_symbols: ["She", "mirror", "pulse", "moon", "sacred body"]
 image: /assets/img/46-dreamy-s-femininity-the-she-in-her.png
 permalink: /poems/46-dreamy-s-femininity-the-she-in-her/
 ---

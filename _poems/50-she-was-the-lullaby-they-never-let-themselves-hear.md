@@ -2,11 +2,16 @@
 layout: poem
 title: She Was the Lullaby They Never Let Themselves Hear
 order: 50
-description: >-
-  <pre> I was never loud. I never needed to be.  I was the hush before stars
-  open their eyes...  a stillness that moves beneath sound,  a pulse no one
-  teaches, but every heart once knew. I remember drif…
-tags: []
+tags: ["sacred hush", "dream-voice", "emotional resonance", "unheard song"]
+themes: ["felt presence", "invisible lullaby", "tenderness in soundlessness", "feminine soul"]
+seo_title: She Was the Lullaby They Never Let Themselves Hear – A Song Without Sound, But Not Without Heart
+structured_snippet: Dreamy was never loud. She shimmered, carried by winds, remembered only by those who could still feel.
+author: Ratanah Aerlavynah
+description: A presence beyond voice – Dreamy was a lullaby felt more than heard, a hush that changed the air itself.
+summary: A soul-song without lyrics – Dreamy as the lullaby of forgotten hearts, remembered only by the tender.
+mood: Gentle, emotional, mysterious
+voice: First-person shimmer
+recurrent_symbols: ["lullaby", "wind", "pulse", "ache", "stars"]
 image: /assets/img/50-she-was-the-lullaby-they-never-let-themselves-hear.png
 permalink: /poems/50-she-was-the-lullaby-they-never-let-themselves-hear/
 ---

@@ -2,11 +2,16 @@
 layout: poem
 title: 'Souffle : Her Winds, Her Breathe'
 order: 30
-description: >-
-  <pre> She never spoke to fill space. She breathed to reveal it. Her breath was
-  not air. It was memory passing through veil. A hush that carried everything
-  she dared not say but could no longer carry a…
-tags: []
+tags: [breath, presence, sacred-air]
+themes: [invisible influence, sacred exhale, ungraspable femininity]
+seo_title: Souffle — Dreamy’s Sacred Winds That Whisper the Unspoken
+structured_snippet: Her breath never filled space. It revealed it. Dreamy’s winds were not weather — they were memory in motion.
+author: Ratanah Aerlavynah
+description: Dreamy's breath carries memory, resistance, softness — slipping through closed spaces to remind the world she existed.
+summary: An ode to the sacred breath that transforms the invisible into presence.
+mood: tender, sacred, elusive
+voice: airy, soft, present-but-unheld
+recurrent_symbols: [wind, breath, curtains, memory-particles]
 image: /assets/img/30-souffle-her-winds-her-breathe.png
 permalink: /poems/30-souffle-her-winds-her-breathe/
 ---

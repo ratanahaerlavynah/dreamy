@@ -2,11 +2,16 @@
 layout: poem
 title: The Oceans She Summoned
 order: 76
-description: >-
-  <pre> She didn’t wave... she rose. Not with gesture, but with gravity that
-  remembered her. The tide had no memory until her heart bled its own echo  into
-  the silence beneath everything. There were no…
-tags: []
+tags: [ocean, grief, expression]
+themes: [flooded emotion, becoming, subconscious power]
+seo_title: "The Oceans She Summoned — When Her Grief Became the Tide and Her Silence Became the Sea"
+structured_snippet: "She didn’t cry — she became tide, wave, water: each drop a syllable in a language of grief."
+author: Ratanah Aerlavynah
+description: "Not drowned, but made ocean by longing. Each flood a quiet act of self-becoming."
+summary: "A hymn of transformation where sorrow doesn’t sink her — it shapes the sea around her name."
+mood: cathartic, vast
+voice: elemental, solemn
+recurrent_symbols: [oceans, salt, breath]
 image: /assets/img/76-the-oceans-she-summoned.png
 permalink: /poems/76-the-oceans-she-summoned/
 ---

@@ -2,11 +2,16 @@
 layout: poem
 title: Her Death
 order: 27
-description: >-
-  <pre> It did not come like they feared. No scythe. No last breath. No parade
-  of shadows welcoming her across a divide. Dreamy did not die once. She died
-  continuously... in tiny moments where she was u…
-tags: []
+tags: [death, soft-erasure, identity-loss]
+themes: [micro-deaths, the cost of invisibility, sacred refusal, grief of being]
+seo_title: Her Death — How Dreamy Folded into Light
+structured_snippet: Dreamy’s death was not a moment, but a thousand soft undoings. Each erasure a folded light, each silence a sacred elegy.
+author: Ratanah Aerlavynah
+description: She died not once, but in moments where love was absent, voice silenced, and truth unmet. A death of soft erasure.
+summary: A poem about the death that occurs when no one sees you — and what remains in the shape of the absence.
+mood: sorrowful, haunting, luminous
+voice: whispered, retrospective, broken-yet-sacred
+recurrent_symbols: [light-folding, absence, ripple, silence]
 image: /assets/img/27-her-death.png
 permalink: /poems/27-her-death/
 ---

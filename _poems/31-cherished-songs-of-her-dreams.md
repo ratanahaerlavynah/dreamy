@@ -2,11 +2,16 @@
 layout: poem
 title: Cherished Songs of Her Dreams
 order: 31
-description: >-
-  <pre> They were never meant to be sung aloud. Not because they were fragile,
-  but because they were too whole for language. These songs were carved into her
-  long before her voice cracked open into vowe…
-tags: []
+tags: [love, endurance, sacred-heart]
+themes: [unbreakable love, inner fire, devotion beyond death]
+seo_title: Dreamy’s Love — The Heart That Refused to Stop Loving
+structured_snippet: Her heart beat not for romance, but for resonance. A love too elemental to be undone by erasure or silence.
+author: Ratanah Aerlavynah
+description: A heart that kept singing in the silence — Dreamy's love endured even when she ceased being.
+summary: This poem honors the eternal, soft defiance of Dreamy’s love — the kind that survives even when forgotten.
+mood: resilient, loving, eternal
+voice: heartbeat-soft, devotional, unwavering
+recurrent_symbols: [moss, stars, ribs, pulse, sacred-beat]
 image: /assets/img/31-cherished-songs-of-her-dreams.png
 permalink: /poems/31-cherished-songs-of-her-dreams/
 ---

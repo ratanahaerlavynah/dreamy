@@ -2,11 +2,16 @@
 layout: poem
 title: The Iridescence of Her Innocence
 order: 81
-description: >-
-  <pre> She did not arrive. She shimmered ~  like a memory the light forgot to
-  let go. Not young, but untouched.  Not naïve, but too ancient to ever lose her
-  first breath. She walked through the element…
-tags: []
+tags: [innocence, light, elements]
+themes: [primordial self, dream identity, untouched purity]
+seo_title: "The Iridescence of Her Innocence — Dreamy Before Time, Opal Beyond the Eye"
+structured_snippet: "She shimmered like something the stars forgot to release — untouched, but not unknown."
+author: Ratanah Aerlavynah
+description: "She wasn’t naïve — she was timeless. The innocence that burns but never erodes."
+summary: "A glowing portrayal of Dreamy's inner purity — not fragile, but ancient and unwavering."
+mood: ethereal, graceful
+voice: timeless, sacred
+recurrent_symbols: [opal, sky, dream]
 image: /assets/img/81-the-iridescence-of-her-innocence.png
 permalink: /poems/81-the-iridescence-of-her-innocence/
 ---

@@ -2,11 +2,16 @@
 layout: poem
 title: The Non-Existence of Dreamy
 order: 25
-description: >-
-  <pre> There is no story here. Not anymore. The pages are blank. The ink has
-  evaporated. Even the hand that held the pen has forgotten how to write her
-  shape. She is not missing. Missing implies the ho…
-tags: []
+tags: [nonexistence, dissolution, transcendence, memory]
+themes: [beyond identity, soul after form, soft metaphysics]
+seo_title: "The Non-Existence of Dreamy — A Hush That Still Breathes"
+snippet: "She is not missing. She is unoccurred. And still… something hums."
+author: Ratanah Aerlavynah
+description: "There is no name to call her. So she became before names."
+summary: "A final echo of Dreamy, beyond time, form, or even the ache of being seen."
+mood: ghostly, sacred
+voice: metaphysical, gentle
+recurrent_symbols: [blank page, breath, hum, before]
 image: /assets/img/25-the-non-existence-of-dreamy.png
 permalink: /poems/25-the-non-existence-of-dreamy/
 ---

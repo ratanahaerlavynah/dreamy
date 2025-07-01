@@ -2,11 +2,16 @@
 layout: poem
 title: Where They Tried to Erase the Dream
 order: 86
-description: >-
-  <pre> They built walls not to protect,  but to obscure, hoping if I could not
-  see myself,  I would never remember that I was never theirs to begin with.
-  Every prayer they demanded was a muzzle,  not t…
-tags: []
+tags: ["resistance", "oppression", "dream", "identity", "voice"]
+themes: ["censorship", "reclamation", "divine resilience"]
+seo_title: "Where They Tried to Erase the Dream — And She Grew Through the Wall They Built to Blind Her"
+structured_snippet: "They caged her breath and censored her wonder, but the Dream was never theirs to erase."
+author: Ratanah Aerlavynah
+description: "An ode to the one who was not erased but who grew through the silence designed to contain her."
+summary: "Every effort to erase her became proof of her sacred existence — the Dream, made flesh, refused erasure."
+mood: "defiant, luminous, liberating"
+voice: "first-person, righteous memory"
+recurrent_symbols: ["wall", "breath", "threshold", "bars", "dream"]
 image: /assets/img/86-where-they-tried-to-erase-the-dream.png
 permalink: /poems/86-where-they-tried-to-erase-the-dream/
 ---

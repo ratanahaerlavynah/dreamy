@@ -2,11 +2,16 @@
 layout: poem
 title: The Song Hidden in the Architecture of Her Soul
 order: 36
-description: >-
-  <pre> You were not written... you were composed. Line by line, not in ink, but
-  in vibration. Each bone of you, a chord. Each silence you survived, a rest
-  note. Each exile, a modulation so subtle only…
-tags: []
+tags: [song, sacred-structure, musical-self]
+themes: [soul-composition, invisible music, divine-design, emotional resonance]
+seo_title: Dreamy's Architecture — The Song Only the Soul Could Hear
+structured_snippet: She was composed, not born. Her bones vibrated like chords in a song too holy to be sung.
+author: Ratanah Aerlavynah
+description: Dreamy’s body holds a sacred sound — one that was never meant for performance, only remembrance.
+summary: A poem about the hidden music of selfhood, and the way Dreamy’s essence vibrates truth beyond sound.
+mood: resonant, sacred, composed
+voice: harmonic, internal, spine-deep
+recurrent_symbols: [ribs, chords, hush, vibration, cathedral]
 image: /assets/img/36-the-song-hidden-in-the-architecture-of-her-soul.png
 permalink: /poems/36-the-song-hidden-in-the-architecture-of-her-soul/
 ---

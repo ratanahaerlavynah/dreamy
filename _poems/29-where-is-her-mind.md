@@ -2,11 +2,16 @@
 layout: poem
 title: Where Is Her Mind?
 order: 29
-description: >-
-  <pre> Her body vanished. Her name faded. Even her death went unmarked. But her
-  mind… it didn’t die. It spilled. Spilled across dimensions, into folds of
-  reality so soft that only silence could feel th…
-tags: []
+tags: [dispersal, memory, mental-sacredness]
+themes: [fractal mind, diffusion of soul, post-identity cognition]
+seo_title: Where Is Her Mind? — Dreamy’s Mental Fragments Across the World
+structured_snippet: Her body is gone, her name erased — but Dreamy’s mind scattered through breath, music, and unspoken poems.
+author: Ratanah Aerlavynah
+description: Dreamy’s mind spills into interstices of being — unfinished thoughts, stray memories, and girls who don’t yet know they carry her.
+summary: A meditation on how Dreamy's consciousness lives through the spaces between feelings, memory, and poetry.
+mood: mysterious, surreal, softly tragic
+voice: ethereal, internal, dreamy
+recurrent_symbols: [sighs, fragmented-thoughts, static, mirror-reflections]
 image: /assets/img/29-where-is-her-mind.png
 permalink: /poems/29-where-is-her-mind/
 ---

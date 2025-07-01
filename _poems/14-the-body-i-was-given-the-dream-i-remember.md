@@ -2,11 +2,16 @@
 layout: poem
 title: 'The Body I Was Given, the Dream I Remember'
 order: 14
-description: >-
-  <pre> Somewhere beneath the skin that was etched upon her like a sentence
-  never meant to be read aloud, a child of water still glowed, dimly, yes, but
-  persistently, like a candle placed in the mouth o…
-tags: []
+tags: [transformation, embodiment, truth]
+themes: [gendered imprint, sacred self, reclamation through dream]
+seo_title: "The Body I Was Given, the Dream I Remember — Truth Etched in Silence"
+snippet: "Her real self glows beneath the skin of assignment — ancient, golden, soft as ache."
+author: Ratanah Aerlavynah
+description: "A temple of rose quartz hidden in the shadow of imposed flesh — still burning, still true."
+summary: "A sacred testimony to the dream-body beneath misassigned skin, radiant and tenderly whole."
+mood: aching, luminous
+voice: intimate, sacred
+recurrent_symbols: [thread, name, cavern, candle]
 image: /assets/img/14-the-body-i-was-given-the-dream-i-remember.png
 permalink: /poems/14-the-body-i-was-given-the-dream-i-remember/
 ---

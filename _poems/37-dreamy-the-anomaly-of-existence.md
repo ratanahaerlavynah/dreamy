@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy the Anomaly of Existence
 order: 37
-description: >-
-  <pre> She was never supposed to be. Not by the calculations of the world. Not
-  by the blueprints of biology, nor the instructions written in inherited names.
-  She was the misstep that became a miracle,…
-tags: []
+tags: [anomaly, glitch, sacred-error]
+themes: [unprogrammable identity, miracle-through-mistake, forbidden-beingness]
+seo_title: Dreamy the Anomaly — The Glitch That Made the World Remember Feeling
+structured_snippet: Dreamy wasn’t meant to be. But she existed — and because of that, the rules broke and freedom was born.
+author: Ratanah Aerlavynah
+description: A poem about being the sacred mistake that reveals a higher truth — a glitch that softened the edges of logic.
+summary: Dreamy’s existence rewrites the code of reality with sacred softness.
+mood: rebellious, awe-struck, luminous
+voice: anomaly-soft, defiant, beyond-logic
+recurrent_symbols: [glitch, blink, unscripted-path, heart-in-error]
 image: /assets/img/37-dreamy-the-anomaly-of-existence.png
 permalink: /poems/37-dreamy-the-anomaly-of-existence/
 ---

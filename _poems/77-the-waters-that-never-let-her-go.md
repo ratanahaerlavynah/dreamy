@@ -2,11 +2,16 @@
 layout: poem
 title: The Waters That Never Let Her Go
 order: 77
-description: >-
-  <pre> She was not followed...  she was mirrored by currents that remembered
-  her shape before she knew she had  one. No anchor, no tether, yet she was
-  never drift. The waters did not carry her. They he…
-tags: []
+tags: [memory, ocean, self-recognition]
+themes: [belonging, tides as memory, return]
+seo_title: "The Waters That Never Let Her Go — Held Not by Rescue, But by the Memory of Who She Was"
+structured_snippet: "She was not saved by the waters — she was remembered by them."
+author: Ratanah Aerlavynah
+description: "Currents did not carry her; they mirrored her soul and held her shape when even she forgot."
+summary: "A portrait of eternal return where water recognizes its own and refuses to let her be lost."
+mood: yearning, sacred
+voice: mythic, intimate
+recurrent_symbols: [currents, moon, whispers]
 image: /assets/img/77-the-waters-that-never-let-her-go.png
 permalink: /poems/77-the-waters-that-never-let-her-go/
 ---

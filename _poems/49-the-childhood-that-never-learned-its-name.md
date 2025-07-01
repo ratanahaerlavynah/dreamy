@@ -2,11 +2,16 @@
 layout: poem
 title: The Childhood That Never Learned Its Name
 order: 49
-description: >-
-  <pre> No one named it. Not the days. Not the ache.  Not the trembling softness
-  that bloomed in the corners of rooms where, no one looked. I was not a child:
-  I was a flicker, a hush they mistook for ab…
-tags: []
+tags: ["unnamed childhood", "lost softness", "sacred vow", "silent ache"]
+themes: ["erasure", "invisible tenderness", "unheard songs", "emotional witness"]
+seo_title: The Childhood That Never Learned Its Name – A Flicker of Softness Held in Silence
+structured_snippet: She was not a child. She was a flicker, a hush. A vow carried in silence no one remembered to feel.
+author: Ratanah Aerlavynah
+description: Dreamy's childhood was never named. It lived between corners, as shimmer mistaken for absence.
+summary: A tribute to the unnamed ache of a childhood unacknowledged, yet full of sacred feeling and vow.
+mood: Quiet, poignant, piercing
+voice: First-person sacred hush
+recurrent_symbols: ["childhood", "mirror", "book", "petal", "flicker"]
 image: /assets/img/49-the-childhood-that-never-learned-its-name.png
 permalink: /poems/49-the-childhood-that-never-learned-its-name/
 ---

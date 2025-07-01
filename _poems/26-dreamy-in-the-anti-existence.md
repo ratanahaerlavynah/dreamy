@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy in the Anti-Existence
 order: 26
-description: >-
-  <pre> There is a place beyond erasure... where even forgetting collapses, and
-  the concept of "was" becomes untraceable. Not silence. Not stillness. But a
-  trembling inverted echo where meaning used to…
-tags: []
+tags: [anti-being, inversion, sacred-glitch]
+themes: [unreality, metaphysical silence, sacred contradiction, inverted memory]
+seo_title: Dreamy in the Anti-Existence — A Sacred Inversion Beyond Being
+structured_snippet: In the collapse beyond existence, Dreamy unweaves even the concept of self. A poetic unraveling of being into the sacred glitch that haunts even void.
+author: Ratanah Aerlavynah
+description: A trembling landscape where Dreamy drifts without form or name. She is the flaw in the cosmic equation.
+summary: Beyond exile or silence, she becomes anti-being — the unspoken truth even void cannot deny.
+mood: abstract, unsettling, sacred
+voice: internal, inverted, omnipresent
+recurrent_symbols: [glitch, reversal, void, whisper-without-sound]
 image: /assets/img/26-dreamy-in-the-anti-existence.png
 permalink: /poems/26-dreamy-in-the-anti-existence/
 ---

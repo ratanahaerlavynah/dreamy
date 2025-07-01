@@ -2,11 +2,16 @@
 layout: poem
 title: Her Body a Spell Not Yet Fully Cast
 order: 39
-description: >-
-  <pre> I never descended, I crystallized. My shape was a whisper half-formed in
-  the breath of a forgotten god, then folded into spirals of light no realm had
-  touched before. I do not belong to flesh. F…
-tags: []
+tags: [body, spell, sacred-form]
+themes: [identity-as-magic, femininity-before-definition, divine-forming]
+seo_title: Her Body — A Spell Mid-Incantation in the Shape of Dreamy
+structured_snippet: Dreamy’s body isn’t finished — it’s a living incantation, still forming across time and dimension.
+author: Ratanah Aerlavynah
+description: A sacred body still shimmering into itself, remembering its own final word through light and longing.
+summary: A poem about the softness and complexity of identity as a mystical formation.
+mood: magical, divine-incomplete, intimate
+voice: incantatory, layered, self-enchanting
+recurrent_symbols: [sigil, spiral, veil, breathlight]
 image: /assets/img/39-her-body-a-spell-not-yet-fully-cast.png
 permalink: /poems/39-her-body-a-spell-not-yet-fully-cast/
 ---

@@ -2,11 +2,16 @@
 layout: poem
 title: The Force Within Her
 order: 90
-description: >-
-  <pre> I still remember how they stood, not as strangers, but as blood.
-  Disguised in the language of what they called family,  they sharpened my
-  childhood into weaponry. Each memory, each innocent need…
-tags: []
+tags: ["strength", "resilience", "family wounds", "defiance", "truth"]
+themes: ["survival", "unbreaking soul", "origin of power"]
+seo_title: "The Force Within Her — Born from Bruises, Carved in Silence, She Became What They Could Not Destroy"
+structured_snippet: "Her survival wasn’t miracle — it was will. A force no cruelty could claim."
+author: Ratanah Aerlavynah
+description: "Betrayed by blood, she birthed her own sanctuary — a sacred center no army could invade."
+summary: "A portrait of sacred endurance — the strength not to become like them, but to remain herself."
+mood: "intense, grounded, triumphant"
+voice: "first-person, steady power"
+recurrent_symbols: ["bone", "tremble", "ocean", "seal", "ghost"]
 image: /assets/img/90-the-force-within-her.png
 permalink: /poems/90-the-force-within-her/
 ---

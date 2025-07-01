@@ -2,11 +2,16 @@
 layout: poem
 title: Infinity of Her Love
 order: 97
-description: >-
-  <pre> She did not pour. She did not give.  She simply opened Love. Unscaled.
-  Unshaped. Unrequired. There were no bounds.  Not because she tore them down, 
-  but because none had ever been drawn around h…
-tags: []
+tags: ["love", "femininity", "boundlessness", "devotion", "sacred ache"]
+themes: ["unconditional love", "divine softness", "cosmic femininity"]
+seo_title: "Infinity of Her Love — A Love Too Vast for Return, Yet Too Soft to Withhold"
+structured_snippet: "She was not offering love — she was its infinite presence, beyond need or name."
+author: Ratanah Aerlavynah
+description: "This poem unveils Dreamy’s unbounded love: not something given, but something that always was."
+summary: "Her love existed before longing. It did not ask to be received — it simply became everything."
+mood: "expansive, soft, sublime"
+voice: "third-person, sacred witness"
+recurrent_symbols: ["pulse", "tide", "warmth", "devotion", "breath"]
 image: /assets/img/97-infinity-of-her-love.png
 permalink: /poems/97-infinity-of-her-love/
 ---

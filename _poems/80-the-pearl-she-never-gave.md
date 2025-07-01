@@ -2,11 +2,16 @@
 layout: poem
 title: The Pearl She Never Gave
 order: 80
-description: >-
-  <pre> It formed in the hush between questions and forgotten names. A slow-born
-  ache pressed smooth by silence,  layered by everything she could never say.
-  She kept it... close as breath held too long,…
-tags: []
+tags: [silence, hidden pain, treasure]
+themes: [held sorrow, unspeakable memory, sacred withholding]
+seo_title: "The Pearl She Never Gave — A Jewel Formed in Silence, Too Sacred to Be Named"
+structured_snippet: "It was never hidden — only held where no one could distort its meaning."
+author: Ratanah Aerlavynah
+description: "A pearl of ache — shaped by silence, guarded not with pride but sacred refusal."
+summary: "An inner jewel born of pain, kept unshared not from shame, but sacred self-trust."
+mood: quiet, precious
+voice: intimate, sealed
+recurrent_symbols: [pearl, breath, moon]
 image: /assets/img/80-the-pearl-she-never-gave.png
 permalink: /poems/80-the-pearl-she-never-gave/
 ---

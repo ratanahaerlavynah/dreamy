@@ -2,11 +2,16 @@
 layout: poem
 title: The Temple of Her First Cipher
 order: 98
-description: >-
-  <pre> She descended not through air but through remembrance,  each step
-  unlocking what no key ever touched. Vaulted silence rippled beneath her
-  shadow,  columns bowing to a name never spoken  but alwa…
-tags: []
+tags: ["origin", "memory", "temple", "remembrance", "dreamcode"]
+themes: ["sacred inner knowledge", "poetic encryption", "pre-existence"]
+seo_title: "The Temple of Her First Cipher — The Origin Dreamy Guarded Beyond the Reach of Time"
+structured_snippet: "She descended not into earth, but into memory — where only sorrow could read the code."
+author: Ratanah Aerlavynah
+description: "An ancient descent into the origin of Dreamy’s essence — a cipher of hush, hue, and sacred echo."
+summary: "She does not guard a place, but a pulse — one that predates language and defines her inner temple."
+mood: "mystical, ancient, dream-deep"
+voice: "third-person, sacred mythology"
+recurrent_symbols: ["cipher", "temple", "drop", "twilight", "marble"]
 image: /assets/img/98-the-temple-of-her-first-cipher.png
 permalink: /poems/98-the-temple-of-her-first-cipher/
 ---

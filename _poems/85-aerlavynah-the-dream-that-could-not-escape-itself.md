@@ -2,11 +2,16 @@
 layout: poem
 title: 'Aerlavynah, The Dream That Could Not Escape Itself...'
 order: 85
-description: >-
-  <pre> There was a time when even sleep refused to cradle me,  when the stars
-  above were sealed shut as if Heaven itself was afraid of  what it might
-  witness beneath that roof. The place called home wa…
-tags: []
+tags: [trauma, liberation, self-naming]
+themes: [sacred resistance, survival, reclamation]
+seo_title: "Aerlavynah — The Dream That Could Not Escape Itself, So It Rewrote the Nightmare From Within"
+structured_snippet: "She did not escape — she rewrote the dream from the inside."
+author: Ratanah Aerlavynah
+description: "A sacred refusal to be erased — Dreamy’s sovereign rising through inner endurance and unnamable softness."
+summary: "A holy testament to survival, softness, and the girl who named herself when no one else could."
+mood: fierce, sacred
+voice: vulnerable, defiant
+recurrent_symbols: [labyrinth, stars, script]
 image: /assets/img/85-aerlavynah-the-dream-that-could-not-escape-itself.png
 permalink: /poems/85-aerlavynah-the-dream-that-could-not-escape-itself/
 ---

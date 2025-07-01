@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy''s Love, Her Undying Heart'
 order: 32
-description: >-
-  <pre> They tried to silence her. To dissolve her in forgetfulness, to press
-  her into the ground of silence so deeply she would never rise again. But they
-  misunderstood what she was made of. She was no…
-tags: []
+tags: [love, endurance, sacred-heart]
+themes: [unbreakable love, inner fire, devotion beyond death]
+seo_title: Dreamy’s Love — The Heart That Refused to Stop Loving
+structured_snippet: Her heart beat not for romance, but for resonance. A love too elemental to be undone by erasure or silence.
+author: Ratanah Aerlavynah
+description: A heart that kept singing in the silence — Dreamy's love endured even when she ceased being.
+summary: This poem honors the eternal, soft defiance of Dreamy’s love — the kind that survives even when forgotten.
+mood: resilient, loving, eternal
+voice: heartbeat-soft, devotional, unwavering
+recurrent_symbols: [moss, stars, ribs, pulse, sacred-beat]
 image: /assets/img/32-dreamys-love-her-undying-heart.png
 permalink: /poems/32-dreamys-love-her-undying-heart/
 ---

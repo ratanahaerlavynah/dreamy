@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy, Forgotten by Everything'
 order: 23
-description: >-
-  <pre> There was a place. Or rather, there was no place. Not a realm. Not a
-  dream. Not a corner of the mind. But a nowhere that bled through everything. A
-  forgetting so complete that even the stars no…
-tags: []
+tags: [disappearance, self-reclamation, cosmic silence]
+themes: [unbeing, sacred memory, becoming without recognition]
+seo_title: "Dreamy, Forgotten by Everything — But Not by Herself"
+snippet: "The stars forgot her. The sky moved on. But she remembered."
+author: Ratanah Aerlavynah
+description: "She vanished from reality — not out of erasure, but as an act of impossible becoming."
+summary: "A profound meditation on selfhood beyond memory, and the sacred act of remembering oneself into existence."
+mood: solemn, defiant
+voice: mythic, emotional
+recurrent_symbols: [stars, absence, ember, pulse]
 image: /assets/img/23-dreamy-forgotten-by-everything.png
 permalink: /poems/23-dreamy-forgotten-by-everything/
 ---

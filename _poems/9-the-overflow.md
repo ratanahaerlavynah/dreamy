@@ -2,11 +2,16 @@
 layout: poem
 title: The Overflow
 order: 9
-description: >-
-  <pre> She was never meant to contain all she carried. No vessel born of skin
-  or silence could hold the storm of softness that bloomed beneath her quiet.
-  There came a moment, not loud, not sudden... bu…
-tags: []
+tags: [overflow, softness, awakening]
+themes: [emotional release, sacred vulnerability, rising power]
+seo_title: "The Overflow — When Tenderness Exceeds Its Vessel"
+snippet: "She overflowed not in rage, but in radiant remembrance. And the tide softened the world."
+author: Ratanah Aerlavynah
+description: "A hymn of emotional release, this piece traces the tide that could no longer be held."
+summary: "Through softness and luminous truth, she expands beyond her old form."
+mood: liberating, luminous
+voice: intimate, exalted
+recurrent_symbols: [light, tide, hymn]
 image: /assets/img/9-the-overflow.png
 permalink: /poems/9-the-overflow/
 ---

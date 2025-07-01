@@ -2,11 +2,16 @@
 layout: poem
 title: The Girl Who Felt It All Before Before
 order: 68
-description: >-
-  <pre> There was once a hush before memory, before shape ~  and she was already
-  there, feeling what hadn’t yet begun. She lived through things that had not
-  happened,  her heart flooded by echoes of fut…
-tags: []
+tags: ["before", "prememory", "deep empathy", "unborn ache", "echo"]
+themes: ["timeless feeling", "nonlinear tenderness", "sacred foresight"]
+seo_title: "The Girl Who Felt It All Before Before — Her Ache Was Older Than Time, and More Honest Than Memory"
+structured_snippet: "She lived the ache of what never happened, loving futures not yet born."
+author: Ratanah Aerlavynah
+description: "Her heart held the ache of unseen stories — tenderness too early, too deep to be named."
+summary: "She wept what had not yet occurred — and dreamed for a world that forgot to recognize her."
+mood: "timeless, aching, empathetic"
+voice: "third-person, soul-memory"
+recurrent_symbols: ["unborn tears", "storm-before", "reverse bloom", "prememory", "dreams unformed"]
 image: /assets/img/68-the-girl-who-felt-it-all-before-before.png
 permalink: /poems/68-the-girl-who-felt-it-all-before-before/
 ---

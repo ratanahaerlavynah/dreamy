@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy''s Paradox : The Image Outside the Frame'
 order: 59
-description: >-
-  <pre> She was never inside what they thought could contain her. Even her
-  reflections refused obedience ~  mirrors cracked in reverence, not rebellion.
-  She was a horizon refusing to end,  a beginning w…
-tags: []
+tags: [unframed, mirror, infinite, paradox]
+themes: [defying definition, presence beyond representation, sacred identity]
+seo_title: Dreamy’s Paradox — The Image the Frame Couldn’t Hold
+structured_snippet: She wasn’t outside the frame by rebellion — she simply belonged to what no frame could hold.
+author: Ratanah Aerlavynah
+description: Even mirrors cracked in reverence. Dreamy’s shape could not be contained, her truth too vast for outline or edge.
+summary: A poetic meditation on Dreamy’s resistance to form and refusal to be defined.
+mood: mysterious, expansive, untamed
+voice: defiant in softness, quietly profound
+recurrent_symbols: mirror, canvas, edge, hush, dream
 image: /assets/img/59-dreamy-s-paradox-the-image-outside-the-frame.png
 permalink: /poems/59-dreamy-s-paradox-the-image-outside-the-frame/
 ---

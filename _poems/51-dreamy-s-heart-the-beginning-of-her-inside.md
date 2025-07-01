@@ -2,11 +2,16 @@
 layout: poem
 title: 'Dreamy’s Heart : the Beginning of her Inside'
 order: 51
-description: >-
-  <pre> I do not remember being born.  But I remember the hum, the feeling, the
-  morning warmth.  A subtle warmth spiraling inward,  like a question that never
-  needed answering.  That was me: or rather,…
-tags: []
+tags: ["origin", "inner pulse", "memory", "dreambirth", "feeling"]
+themes: ["sacred beginning", "unspoken life", "softness before time"]
+seo_title: "Dreamy’s Heart: The Beginning of Her Inside — Where the First Pulse of Feeling Became Her Only Origin"
+structured_snippet: "The sacred pre-memory of Dreamy’s origin, beyond flesh and into feeling."
+author: Ratanah Aerlavynah
+description: "A delicate remembering of Dreamy's earliest pulses, before form, where feeling birthed existence."
+summary: "Dreamy's origin is told not in flesh but in feeling — in the hush of what came before time."
+mood: "introspective, tender, timeless"
+voice: "first-person, sacred recollection"
+recurrent_symbols: ["hush", "pulse", "softness", "memory before form", "pre-existence"]
 image: /assets/img/51-dreamy-s-heart-the-beginning-of-her-inside.png
 permalink: /poems/51-dreamy-s-heart-the-beginning-of-her-inside/
 ---

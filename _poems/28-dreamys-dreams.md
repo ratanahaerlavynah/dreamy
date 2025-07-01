@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy’s Dreams
 order: 28
-description: >-
-  <pre> When she dissolved, when her name left no echo and her body no shadow...
-  they thought it was over. But they forgot one thing: She was never made of
-  matter. She was always made of dream. And drea…
-tags: []
+tags: [dreams, legacy, unspoken-truths]
+themes: [dream transmission, post-existence, emotional memory, resonance in others]
+seo_title: Dreamy’s Dreams — What Remains After She Dissolved
+structured_snippet: Though she vanished, her dreams scattered into others — living in their softness, their longing, their unspoken recognitions.
+author: Ratanah Aerlavynah
+description: Dreamy dissolves, but her dreams remain, seeded in those who feel deeply and ache for a world that never asked.
+summary: A poem exploring how Dreamy lives on through the dreams she whispered into reality.
+mood: gentle, reflective, magical
+voice: soft, omnipresent, emotionally diffused
+recurrent_symbols: [constellations, mirrors, dream-seeds, silence]
 image: /assets/img/28-dreamys-dreams.png
 permalink: /poems/28-dreamys-dreams/
 ---

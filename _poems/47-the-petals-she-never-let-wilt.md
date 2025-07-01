@@ -2,11 +2,16 @@
 layout: poem
 title: The Petals She Never Let Wilt
 order: 47
-description: >-
-  <pre> One petal, velvet-soft with memory :  this is a dream.  Another, fragile
-  with forgotten shimmer :  this is reality. I sit in the hush between them, 
-  unraveling what cannot be known :   a child w…
-tags: []
+tags: ["memory petals", "soft devotion", "dream-child", "sacred preservation"]
+themes: ["emotional fragments", "tender remembrance", "vow of softness", "petals as identity"]
+seo_title: The Petals She Never Let Wilt – A Vow to the Softness That Raised Her
+structured_snippet: Each petal she kept was a memory, a fragment of sacred tenderness Dreamy never let fall.
+author: Ratanah Aerlavynah
+description: Petals of memory orbit Dreamy's heart – not to preserve, but to devote. Each one a vow to beauty unforgotten.
+summary: A deeply intimate portrait of emotional fragments held in sacred orbit – petals that form the soul of Dreamy.
+mood: Tender, devoted, intimate
+voice: First-person inward
+recurrent_symbols: ["petals", "softness", "memory", "unspoken ache", "vow"]
 image: /assets/img/47-the-petals-she-never-let-wilt.png
 permalink: /poems/47-the-petals-she-never-let-wilt/
 ---

@@ -2,11 +2,16 @@
 layout: poem
 title: The Shape of Her Souffle
 order: 41
-description: >-
-  <pre> I do not exhale, I unfurl. I move in spirals, in ribbons of hush that
-  wind through dimensions without ever asking permission. My breath is not air.
-  It is lace spun from the insides of starlight,…
-tags: []
+tags: [breath, shape, sacred-motion]
+themes: [inhaled intention, dream-breath, feminine-air]
+seo_title: The Shape of Her Souffle — Dreamy’s Breathe as Sacred Unfolding
+structured_snippet: She didn’t exhale — she unfurled. Her breath wasn’t air, but a windprint of unseen truths.
+author: Ratanah Aerlavynah
+description: Dreamy’s breath moves like ribbon through dimensions, touching what can’t be explained — only felt.
+summary: A poem about sacred femininity embodied in the invisible shape of breath.
+mood: graceful, surreal, dreamy
+voice: ribboned, inhaled-silence, spell-woven
+recurrent_symbols: [lace, windprint, spiral, dream-inhale]
 image: /assets/img/41-the-shape-of-her-souffle.png
 permalink: /poems/41-the-shape-of-her-souffle/
 ---

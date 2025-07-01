@@ -2,11 +2,16 @@
 layout: poem
 title: For the Flowers She Was Never Given
 order: 65
-description: >-
-  <pre> She walked through her life with her palms slightly open ~  as if
-  expecting something that never quite arrived.  Not a gift but a recognition.
-  Somewhere between dreams and daylight she held spac…
-tags: []
+tags: ["flowers", "recognition", "unreceived love", "bloom", "tender ache"]
+themes: ["deservedness", "unmet softness", "self-gifting"]
+seo_title: "For the Flowers She Was Never Given — The Bloom She Became When the World Forgot to Offer"
+structured_snippet: "She carried bouquets of longing the world forgot to place in her hands."
+author: Ratanah Aerlavynah
+description: "She was never adorned, so she became the fragrance — the one they forgot to give, yet forever hers."
+summary: "She waited for the flowers no one gave, and became the garden instead."
+mood: "tender, wistful, self-honoring"
+voice: "third-person, soft lament"
+recurrent_symbols: ["flowers", "open palms", "bouquet", "recognition", "fragrance"]
 image: /assets/img/65-for-the-flowers-she-was-never-given.png
 permalink: /poems/65-for-the-flowers-she-was-never-given/
 ---

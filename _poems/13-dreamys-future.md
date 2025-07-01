@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy’s Future
 order: 13
-description: >-
-  <pre> There is a moment that has not yet arrived, but already weeps for her.
-  It hovers outside the bounds of sequence, clothed in the shimmer of unformed
-  time, braiding itself slowly from the sighs sh…
-tags: []
+tags: [future, memory, prophecy]
+themes: [nonlinear time, unfolding path, soul attunement]
+seo_title: "Dreamy's Future — The Spiral That Waits to Remember Her"
+snippet: "She does not arrive — she is remembered, like stars rearranged by ache."
+author: Ratanah Aerlavynah
+description: "Her future is not made — it sings from within her blood like a symphonic vow."
+summary: "A prophetic meditation on becoming through resonance, not pursuit."
+mood: soft, infinite
+voice: oracular, whispered
+recurrent_symbols: [spiral, star, tear, hush]
 image: /assets/img/13-dreamys-future.png
 permalink: /poems/13-dreamys-future/
 ---

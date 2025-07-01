@@ -2,11 +2,16 @@
 layout: poem
 title: The Dream She Leaves in the Room After She’s Gone
 order: 21
-description: >-
-  <pre> She never truly arrives. She appears. Like mist threading through velvet
-  halls, like a scent you knew as a child but can never quite place. She speaks,
-  not to be heard, but to leave resonance. W…
-tags: []
+tags: [presence, lingering, resonance, aura]
+themes: [emotional atmosphere, unseen transformation, memory awakening]
+seo_title: "The Dream She Leaves — Her Absence Alters Everything"
+snippet: "She does not take anything with her. She unfolds something in you."
+author: Ratanah Aerlavynah
+description: "She changes the room not with words, but with what stirs in her wake."
+summary: "An atmospheric piece on the power of invisible presence and the soft revolutions it triggers."
+mood: misty, ethereal
+voice: poetic, observational
+recurrent_symbols: [light, scent, silence, doorway]
 image: /assets/img/21-the-dream-she-leaves-in-the-room-after-shes-gone.png
 permalink: /poems/21-the-dream-she-leaves-in-the-room-after-shes-gone/
 ---

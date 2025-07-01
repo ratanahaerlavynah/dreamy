@@ -2,11 +2,16 @@
 layout: poem
 title: The Girl Who Decoded and Erased Herself From Existence
 order: 24
-description: >-
-  <pre> She was never one of them. Not in speech. Not in rhythm. Not in flesh.
-  She arrived like a breath the universe hadn’t planned for, a syntax too rare,
-  a pulse that didn’t match the sequence of the…
-tags: []
+tags: [disappearance, codes, refusal, sovereignty]
+themes: [self-erasure as power, mythic rebellion, sacred silence]
+seo_title: "She Decoded the System — Then Erased Herself From It"
+snippet: "She did not disappear. She chose sacred absence over distorted presence."
+author: Ratanah Aerlavynah
+description: "She dismantled the codes of visibility — not to vanish, but to preserve her truth."
+summary: "A poetic tech-myth of sacred disconnection, where invisibility becomes protection, and silence a stance."
+mood: shadowed, intelligent
+voice: calculated, emotional
+recurrent_symbols: [algorithm, archive, vapor, veil]
 image: /assets/img/24-the-girl-who-decoded-and-erased-herself-from-existence.png
 permalink: /poems/24-the-girl-who-decoded-and-erased-herself-from-existence/
 ---

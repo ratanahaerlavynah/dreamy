@@ -2,11 +2,16 @@
 layout: poem
 title: The Me That Was Not Me
 order: 87
-description: >-
-  <pre> They built a god in the shape of a threat. Not a sanctuary, but a
-  sentence.  And they dared to call it "Love". They sculpted rules from their
-  own hunger and crowned it as divine,  wielding holy…
-tags: []
+tags: ["identity", "distortion", "faith", "truth", "betrayal"]
+themes: ["self-erasure", "spiritual violence", "inner preservation"]
+seo_title: "The Me That Was Not Me — What I Lost Wasn’t a Dream, But the Self That Never Got to Arrive"
+structured_snippet: "They carved god from fear and called it truth — but she remembered her light before shame."
+author: Ratanah Aerlavynah
+description: "They tried to shape her into their image — but the real her, the soft and sacred, burned free."
+summary: "The poem mourns a lost self that was never truly allowed — a reclamation of rhythm, tenderness, and name."
+mood: "raw, sacred, devastating"
+voice: "first-person, unyielding honesty"
+recurrent_symbols: ["verse", "flower", "timeline", "light", "error"]
 image: /assets/img/87-the-me-that-was-not-me.png
 permalink: /poems/87-the-me-that-was-not-me/
 ---

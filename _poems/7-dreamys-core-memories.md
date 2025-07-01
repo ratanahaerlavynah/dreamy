@@ -2,11 +2,16 @@
 layout: poem
 title: Dreamy's Core Memories
 order: 7
-description: >-
-  <pre> There are rooms inside her that have no doors. Only light that breathes
-  like something once wounded, now waiting. She does not open them with keys,
-  but with remembrance... a scent, a chord, a fl…
-tags: []
+tags: [memory, soul, identity]
+themes: [inner rooms, emotional legacy, timeless self]
+seo_title: "Dreamy's Core Memories — The Rooms Without Doors"
+snippet: "She remembers through flickers of light, of scent, of truth that never had to speak."
+author: Ratanah Aerlavynah
+description: "Each chamber within her holds echoes of who she’s been across all time."
+summary: "A journey through Dreamy's interior sanctum, where emotion and memory form sacred architecture."
+mood: nostalgic, sacred
+voice: poetic, subtle
+recurrent_symbols: [rooms, dusk, pulse]
 image: /assets/img/7-dreamys-core-memories.png
 permalink: /poems/7-dreamys-core-memories/
 ---
