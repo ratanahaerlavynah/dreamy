@@ -18,6 +18,59 @@ permalink: /letterbox.html
 </section>
 
 <style>
+/* Dreamy Glow Animations */
+@keyframes dreamy-pulse {
+  0% {
+    box-shadow: 0 0 0px #ffb6d5;
+  }
+  50% {
+    box-shadow: 0 0 15px #ffaad4, 0 0 30px #ffcde4;
+  }
+  100% {
+    box-shadow: 0 0 0px #ffb6d5;
+  }
+}
+
+form button {
+  animation: dreamy-pulse 3.3s ease-in-out infinite;
+  box-shadow: 0 0 10px rgba(255, 174, 222, 0.5); /* Soft glow aura always-on */
+}
+
+/* Scintillant hover halo */
+form button:hover {
+  box-shadow:
+    0 0 8px #ffcbe6,
+    0 0 16px #ffaad4,
+    0 0 24px #f989c2;
+  transition: box-shadow 0.3s ease;
+}
+
+/* Optional pulse when clicking */
+form button:active {
+  transform: scale(0.97);
+  box-shadow: 0 0 30px #ffaad4;
+}
+
+
+.letterbox-title {
+  animation: title-glow 3.0s ease-in-out infinite;
+}
+
+@keyframes title-glow {
+  0% {
+    text-shadow: 0 0 3px #ffb6d5;
+  }
+  50% {
+    text-shadow: 0 0 8px #ffcce4, 0 0 16px #f989c2;
+  }
+  100% {
+    text-shadow: 0 0 3px #ffb6d5;
+  }
+}
+
+
+
+
 .letterbox-container {
   background: #fef1f8;
   padding: 2rem;
