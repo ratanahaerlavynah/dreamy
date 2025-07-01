@@ -211,25 +211,49 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
   .banner-img.banner-poems { width:100%; height:auto; object-fit:cover; }
 }
 
-/* ===== Footer ===== */
+/* ===== Footer & Page Style (Legal / Privacy) ===== */
 .site-footer {
-  text-align:center;
-  margin-top:3rem; padding-top:1rem;
-  border-top:1px solid #ddd;
+  text-align: center;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
 }
-.footer-connect { font-size:1.1rem; margin-bottom:.5rem; }
-.footer-links { display:flex; flex-wrap:wrap; justify-content:center; gap:1rem; }
-.footer-links a { text-decoration:none; color:#333; }
-.footer-links a:hover { text-decoration:underline; }
-.footer-copy { font-size:.7rem; color:#ead3dd; margin:0; }
 
-.footer-copy .legal-link {
+.footer-connect {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #333;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-copy {
+  font-size: 0.7rem;
+  color: #ead3dd;
+  margin: 0;
+}
+
+.footer-copy a {
   text-decoration: underline;
   color: inherit;
   margin-left: 0.3rem;
   font-size: 0.95em;
 }
-.footer-copy .legal-link:hover {
+
+.footer-copy a:hover {
   color: #e070a0;
 }
 
@@ -240,13 +264,65 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
   font-size: 1.1rem;
   line-height: 1.7;
   color: #444;
+  font-family: 'Helvetica Neue', sans-serif;
 }
+
+.page-content a {
+  color: #d16fa8;
+  text-decoration: underline;
+}
+
+.page-content a:hover {
+  color: #e070a0;
+}
+
 .page-title {
-  font-size: 2rem;
+  font-size: 1.6rem; /* smaller like Legal Notice */
   text-align: center;
   margin-bottom: 2rem;
   color: #d16fa8;
 }
+
+/* For section titles like 'Site Owner', 'Hosting Provider' etc. */
+.page-content strong {
+  color: #e070a0;
+  font-weight: bold;
+  display: block;
+  margin-top: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+
+/* For numbered headings in privacy.html like '1. External Links' */
+.page-content h2 {
+  font-size: 1.1rem;
+  color: #e070a0;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.page-content p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.date-updated {
+  color: #999;
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.thank-you {
+  color: #e070a0;
+  text-align: center;
+  margin-top: 2rem;
+  font-style: italic;
+}
+
+
 
 
 
