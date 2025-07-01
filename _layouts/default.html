@@ -82,9 +82,6 @@
         </script>
       </nav>
 
-      <!-- Homepage Hero Banner -->
-  
-
       {{ content }}
     </main>
 
@@ -95,15 +92,13 @@
         <a href="https://www.tiktok.com/@aerlavynah" target="_blank" rel="noopener noreferrer">TikTok 🎵</a>
       </div>
       <p class="footer-copy">
-        © 2025 Ratanah Aerlavynah ·
-<a href="/legal" class="legal-link">Legal Notice</a> ·
-<a href="/privacy" class="legal-link">Privacy</a> ·
-<a href="/terms" class="legal-link">Terms</a>
-
+        © {{ site.time | date: "%Y" }} Ratanah Aerlavynah ·
+        <a href="/legal" class="legal-link">Legal Notice</a> ·
+        <a href="/privacy" class="legal-link">Privacy</a> ·
+        <a href="/terms" class="legal-link">Terms</a>
       </p>
-          </footer>
+    </footer>
 
-    <!-- Optional scripts below -->
     {{ content_for_footer }}
   </body>
 </html>

@@ -321,7 +321,40 @@ img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
   margin-top: 2rem;
   font-style: italic;
 }
+.footer-top-link {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
+.footer-top-link a {
+  color: #d16fa8;
+  text-decoration: none;
+}
+.footer-top-link a:hover {
+  text-decoration: underline;
+  color: #e070a0;
+}
+/* ===== Optional Responsive & Helper Footer Enhancements ===== */
 
+/* 1. Stack footer links gracefully on very small screens */
+@media (max-width: 480px) {
+  .footer-links {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* 2. Small helper note (optional use: “Last updated on…” etc.) */
+.helper-note {
+  font-size: 0.85rem;
+  color: #999;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* 3. Hidden semantic blocks for SEO microdata (if used) */
+.structured-data {
+  display: none;
+}
 
 
 
@@ -492,4 +525,63 @@ pre, code, span {
 
 .modal-close:hover {
   background: #ffb6c1;
+}
+
+
+/* Dark-Mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #eeeeee;
+  }
+
+  .site-header,
+  .site-footer {
+    background-color: #111111;
+    border-color: #444;
+  }
+
+  .site-nav a {
+    color: #f2b9dd;
+  }
+
+  .site-nav a:hover {
+    color: #ffd0e9;
+  }
+
+  .footer-links a {
+    color: #ccc;
+  }
+
+  .footer-links a:hover,
+  .footer-copy a:hover {
+    color: #ffb6d6;
+  }
+
+  .footer-copy {
+    color: #aa88a8;
+  }
+
+  .page-content {
+    color: #dddddd;
+    background-color: transparent;
+  }
+
+  .page-content a {
+    color: #f2b9dd;
+  }
+
+  .page-content a:hover {
+    color: #ffd0e9;
+  }
+
+  .page-content h2,
+  .page-content strong,
+  .page-title {
+    color: #f9a7d1;
+  }
+
+  .thank-you {
+    color: #f2b9dd;
+  }
 }

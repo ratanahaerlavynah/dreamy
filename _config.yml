@@ -10,10 +10,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-paginate
-  - jekyll-seo-tag
-  
+
 paginate: 5
 paginate_path: "/page:num/"
+
 exclude:
   - Gemfile
   - Gemfile.lock        
@@ -26,6 +26,7 @@ exclude:
   - .git
 
 markdown: kramdown
+
 collections:
   poems:
     output: true
@@ -33,3 +34,10 @@ collections:
 
 include:
   - poems-data.js
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      sitemap: true
