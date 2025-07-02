@@ -13,14 +13,16 @@
 <meta name="theme-color" content="#ffc0e8">
 
 <link href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" rel="stylesheet">
+<link rel="manifest" href="{{ '/assets/favicon/site.webmanifest' | relative_url }}" type="application/manifest+json">
 
 
-    <!-- Preload homepage hero image for faster rendering -->
-    <link
-      rel="preload"
-      as="image"
-      href="{{ '/assets/img/banner-home.png' | relative_url }}"
-    />
+   <!-- Preload homepage hero image for faster rendering -->
+<link
+rel="preload"
+as="image"
+href="{{ '/assets/img/banner-home.webp' | relative_url }}"
+type="image/webp"
+/>
 
     <title>{{ page.title }} — Aerlavynah</title>
     {% seo %}
@@ -59,23 +61,24 @@
     />
 
     <!-- Person JSON‑LD -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Ratanah Aerlavynah",
-      "url": "https://aerlavynah.com",
-      "description": "Ratanah Aerlavynah (Dreamy) is a contemporary web poet. Her oeuvre examines memory, space, and identity through concise lyrical forms.",
-      "image": [
-        "https://aerlavynah.com/assets/img/banner-home.png",
-        "https://aerlavynah.com/assets/img/Douceur dans les nuages pastel.png"
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ratanah Aerlavynah",
+    "url": "https://aerlavynah.com",
+    "description": "Ratanah Aerlavynah (Dreamy) is a contemporary web poet. Her oeuvre examines memory, space, and identity through concise lyrical forms.",
+    "image": [
+      "https://aerlavynah.com/assets/img/banner-home.webp",
+      "https://aerlavynah.com/assets/img/dreamy-in-soft-clouds.webp"
       ],
-      "sameAs": [
-        "https://www.instagram.com/aerlavynah",
-        "https://www.tiktok.com/@aerlavynah"
-      ]
-    }
-    </script>
+    "sameAs": [
+      "https://www.instagram.com/aerlavynah",
+      "https://www.tiktok.com/@aerlavynah"
+    ]
+  }
+  </script>
+  
 
     <!-- WebSite JSON‑LD with SearchAction -->
     <script type="application/ld+json">
