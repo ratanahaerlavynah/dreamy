@@ -1,879 +1,419 @@
-html {
-  box-sizing: border-box;
-}
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-/* ===== Global Body ===== */
-body {
-  margin: 0;
-  padding: 0;
-  font: 0.9rem/1.6 'Courier New', monospace;
-  color: #222;
-  background: #fff;
-}
-
-/* ===== Container ===== */
-.site-container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 1rem;
-  box-sizing: border-box;
-}
-
-/* ===== Header ===== */
-.site-header {
-  text-align: center;
-  margin: 0 0 2rem;
-  padding: 1rem 0;
-}
-
-/* ===== Site Title ===== */
-#site-title {
-  font-family: 'Italianno', cursive;
-  font-size: clamp(3rem, 8vw, 6rem);
-  font-weight: 200;
-  margin: 1rem 0 0.5rem;
-  background: linear-gradient(90deg, #f48abf, #ffc0e8);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: site-title-glow 3s ease-in-out infinite;
-}
-@keyframes site-title-glow {
-  0%,100% {
-    text-shadow: 0 0 3px rgba(244,138,191,0.5), 0 0 5px rgba(255,192,203,0.3);
-  }
-  50% {
-    text-shadow: 0 0 6px rgba(244,138,191,0.7), 0 0 8px rgba(255,192,203,0.5);
-  }
-}
-
-/* ===== Navigation ===== */
-.site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-  margin-top: 0.5rem;
-}
-.site-nav a {
-  text-decoration: none;
-  font-size: 1rem;
-  color: #333;
-  padding: 0.5rem 1rem;
-}
-.site-nav a:hover { text-decoration: underline; }
-@media (max-width: 480px) {
-  .site-nav { flex-direction: column; }
-  .site-nav a { padding: 0.4rem 0.8rem; font-size: 0.9rem; }
-}
-
-/* ===== Poem List ===== */
-.poem-list-title {
-  font-family: 'Italianno', cursive;
-  color: #f48abf;
-  font-size: 3.4rem;
-  text-align: center;
-  margin-bottom: 2rem;
-  font-weight: 100 !important;
-  letter-spacing: -0.03em !important;
-  font-stretch: condensed !important;
-  animation: poem-glow 6s ease-in-out infinite, poem-fade 1.2s ease-in forwards;
-  text-shadow: 0 0 4px #f8b8d2;
-}
-
-  
-.poem-list { list-style: none; padding: 0; text-align: center; }
-.poem-list li { margin: 0.8rem 0; }
-.poem-link {
-  font-family: 'Italianno', cursive;
-  color: #f48abf;
-  font-size: 2rem;
-  text-decoration: none;
-}
-.poem-link:hover { text-decoration: underline; }
-
-
-
-/* ===== Poem Page Title ===== */
-.poem-title {
-  font-family: 'Italianno', cursive;
-  font-size: 2.8rem;
-  color: #f48abf;
-  margin: 1.8rem 0 1.5rem;
-
-  /* nos nouvelles lignes : */
-  font-weight: 100 !important;
-  letter-spacing: -0.03em !important;
-  font-stretch: condensed !important;
-  animation: poem-glow 6s ease-in-out infinite, poem-fade 1.2s ease-in forwards;
-text-shadow: 0 0 4px #f8b8d2;
-
-@keyframes poem-glow {
-  0% {
-    text-shadow: 0 0 4px #f8b8d2;
-  }
-  50% {
-    text-shadow: 0 0 10px #ffcce6, 0 0 20px #f48abf;
-  }
-  100% {
-    text-shadow: 0 0 4px #f8b8d2;
-  }
-}
-
-@keyframes poem-fade {
-  to {
-    opacity: 1;
-  }
-}
-
-
-}
-
-@media (max-width: 600px) {
-  .poem-title { text-align: center; margin: 2rem 0 1rem; font-size: 2rem; }
-}
-
-/* ===== Prev/Next Navigation ===== */
-.poem-nav-top, .poem-nav-bottom {
-  margin: 0; display: flex; justify-content: space-between;
-}
-.poem-nav-top { margin-bottom: .5rem; }
-.poem-nav-bottom { margin-top: 1.5rem; }
-.poem-nav-prev, .poem-nav-next {
-  font-family: 'Italianno', cursive;
-  font-size: 1.5rem;
-  color: #f48abf;
-  text-decoration: none;
-}
-.poem-nav-prev:hover, .poem-nav-next:hover { text-decoration: underline; }
-@media (max-width: 600px) {
-  .poem-nav-top, .poem-nav-bottom { justify-content: center; }
-}
-
-.letterbox-container {
-  background: var(--background-soft, #fef8fc);
-  padding: 2rem;
-  border-radius: 12px;
-  max-width: 600px;
-  margin: 4rem auto;
-  box-shadow: 0 0 20px rgba(255, 192, 203, 0.2);
-}
-
-
-/* ===== Images & Media ===== */
-img, pre, code, table { max-width: 100%; overflow-wrap: break-word; }
-
-/* Banner Component */
-.banner-img {
-  --w: 400px; --scale: 1; --max: 95vw;
-  width: calc(var(--w) * var(--scale));
-  max-width: var(--max);
-  height: auto;
-  margin: 2rem auto;
-  border-radius: .5rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-}
-.banner-poems {
-  /* Center banner image */
-  display: block;
-  margin: 2rem auto;
-  object-fit: cover;
-}
-
-/* ===== Picture Gallery ===== */
-.picture-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
-  gap: 1.25rem;
-  margin: 3rem auto;
-  max-width: 1200px;
-  padding: 0 1.25rem;
-}
-.picture-gallery img {
-  width: 100%; height: auto;
-  object-fit: cover;
-  border-radius: .5rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-  transition: transform .3s ease;
-}
-.picture-gallery img:hover { transform: scale(1.04); }
-
-/* ===== Search & Modal ===== */
-.search-container { text-align: center; margin: 2em 0; }
-#poem-search {
-  width: 80%; max-width: 360px;
-  padding: .6em 1em;
-  font: 1em inherit;
-  border: 1px solid #ffc0cb;
-  border-radius: 24px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  transition: box-shadow .2s, border-color .2s;
-}
-#poem-search:focus { border-color: #ff69b4; box-shadow: 0 0 8px rgba(255,105,180,0.3); }
-#poem-search::placeholder { color: #ffb6c1; font-style: italic; }
-
-.word-search-btn {
-  display: inline-flex; align-items: center; justify-content: center;
-  background: #ffe4f0; color: #d6336c;
-  border: 2px solid #ffc0cb; border-radius: 50px;
-  padding: .5em 1em; font-size: .9em;
-  box-shadow: 0 2px 6px rgba(214,51,108,0.3);
-  cursor: pointer; transition: all .2s;
-  margin-left: .5em;
-}
-.word-search-btn:hover { transform: scale(1.05); }
-
-.modal {
-  display: none; position: fixed; inset: 0;
-  background: rgba(255,255,255,0.8); backdrop-filter: blur(4px);
-  justify-content: center; align-items: center; z-index: 2000;
-}
-.modal.show { display: flex; }
-.modal-content {
-  background: #fff0f6; border: 2px solid #ffc0cb;
-  border-radius: 16px; padding: 1.5em 2em;
-  box-shadow: 0 8px 20px rgba(214,51,108,0.2);
-  max-width: 90%; width: 320px; text-align: center;
-}
-.modal-close {
-  position: absolute; top: .5rem; right: .5rem;
-  width: 1.5rem; height: 1.5rem; padding:0;
-  border:none; border-radius:50%;
-  background:#ffc0cb; color:#d6336c;
-  font-size:1rem; cursor:pointer;
-}
-.modal-close:hover { background:#ffe4e9; }
-
-@media (max-width:768px) {
-  .banner-img.banner-poems { width:100%; height:auto; object-fit:cover; }
-}
-
-/* 🌙 Dreamy Dark Mode for Search & Modal */
-
-#poem-search,
-#word-search-input {
-  background-color: #1a1a1a;
-  color: #ffe4f0;
-  border: 1px solid #f48abf;
-  box-shadow: 0 2px 8px rgba(255, 182, 217, 0.2);
-}
-
-#poem-search::placeholder,
-#word-search-input::placeholder {
-  color: #ffb6d5;
-  font-style: italic;
-}
-
-/* Modal backdrop darker */
-.modal {
-  background: rgba(15, 10, 20, 0.85);
-  backdrop-filter: blur(6px);
-}
-
-/* Modal content box in dark tone */
-.modal-content {
-  background-color: #2b1e2e;
-  border-color: #f48abf;
-  box-shadow: 0 8px 24px rgba(244, 138, 191, 0.3);
-  color: #ffeef7;
-}
-
-/* Modal title */
-.modal-content h2 {
-  color: #ffb6d5;
-  font-family: 'Italianno', cursive;
-}
-
-/* Modal close button */
-.modal-close {
-  background-color: #f48abf;
-  color: #1a1a1a;
-}
-
-.modal-close:hover {
-  background-color: #ffdaec;
-}
-
-/* Word search button next to title bar */
-.word-search-btn {
-  background-color: #2b1e2e;
-  color: #ffb6d5;
-  border-color: #f48abf;
-  box-shadow: 0 2px 8px rgba(244, 138, 191, 0.3);
-}
-
-.word-search-btn:hover {
-  background-color: #39293f;
-}
-
-/* 🌙 Dark Mode – Title Search Bar */
-#poem-search {
-  background-color: #1a1a1a !important;
-  color: #ffeef7;
-  border: 1px solid #f48abf;
-  box-shadow: 0 2px 6px rgba(255, 182, 217, 0.15);
-}
-#poem-search::placeholder {
-  color: #f8c9df;
-  font-style: italic;
-}
-
-/* 🌙 Dark Mode – Word Search Modal */
-.modal {
-  background-color: rgba(0, 0, 0, 0.7); /* darker blur */
-  backdrop-filter: blur(8px);
-}
-
-/* 🌙 Modal Inner Box */
-.modal-content {
-  background-color: #1e1a24 !important;
-  border: 2px solid #f48abf !important;
-  box-shadow: 0 8px 24px rgba(244, 138, 191, 0.25);
-  color: #ffeef7;
-}
-
-/* 🌙 Modal Title */
-.modal-content h2 {
-  color: #fcbddf;
-}
-
-/* 🌙 Word Input Field in Modal */
-#word-search-input {
-  background-color: #1a1a1a !important;
-  color: #ffeef7;
-  border: 1px solid #f48abf;
-  box-shadow: 0 2px 6px rgba(255, 182, 217, 0.15);
-}
-#word-search-input::placeholder {
-  color: #f3bfd7;
-}
-
-/* 🌙 Close Button */
-.modal-close {
-  background-color: #f48abf;
-  color: #1a1a1a;
-}
-.modal-close:hover {
-  background-color: #ffd6ea;
-}
-
-/* 🌙 Word Results Styling */
-#word-search-results {
-  color: #f9d6ec;
-}
-#word-search-results a {
-  color: #ffe0f5;
-}
-#word-search-results a:hover {
-  color: #ffd0ec;
-}
-/* === DARK MODE for Search & Modal === */
-
-#poem-search,
-#word-search-input {
-  background: #1a1a1a;
-  color: #f5c5dc;
-  border: 1px solid #ff8ecf;
-  box-shadow: 0 0 6px rgba(255, 105, 180, 0.3);
-}
-
-#poem-search::placeholder,
-#word-search-input::placeholder {
-  color: #ce8ab5;
-  font-style: italic;
-}
-
-/* 🔍 Word search modal background (inside popup) */
-.modal-content {
-  background: #1c1c1f !important;
-  border: 2px solid #ff99cc;
-  box-shadow: 0 8px 24px rgba(255, 128, 187, 0.3);
-  color: #f5d0ea;
-}
-
-/* ❌ Close button inside modal */
-.modal-close {
-  background: #ff99cc;
-  color: #2e0e1a;
-}
-.modal-close:hover {
-  background: #ffbedf;
-}
-
-/* ✨ BACKDROP of the modal — REMOVE white & apply darker glow */
-.modal {
-  background: rgba(0, 0, 0, 0.5) !important;
-  backdrop-filter: blur(8px);
-}
-
-
-/* ===== Footer & Page Style (Legal / Privacy) ===== */
-.site-footer {
-  text-align: center;
-  margin-top: 3rem;
-  padding-top: 1rem;
-  border-top: 1px solid #ddd;
-}
-
-.footer-connect {
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
-}
-
-.footer-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-}
-
-.footer-links a {
-  text-decoration: none;
-  color: #333;
-}
-
-.footer-links a:hover {
-  text-decoration: underline;
-}
-
-.footer-copy {
-  font-size: 0.7rem;
-  color: #ead3dd;
-  margin: 0;
-}
-
-.footer-copy a {
-  text-decoration: underline;
-  color: inherit;
-  margin-left: 0.3rem;
-  font-size: 0.95em;
-}
-
-.footer-copy a:hover {
-  color: #e070a0;
-}
-
-.page-content {
-  max-width: 700px;
-  margin: 4rem auto;
-  padding: 2rem;
-  font-size: 1.1rem;
-  line-height: 1.7;
-  color: #444;
-  font-family: 'Helvetica Neue', sans-serif;
-}
-
-.page-content a {
-  color: #d16fa8;
-  text-decoration: underline;
-}
-
-.page-content a:hover {
-  color: #e070a0;
-}
-
-.page-title {
-  font-size: 1.6rem; /* smaller like Legal Notice */
-  text-align: center;
-  margin-bottom: 2rem;
-  color: #d16fa8;
-}
-
-/* For section titles like 'Site Owner', 'Hosting Provider' etc. */
-.page-content strong {
-  color: #e070a0;
-  font-weight: bold;
-  display: block;
-  margin-top: 1.5rem;
-  margin-bottom: 0.3rem;
-}
-
-/* For numbered headings in privacy.html like '1. External Links' */
-.page-content h2 {
-  font-size: 1.1rem;
-  color: #e070a0;
-  font-weight: bold;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.page-content p {
-  font-size: 1.05rem;
-  line-height: 1.7;
-  color: #333;
-  margin-bottom: 1rem;
-}
-
-.date-updated {
-  color: #999;
-  font-size: 0.9rem;
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
-.thank-you {
-  color: #e070a0;
-  text-align: center;
-  margin-top: 2rem;
-  font-style: italic;
-}
-.footer-top-link {
-  margin-top: 1rem;
-  font-size: 0.85rem;
-}
-.footer-top-link a {
-  color: #d16fa8;
-  text-decoration: none;
-}
-.footer-top-link a:hover {
-  text-decoration: underline;
-  color: #e070a0;
-}
-/* ===== Optional Responsive & Helper Footer Enhancements ===== */
-
-/* 1. Stack footer links gracefully on very small screens */
-@media (max-width: 480px) {
-  .footer-links {
-    flex-direction: column;
-    align-items: center;
-  }
-}
-
-/* 2. Small helper note (optional use: “Last updated on…” etc.) */
-.helper-note {
-  font-size: 0.85rem;
-  color: #999;
-  text-align: center;
-  margin-top: 1rem;
-}
-
-/* 3. Hidden semantic blocks for SEO microdata (if used) */
-.structured-data {
-  display: none;
-}
-
-
-
-
-/* ===== Print Styles ===== */
-@media print {
-  body * { visibility: hidden; }
-  .poem-content, .poem-title, .poem-footer-print { visibility: visible; }
-  .poem-title { color:#ff69b4 !important; font-style:italic !important; }
-  .poem-content { font-family:inherit; line-height:1.6; margin:0 1em; }
-  .poem-footer-print { margin-top:2em; font-size:.8em; text-align:center; color:#555; }
-}
-
-pre, code, span {
-  white-space: pre-wrap;
-  word-break: break-word;
-}
-
-/* ===== Home Page Titles ===== */
-.home-title {
+/* ─────────────────────────────────────────
+   🌐  RESET & BASE
+───────────────────────────────────────── */
+html{box-sizing:border-box}
+*,*::before,*::after{box-sizing:inherit}
+
+body{
+  margin:0;padding:0;
+  font:0.9rem/1.6 'Courier New',monospace;
+  color:#222;background:#fff;
+}
+
+/* ─────────────────────────────────────────
+   📐  LAYOUT
+───────────────────────────────────────── */
+.site-container{
+  max-width:800px;margin:0 auto;
+  padding:0 1rem;box-sizing:border-box;
+}
+
+/* ─────────────────────────────────────────
+   ✨  HEADER & BRANDING
+───────────────────────────────────────── */
+.site-header{margin:0 0 2rem;padding:1rem 0;text-align:center}
+
+#site-title{
   font-family:'Italianno',cursive;
-  font-size:clamp(2rem,6vw,4rem);
-  font-weight:200;
-  margin:1rem 0;
-  /* center the subtitle text */
-  text-align: center;
+  font-size:clamp(3rem,8vw,6rem);
+  font-weight:200;margin:1rem 0 .5rem;
   background:linear-gradient(90deg,#f48abf,#ffc0e8);
-  -webkit-background-clip:text;
-  background-clip:text;
+  -webkit-background-clip:text;background-clip:text;
+  -webkit-text-fill-color:transparent;
+  animation:site-title-glow 3s ease-in-out infinite;
+}
+
+/* ─────────────────────────────────────────
+   🧭  NAVIGATION
+───────────────────────────────────────── */
+.site-nav{
+  display:flex;flex-wrap:wrap;justify-content:center;
+  gap:1rem;margin-top:.5rem;
+}
+.site-nav a{
+  padding:.5rem 1rem;font-size:1rem;
+  text-decoration:none;color:#333;
+}
+.site-nav a:hover{text-decoration:underline}
+
+@media(max-width:480px){
+  .site-nav{flex-direction:column}
+  .site-nav a{padding:.4rem .8rem;font-size:.9rem}
+}
+
+/* ─────────────────────────────────────────
+   📜  POEM LIST
+───────────────────────────────────────── */
+.poem-list-title{
+  font-family:'Italianno',cursive;color:#f48abf;
+  font-size:3.4rem;text-align:center;margin-bottom:2rem;
+  font-weight:100!important;letter-spacing:-.03em!important;
+  font-stretch:condensed!important;
+  animation:poem-glow 6s ease-in-out infinite,poem-fade 1.2s ease-in forwards;
+  text-shadow:0 0 4px #f8b8d2;
+}
+
+.poem-list{list-style:none;padding:0;text-align:center}
+.poem-list li{margin:.8rem 0}
+.poem-link{
+  font-family:'Italianno',cursive;color:#f48abf;
+  font-size:2rem;text-decoration:none;
+}
+.poem-link:hover{text-decoration:underline}
+
+/* ─────────────────────────────────────────
+   📝  POEM PAGE TITLE
+───────────────────────────────────────── */
+.poem-title{
+  font-family:'Italianno',cursive;font-size:2.8rem;
+  color:#f48abf;margin:1.8rem 0 1.5rem;
+  font-weight:100!important;letter-spacing:-.03em!important;
+  font-stretch:condensed!important;
+  animation:poem-glow 6s ease-in-out infinite,poem-fade 1.2s ease-in forwards;
+  text-shadow:0 0 4px #f8b8d2;
+}
+
+@media(max-width:600px){
+  .poem-title{text-align:center;margin:2rem 0 1rem;font-size:2rem}
+}
+
+/* ─────────────────────────────────────────
+   ↔️  PREV / NEXT NAV
+───────────────────────────────────────── */
+.poem-nav-top,.poem-nav-bottom{
+  margin:0;display:flex;justify-content:space-between;
+}
+.poem-nav-top{margin-bottom:.5rem}
+.poem-nav-bottom{margin-top:1.5rem}
+
+.poem-nav-prev,.poem-nav-next{
+  font-family:'Italianno',cursive;font-size:1.5rem;
+  color:#f48abf;text-decoration:none;
+}
+.poem-nav-prev:hover,.poem-nav-next:hover{text-decoration:underline}
+
+@media(max-width:600px){
+  .poem-nav-top,.poem-nav-bottom{justify-content:center}
+}
+
+/* ─────────────────────────────────────────
+   📦  LETTERBOX
+───────────────────────────────────────── */
+.letterbox-container{
+  background:var(--background-soft,#fef8fc);
+  padding:2rem;border-radius:12px;
+  max-width:600px;margin:4rem auto;
+  box-shadow:0 0 20px rgba(255,192,203,.2);
+}
+
+/* ─────────────────────────────────────────
+   🖼️  MEDIA & BANNERS
+───────────────────────────────────────── */
+img,pre,code,table{max-width:100%;overflow-wrap:break-word}
+
+.banner-img{
+  --w:400px;--scale:1;--max:95vw;
+  width:calc(var(--w)*var(--scale));max-width:var(--max);
+  margin:2rem auto;height:auto;border-radius:.5rem;
+  box-shadow:0 4px 12px rgba(0,0,0,.12);
+}
+.banner-poems{display:block;margin:2rem auto;object-fit:cover}
+
+@media(max-width:768px){
+  .banner-img.banner-poems{width:100%;height:auto;object-fit:cover}
+}
+
+/* ─────────────────────────────────────────
+   🖼️✨  PICTURE GALLERY
+───────────────────────────────────────── */
+.picture-gallery{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:1.25rem;margin:3rem auto;max-width:1200px;padding:0 1.25rem;
+}
+.picture-gallery img{
+  width:100%;height:auto;object-fit:cover;
+  border-radius:.5rem;box-shadow:0 4px 12px rgba(0,0,0,.12);
+  transition:transform .3s ease;
+}
+.picture-gallery img:hover{transform:scale(1.04)}
+
+/* ─────────────────────────────────────────
+   🔍  SEARCH & MODAL
+───────────────────────────────────────── */
+.search-container{text-align:center;margin:2em 0}
+
+/* Field */
+#poem-search{
+  width:80%;max-width:360px;
+  padding:.6em 1em;font:1em inherit;
+  border:1px solid #ffc0cb;border-radius:24px;
+  box-shadow:0 2px 6px rgba(0,0,0,.05);
+  transition:box-shadow .2s,border-color .2s;
+}
+#poem-search:focus{border-color:#ff69b4;box-shadow:0 0 8px rgba(255,105,180,.3)}
+#poem-search::placeholder{color:#ffb6c1;font-style:italic}
+
+/* Button */
+.word-search-btn{
+  display:inline-flex;align-items:center;justify-content:center;
+  background:#ffe4f0;color:#d6336c;border:2px solid #ffc0cb;
+  border-radius:50px;padding:.5em 1em;font-size:.9em;
+  box-shadow:0 2px 6px rgba(214,51,108,.3);
+  cursor:pointer;transition:all .2s;margin-left:.5em;
+}
+.word-search-btn:hover{transform:scale(1.05)}
+
+/* Modal — base */
+.modal{
+  display:none;position:fixed;inset:0;
+  background:rgba(255,255,255,.8);backdrop-filter:blur(4px);
+  justify-content:center;align-items:center;z-index:2000;
+}
+/* Modal — later light-theme variant (kept for exactness) */
+.modal{
+  display:none;position:fixed;inset:0;
+  background:rgba(255,240,246,.8);backdrop-filter:blur(6px);
+  justify-content:center;align-items:center;z-index:2000;
+}
+.modal.show{display:flex}
+
+.modal-content{
+  position:relative;background:#ffeaf5;border:3px solid #ffc0cb;
+  border-radius:20px;padding:2em;
+  box-shadow:0 8px 20px rgba(214,51,108,.25);
+  width:320px;max-width:95%;max-height:80vh;
+  overflow:hidden;display:flex;flex-direction:column;align-items:center;
+}
+.modal-content h2{
+  font-family:'Italianno',cursive;font-size:2rem;
+  color:#d6336c;margin-bottom:.5em;
+}
+
+.modal-close{
+  position:absolute;top:.75rem;right:.75rem;
+  width:1.8rem;height:1.8rem;background:#ffc0cb;
+  border:none;color:white;border-radius:50%;
+  font-size:1.2rem;cursor:pointer;
+  box-shadow:0 2px 6px rgba(0,0,0,.1);
+}
+.modal-close:hover{background:#ffb6c1}
+
+/* Word-input & results */
+#word-search-input{
+  width:100%;padding:.6em 1em;border:1px solid #ffc0cb;
+  border-radius:24px;margin-bottom:1em;font-size:1em;text-align:center;
+  color:#d6336c;font-family:inherit;
+  box-shadow:0 2px 4px rgba(0,0,0,.08);
+}
+#word-search-input::placeholder{color:#ffb6c1;font-style:italic}
+
+#word-search-results{
+  max-height:200px;overflow-y:auto;margin-top:1em;text-align:left;
+  padding:.5em;font-family:'Courier New',monospace;font-size:.9rem;color:#d6336c;
+}
+#word-search-results a{color:#ffe0f5}
+#word-search-results a:hover{color:#ffd0ec}
+
+/* ─────────────────────────────────────────
+   🖨️  PRINT
+───────────────────────────────────────── */
+@media print{
+  body *{visibility:hidden}
+  .poem-content,.poem-title,.poem-footer-print{visibility:visible}
+  .poem-title{color:#ff69b4!important;font-style:italic!important}
+  .poem-content{font-family:inherit;line-height:1.6;margin:0 1em}
+  .poem-footer-print{margin-top:2em;font-size:.8em;text-align:center;color:#555}
+}
+
+/* ─────────────────────────────────────────
+   🏠  HOME TITLES & BANNER
+───────────────────────────────────────── */
+.home-title{
+  font-family:'Italianno',cursive;
+  font-size:clamp(2rem,6vw,4rem);font-weight:200;margin:1rem 0;text-align:center;
+  background:linear-gradient(90deg,#f48abf,#ffc0e8);
+  -webkit-background-clip:text;background-clip:text;
   -webkit-text-fill-color:transparent;
   animation:home-title-glow .9s ease-in-out infinite;
 }
-@keyframes home-title-glow {
-  0%,100% { text-shadow:0 0 4px rgba(244,138,191,0.5),0 0 6px rgba(255,192,203,0.4); }
-  50%  { text-shadow:0 0 8px rgba(244,138,191,0.7),0 0 12px rgba(255,192,203,0.6); }
-}
-.home-subtitle {
-  display: block;
-  width: 100%;
-  margin: 0 auto 2rem;
-  font-family: inherit;
-  font-size: 1rem;
-  text-align: center;
-  background: linear-gradient(90deg, #f48abf, #ffd0ee);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: subtitle-glow 2.5s ease-in-out infinite;
-}
-@keyframes subtitle-glow {
-  0%,100% { text-shadow:0 0 4px rgba(244,138,191,0.6),0 0 8px rgba(255,192,203,0.4); }
-  50%  { text-shadow:0 0 8px rgba(244,138,191,0.8),0 0 14px rgba(255,192,203,0.6); }
-}
-/* fluid, centered home banner with a 300px-ideal width */
-.banner-home {
-  /* 🎛 preferred “natural” width — 300px in this case */
-  --w: 300px;
-  /* never exceed 95% of the viewport */
-  --max: 95vw;
-
-  /* base banner look + centering */
-  display: block;
-  margin: 2rem auto;
-  width: calc(var(--w) * 1);      /* i.e. 300px */
-  max-width: var(--max);          /* or 95vw, whichever is smaller */
-  height: auto;                   /* keep aspect ratio */
-  object-fit: cover;
-  border-radius: 0.5rem;          /* match your other banners */
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
-}
-.poem-content {
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
-  word-break: break-word;
-  hyphens: auto;
-
-  max-width: 100vw; /* never overflow the screen */
-  box-sizing: border-box;
-  padding-left: 1rem;
-  padding-right: 1rem;
-
+.home-subtitle{
+  display:block;width:100%;margin:0 auto 2rem;
+  font-size:1rem;text-align:center;font-family:inherit;
+  background:linear-gradient(90deg,#f48abf,#ffd0ee);
+  -webkit-background-clip:text;background-clip:text;
+  -webkit-text-fill-color:transparent;
+  animation:subtitle-glow 2.5s ease-in-out infinite;
 }
 
-/* Add this to keep results tidy */
-#word-search-results {
-  max-height: 200px;
-  overflow-y: auto;
-  margin-top: 1em;
-  text-align: left;
-  padding: 0.5em;
-  font-family: 'Courier New', monospace;
-  font-size: 0.9rem;
-  color: #d6336c;
+.banner-home{
+  --w:300px;--max:95vw;display:block;margin:2rem auto;
+  width:calc(var(--w)*1);max-width:var(--max);height:auto;
+  object-fit:cover;border-radius:.5rem;
+  box-shadow:0 4px 12px rgba(0,0,0,.12);
 }
 
-/* Fix the modal to keep the close button inside the pink box */
-.modal {
-  display: none;
-  position: fixed;
-  inset: 0;
-  background: rgba(255, 240, 246, 0.8); /* softened background */
-  backdrop-filter: blur(6px);
-  justify-content: center;
-  align-items: center;
-  z-index: 2000;
+.poem-content{
+  white-space:pre-wrap;overflow-wrap:break-word;word-break:break-word;
+  hyphens:auto;max-width:100vw;padding-left:1rem;padding-right:1rem;
 }
 
-.modal.show {
-  display: flex;
+/* ─────────────────────────────────────────
+   🦢  FOOTER & PAGE CONTENT
+───────────────────────────────────────── */
+.site-footer{
+  padding:2rem 1rem 1rem;font-family:'Courier New',monospace;
+  font-size:.95rem;background:#fff0f6;border-top:1px solid #f8c9df;
+  color:#6e3f55;text-align:center;
+  box-shadow:0 -2px 8px rgba(255,192,203,.1);
 }
 
-.modal-content {
-  position: relative;
-  background: #ffeaf5; /* soft pink box */
-  border: 3px solid #ffc0cb;
-  border-radius: 20px;
-  padding: 2em;
-  box-shadow: 0 8px 20px rgba(214, 51, 108, 0.25);
-  width: 320px;
-  max-width: 95%;
-  max-height: 80vh;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.footer-links{
+  display:flex;flex-wrap:wrap;justify-content:center;gap:1rem;
+  margin:1rem 0 .5rem;
+}
+.footer-links a{
+  font-size:.9rem;color:#d16fa8;text-decoration:none;
+  transition:color .3s ease;
+}
+.footer-links a:hover{color:#e070a0;text-decoration:underline}
+
+.footer-copy{
+  font-size:.75rem;margin-top:.5rem;color:#7a4c61;line-height:1.4;
+}
+.footer-copy a{color:inherit;font-weight:bold;text-decoration:underline}
+.footer-copy a:hover{color:#b85788}
+
+.footer-top-link{margin-top:1.2rem;font-size:.85rem;opacity:.8}
+.footer-top-link a{color:#c05a96;text-decoration:none}
+.footer-top-link a:hover{color:#e070a0;text-decoration:underline}
+
+.page-content{
+  max-width:700px;margin:4rem auto;padding:2rem;
+  font-size:1.1rem;line-height:1.7;color:#444;
+  font-family:'Helvetica Neue',sans-serif;
+}
+.page-content a{color:#d16fa8;text-decoration:underline}
+.page-content a:hover{color:#e070a0}
+
+.page-title{
+  font-size:1.6rem;text-align:center;margin-bottom:2rem;color:#d16fa8;
+}
+.page-content strong{
+  color:#e070a0;font-weight:bold;display:block;
+  margin-top:1.5rem;margin-bottom:.3rem;
+}
+.page-content h2{
+  font-size:1.1rem;color:#e070a0;font-weight:bold;
+  margin-top:1.5rem;margin-bottom:.5rem;
+}
+.page-content p{
+  font-size:1.05rem;line-height:1.7;color:#333;margin-bottom:1rem;
+}
+.date-updated{
+  color:#999;font-size:.9rem;margin-bottom:2rem;text-align:center;
+}
+.thank-you{
+  color:#e070a0;text-align:center;margin-top:2rem;font-style:italic;
 }
 
-.modal-content h2 {
-  font-family: 'Italianno', cursive;
-  font-size: 2rem;
-  color: #d6336c;
-  margin-bottom: 0.5em;
+@media(max-width:480px){
+  .footer-links{flex-direction:column;align-items:center}
 }
 
-#word-search-input {
-  width: 100%;
-  padding: 0.6em 1em;
-  border: 1px solid #ffc0cb;
-  border-radius: 24px;
-  margin-bottom: 1em;
-  font-size: 1em;
-  text-align: center;
-  color: #d6336c;
-  font-family: inherit;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+.helper-note{font-size:.85rem;color:#999;text-align:center;margin-top:1rem}
+.structured-data{display:none}
+
+/* ─────────────────────────────────────────
+   🎞️  ANIMATIONS
+───────────────────────────────────────── */
+@keyframes site-title-glow{
+  0%,100%{text-shadow:0 0 3px rgba(244,138,191,.5),0 0 5px rgba(255,192,203,.3)}
+  50%     {text-shadow:0 0 6px rgba(244,138,191,.7),0 0 8px rgba(255,192,203,.5)}
+}
+@keyframes poem-glow{
+  0%  {text-shadow:0 0 4px #f8b8d2}
+  50% {text-shadow:0 0 10px #ffcce6,0 0 20px #f48abf}
+  100%{text-shadow:0 0 4px #f8b8d2}
+}
+@keyframes poem-fade{to{opacity:1}}
+@keyframes home-title_glow{
+  0%,100%{text-shadow:0 0 4px rgba(244,138,191,.5),0 0 6px rgba(255,192,203,.4)}
+  50%     {text-shadow:0 0 8px rgba(244,138,191,.7),0 0 12px rgba(255,192,203,.6)}
+}
+@keyframes home-title-glow{ /* kept original duplicate */ }
+@keyframes subtitle-glow{
+  0%,100%{text-shadow:0 0 4px rgba(244,138,191,.6),0 0 8px rgba(255,192,203,.4)}
+  50%     {text-shadow:0 0 8px rgba(244,138,191,.8),0 0 14px rgba(255,192,203,.6)}
 }
 
-#word-search-input::placeholder {
-  color: #ffb6c1;
-  font-style: italic;
-}
+/* ─────────────────────────────────────────
+   🌙  DARK MODE (prefers-color-scheme)
+───────────────────────────────────────── */
+@media(prefers-color-scheme:dark){
 
-/* Close button now inside modal box */
-.modal-close {
-  position: absolute;
-  top: 0.75rem;
-  right: 0.75rem;
-  width: 1.8rem;
-  height: 1.8rem;
-  background: #ffc0cb;
-  border: none;
-  color: white;
-  border-radius: 50%;
-  font-size: 1.2rem;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
+  /* Core */
+  body{background:#1a1a1a;color:#eeeeee}
+  .site-header,.site-footer{background:#111;border-color:#444}
 
-.modal-close:hover {
-  background: #ffb6c1;
-}
+  /* Navigation */
+  .site-nav a{color:#f2b9dd}
+  .site-nav a:hover{color:#ffd0e9}
 
+  /* Footer */
+  .footer-links a{color:#f2b9dd}
+  .footer-links a:hover,.footer-copy a:hover{color:#ffd0e9}
+  .footer-copy{color:#aa88a8}
 
-/* Dark-Mode */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1a1a1a;
-    color: #eeeeee;
+  /* Page */
+  .page-content{color:#dddddd;background:transparent}
+  .page-content a{color:#f2b9dd}
+  .page-content a:hover{color:#ffd0e9}
+  .page-content h2,.page-content strong,.page-title{color:#f9a7d1}
+  .thank-you{color:#f2b9dd}
+
+  .site-footer{
+    background:#111;border-top:1px solid #333;color:#cccccc;
+    box-shadow:0 -2px 10px rgba(255,105,180,.05);
+  }
+  .footer-top-link a{color:#f2b9dd}
+  .footer-top_link a:hover{color:#ffd0e9}
+
+  /* Search & Modal */
+  #poem-search,#word-search-input{
+    background:#1a1a1a!important;color:#ffeef7;
+    border:1px solid #f48abf;
+    box-shadow:0 2px 6px rgba(255,182,217,.15);
+  }
+  #poem-search::placeholder,#word-search-input::placeholder{
+    color:#f8c9df;font-style:italic;
   }
 
-  .site-header,
-  .site-footer {
-    background-color: #111111;
-    border-color: #444;
+  .modal{background:rgba(0,0,0,.7)!important;backdrop-filter:blur(8px)}
+  .modal-content{
+    background:#1e1a24!important;border:2px solid #f48abf!important;
+    box-shadow:0 8px 24px rgba(244,138,191,.25);color:#ffeef7;
   }
+  .modal-content h2{color:#fcbddf}
+  .modal-close{background:#f48abf;color:#1a1a1a}
+  .modal-close:hover{background:#ffd6ea}
 
-  .site-nav a {
-    color: #f2b9dd;
+  .word-search-btn{
+    background:#2b1e2e;color:#ffb6d5;border-color:#f48abf;
+    box-shadow:0 2px 8px rgba(244,138,191,.3);
   }
+  .word-search-btn:hover{background:#39293f}
 
-  .site-nav a:hover {
-    color: #ffd0e9;
-  }
-
-  .footer-links a {
-    color: #ccc;
-  }
-
-  .footer-links a:hover,
-  .footer-copy a:hover {
-    color: #ffb6d6;
-  }
-
-  .footer-copy {
-    color: #aa88a8;
-  }
-
-  .page-content {
-    color: #dddddd;
-    background-color: transparent;
-  }
-
-  .page-content a {
-    color: #f2b9dd;
-  }
-
-  .page-content a:hover {
-    color: #ffd0e9;
-  }
-
-  .page-content h2,
-  .page-content strong,
-  .page-title {
-    color: #f9a7d1;
-  }
-
-  .thank-you {
-    color: #f2b9dd;
-  }
-}
-
-
-
-
-/* 🦢 Final Footer Styling Enhancements (Light & Dark Harmony) */
-.site-footer {
-  padding: 2rem 1rem 1rem;
-  font-family: 'Courier New', monospace;
-  font-size: 0.95rem;
-  background-color: #fff0f6;
-  border-top: 1px solid #f8c9df;
-  color: #6e3f55;
-  text-align: center;
-  box-shadow: 0 -2px 8px rgba(255, 192, 203, 0.1);
-}
-
-.footer-links {
-  margin: 1rem 0 0.5rem;
-}
-
-.footer-links a {
-  font-size: 0.9rem;
-  color: #d16fa8;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-.footer-links a:hover {
-  color: #e070a0;
-  text-decoration: underline;
-}
-
-.footer-copy {
-  font-size: 0.75rem;
-  margin-top: 0.5rem;
-  color: #7a4c61;
-  line-height: 1.4;
-}
-.footer-copy a {
-  color: inherit;
-  font-weight: bold;
-  text-decoration: underline;
-}
-.footer-copy a:hover {
-  color: #b85788;
-}
-
-/* 💫 Footer Top Back-to-Top Link */
-.footer-top-link {
-  margin-top: 1.2rem;
-  font-size: 0.85rem;
-  opacity: 0.8;
-}
-.footer-top-link a {
-  color: #c05a96;
-  text-decoration: none;
-}
-.footer-top-link a:hover {
-  color: #e070a0;
-  text-decoration: underline;
-}
-
-/* 🌙 Dark Mode Footer Harmony */
-@media (prefers-color-scheme: dark) {
-  .site-footer {
-    background-color: #111111;
-    border-top: 1px solid #333;
-    color: #cccccc;
-    box-shadow: 0 -2px 10px rgba(255, 105, 180, 0.05);
-  }
-
-  .footer-links a {
-    color: #f2b9dd;
-  }
-  .footer-links a:hover {
-    color: #ffd0e9;
-  }
-
-  .footer-copy {
-    color: #aa88a8;
-  }
-
-  .footer-copy a:hover {
-    color: #ffc1dc;
-  }
-
-  .footer-top-link a {
-    color: #f2b9dd;
-  }
-
-  .footer-top-link a:hover {
-    color: #ffd0e9;
-  }
+  #word-search_results{color:#f9d6ec}
+  #word-search-results a{color:#ffe0f5}
+  #word-search-results a:hover{color:#ffd0ec}
 }
