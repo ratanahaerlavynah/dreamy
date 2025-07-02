@@ -59,17 +59,29 @@ type="image/webp"
           "@id": "{{ site.url }}{{ page.url }}"
         }
       }
-      </script>
+</script>
+<link
+  rel="preload"
+  as="font"
+  href="{{ '/assets/fonts/italiano-v17-latin-regular.woff2' | relative_url }}"
+  type="font/woff2"
+  crossorigin="anonymous"
+/>
 
-
+<!-- 🌟 Inline Italianno font-face to prevent flash -->
+<style>
+@font-face {
+  font-family: 'Italianno';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('{{ "/assets/fonts/italiano-v17-latin-regular.woff2" | relative_url }}') format('woff2');
+}
+</style>
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.v1.css?v=2" />
-    <!-- Web font -->
-    <link
-      href="https://fonts.googleapis.com/css2?family=Italianno&display=swap"
-      rel="stylesheet"
-    />
-
+    
+ 
     <!-- Person JSON‑LD -->
 <script type="application/ld+json">
   {
