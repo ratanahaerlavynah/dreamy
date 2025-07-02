@@ -8,7 +8,7 @@ html{ box-sizing:border-box}*,*::before,*::after{ box-sizing:inherit}
 body{margin:0;padding:0;font:0.9rem/1.6 'Courier New',monospace;color:#222;background:#fff}
 .site-container{max-width:800px;margin:0 auto;padding:0 1rem;box-sizing:border-box}
 .site-header{text-align:center;margin:0 0 2rem;padding:1rem 0}
-#site-title{font-family:'Italianno',cursive;font-size:clamp(3rem,8vw,6rem);font-weight:200;margin:1rem 0 0.5rem;background:linear-gradient(90deg,#f5b1e8,#c0a8f9);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+#site-title{font-family:'Italianno',cursive;font-size:clamp(3rem,8vw,6rem);font-weight:200;margin:1rem 0 0.5rem;background:linear-gradient(90deg,#f5b1e8,#c0a8f9);-webkit-background-clip:text;background-clip: text;-webkit-text-fill-color:transparent}
 .nav-links{text-align:center;margin-bottom:1rem}
 .nav-links a{margin:0 0.7rem;text-decoration:none;font-weight:600;color:#cc2299;transition:color 0.3s ease}
 .nav-links a:hover{color:#7a0099}
