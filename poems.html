@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Poems
+show_gallery: false   # flip to true when ready
 ---
 
 <div class="poem-list-wrapper">
@@ -15,12 +16,15 @@ title: My Poems
   width="1024" height="400"
 />
 
-<!-- OPTIONAL🌸 gallery (delete or uncomment when you have real images)
+{% if page.show_gallery %}
 <section class="picture-gallery">
+  <!-- Replace these URLs when you have real photos -->
   <img src="{{ '/assets/img/extra-photo-1.jpg' | relative_url }}" alt="Gallery Image 1" width="400" height="300" loading="lazy">
   <img src="{{ '/assets/img/extra-photo-2.jpg' | relative_url }}" alt="Gallery Image 2" width="400" height="300" loading="lazy">
 </section>
--->
+{% endif %}
+
+
 
 
 
