@@ -4,8 +4,8 @@ title: The Memory Beneath the Current
 order: 6
 tags: [memory, depth, emotion]
 themes: [submerged truth, feminine vastness, sacred remembering]
-seo_title: "The Memory Beneath the Current — Listening Beneath the Surface"
-snippet: "She does not escape — she listens. Beneath her stillness, entire oceans remember."
+seo_title: "The Memory Beneath the Current - Listening Beneath the Surface"
+snippet: "She does not escape - she listens. Beneath her stillness, entire oceans remember."
 author: Ratanah Aerlavynah
 description: "Her descent is not retreat but a return to the sacred currents of memory."
 summary: "This piece dives into the emotional abyss where memory, language, and self meet in the undercurrent."

@@ -4,11 +4,11 @@ title: The Moment the Oceans Salted Her Loss
 order: 79
 tags: [loss, sweetness, absence]
 themes: [forgotten arrival, grief's origin, oceanic sorrow]
-seo_title: "The Moment the Oceans Salted Her Loss — When Absence Became the Only Proof of Her Arrival"
-structured_snippet: "She didn’t vanish — she simply never arrived. And the oceans mourned her absence."
+seo_title: "The Moment the Oceans Salted Her Loss - When Absence Became the Only Proof of Her Arrival"
+structured_snippet: "She didn’t vanish - she simply never arrived. And the oceans mourned her absence."
 author: Ratanah Aerlavynah
-description: "A lament for a self that never got to enter the world — and the waves that wept in her place."
-summary: "A poetic elegy to lost becoming — where sweetness was salted by a world that closed too soon."
+description: "A lament for a self that never got to enter the world - and the waves that wept in her place."
+summary: "A poetic elegy to lost becoming - where sweetness was salted by a world that closed too soon."
 mood: mourning, tender
 voice: elegiac, still
 recurrent_symbols: [salt, tide, unborn]

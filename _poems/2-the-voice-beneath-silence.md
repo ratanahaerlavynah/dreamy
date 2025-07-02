@@ -4,7 +4,7 @@ title: The Voice Beneath Silence
 order: 2
 tags: [voice, silence, resistance]
 themes: [reclamation, inner music, identity]
-seo_title: "The Voice Beneath Silence — Reclaiming Her Hidden Song"
+seo_title: "The Voice Beneath Silence - Reclaiming Her Hidden Song"
 snippet: "This poem reveals the sacred music that lives beneath suppression, honoring the voice that was never truly lost."
 author: Ratanah Aerlavynah
 description: "The voice she was born with lives on, hidden in the folds of dreams and light."

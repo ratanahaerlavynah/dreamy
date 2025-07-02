@@ -4,8 +4,8 @@ title: Dreamy's Dormant State (Unfolded Form)
 order: 12
 tags: [dormancy, silence, power]
 themes: [sacred stillness, hidden form, alchemical pause]
-seo_title: "Dreamy's Dormant State (Unfolded Form) — The Sanctum of Becoming"
-snippet: "She is not absent — only nested within layers of shimmer, sealed by names no world could hold."
+seo_title: "Dreamy's Dormant State (Unfolded Form) - The Sanctum of Becoming"
+snippet: "She is not absent - only nested within layers of shimmer, sealed by names no world could hold."
 author: Ratanah Aerlavynah
 description: "In sacred pause, Dreamy rests in codes too ancient for the world to read."
 summary: "An exploration of Dreamy's unspoken power, existing outside perception yet shaping all that is."

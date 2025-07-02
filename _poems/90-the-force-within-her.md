@@ -4,11 +4,11 @@ title: The Force Within Her
 order: 90
 tags: ["strength", "resilience", "family wounds", "defiance", "truth"]
 themes: ["survival", "unbreaking soul", "origin of power"]
-seo_title: "The Force Within Her — Born from Bruises, Carved in Silence, She Became What They Could Not Destroy"
-structured_snippet: "Her survival wasn’t miracle — it was will. A force no cruelty could claim."
+seo_title: "The Force Within Her - Born from Bruises, Carved in Silence, She Became What They Could Not Destroy"
+structured_snippet: "Her survival wasn’t miracle - it was will. A force no cruelty could claim."
 author: Ratanah Aerlavynah
-description: "Betrayed by blood, she birthed her own sanctuary — a sacred center no army could invade."
-summary: "A portrait of sacred endurance — the strength not to become like them, but to remain herself."
+description: "Betrayed by blood, she birthed her own sanctuary - a sacred center no army could invade."
+summary: "A portrait of sacred endurance - the strength not to become like them, but to remain herself."
 mood: "intense, grounded, triumphant"
 voice: "first-person, steady power"
 recurrent_symbols: ["bone", "tremble", "ocean", "seal", "ghost"]

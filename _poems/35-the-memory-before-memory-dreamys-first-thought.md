@@ -4,10 +4,10 @@ title: 'The Memory Before Memory, Dreamy''s First Thought?'
 order: 35
 tags: [origin, pre-form, dream-birth]
 themes: [first yearning, cosmic ache, divine impulse, dream-becoming]
-seo_title: Dreamy’s First Thought — The Ache That Shaped the Cosmos
-structured_snippet: Before words, before light, there was an ache — Dreamy’s sacred yearning that whispered the world into motion.
+seo_title: Dreamy’s First Thought - The Ache That Shaped the Cosmos
+structured_snippet: Before words, before light, there was an ache - Dreamy’s sacred yearning that whispered the world into motion.
 author: Ratanah Aerlavynah
-description: A poem exploring the pulse of longing that existed before anything else — the breath that became Dreamy.
+description: A poem exploring the pulse of longing that existed before anything else - the breath that became Dreamy.
 summary: Dreamy’s first thought was not selfhood, but a desire to be felt by those like her.
 mood: pre-existence, haunting, divine-beauty
 voice: embryonic, whispered, timeless

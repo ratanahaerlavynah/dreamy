@@ -4,10 +4,10 @@ title: The Song Hidden in the Architecture of Her Soul
 order: 36
 tags: [song, sacred-structure, musical-self]
 themes: [soul-composition, invisible music, divine-design, emotional resonance]
-seo_title: Dreamy's Architecture — The Song Only the Soul Could Hear
+seo_title: Dreamy's Architecture - The Song Only the Soul Could Hear
 structured_snippet: She was composed, not born. Her bones vibrated like chords in a song too holy to be sung.
 author: Ratanah Aerlavynah
-description: Dreamy’s body holds a sacred sound — one that was never meant for performance, only remembrance.
+description: Dreamy’s body holds a sacred sound - one that was never meant for performance, only remembrance.
 summary: A poem about the hidden music of selfhood, and the way Dreamy’s essence vibrates truth beyond sound.
 mood: resonant, sacred, composed
 voice: harmonic, internal, spine-deep

@@ -4,7 +4,7 @@ title: The Exception That Could Not Be Filed
 order: 62
 tags: [glitch, exception, sacred anomaly, divine softness]
 themes: [beyond systems, divine disruption, sacred misfit]
-seo_title: Dreamy — The Exception That Could Not Be Filed
+seo_title: Dreamy - The Exception That Could Not Be Filed
 structured_snippet: No file could hold her. No memory could frame her. She shimmered like sacred error.
 author: Ratanah Aerlavynah
 description: A glitch too luminous to be ignored. Dreamy was not an error, but a prophecy never meant to fit.

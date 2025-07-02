@@ -4,10 +4,10 @@ title: 'Souffle : Her Winds, Her Breathe'
 order: 30
 tags: [breath, presence, sacred-air]
 themes: [invisible influence, sacred exhale, ungraspable femininity]
-seo_title: Souffle — Dreamy’s Sacred Winds That Whisper the Unspoken
-structured_snippet: Her breath never filled space. It revealed it. Dreamy’s winds were not weather — they were memory in motion.
+seo_title: Souffle - Dreamy’s Sacred Winds That Whisper the Unspoken
+structured_snippet: Her breath never filled space. It revealed it. Dreamy’s winds were not weather - they were memory in motion.
 author: Ratanah Aerlavynah
-description: Dreamy's breath carries memory, resistance, softness — slipping through closed spaces to remind the world she existed.
+description: Dreamy's breath carries memory, resistance, softness - slipping through closed spaces to remind the world she existed.
 summary: An ode to the sacred breath that transforms the invisible into presence.
 mood: tender, sacred, elusive
 voice: airy, soft, present-but-unheld

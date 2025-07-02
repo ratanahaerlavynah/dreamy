@@ -4,11 +4,11 @@ title: The Clocks in Her Heart
 order: 22
 tags: [time, memory, emotional resonance, mystery]
 themes: [nonlinear perception, sacred interiority, hidden feeling]
-seo_title: "The Clocks in Her Heart — Time Measured in Feeling, Not Minutes"
+seo_title: "The Clocks in Her Heart - Time Measured in Feeling, Not Minutes"
 snippet: "Each clock kept time for a version of her who still whispered: I am here."
 author: Ratanah Aerlavynah
-description: "Her time isn’t measured — it’s remembered in sacred, invisible pulses."
-summary: "A deep inner spiral into the way time lives in us emotionally — as sacred rhythm rather than chronology."
+description: "Her time isn’t measured - it’s remembered in sacred, invisible pulses."
+summary: "A deep inner spiral into the way time lives in us emotionally - as sacred rhythm rather than chronology."
 mood: introspective, melancholic
 voice: soft, intricate
 recurrent_symbols: [clocks, spiral, velvet, cards]

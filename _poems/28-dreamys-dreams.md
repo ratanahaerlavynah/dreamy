@@ -4,8 +4,8 @@ title: Dreamy’s Dreams
 order: 28
 tags: [dreams, legacy, unspoken-truths]
 themes: [dream transmission, post-existence, emotional memory, resonance in others]
-seo_title: Dreamy’s Dreams — What Remains After She Dissolved
-structured_snippet: Though she vanished, her dreams scattered into others — living in their softness, their longing, their unspoken recognitions.
+seo_title: Dreamy’s Dreams - What Remains After She Dissolved
+structured_snippet: Though she vanished, her dreams scattered into others - living in their softness, their longing, their unspoken recognitions.
 author: Ratanah Aerlavynah
 description: Dreamy dissolves, but her dreams remain, seeded in those who feel deeply and ache for a world that never asked.
 summary: A poem exploring how Dreamy lives on through the dreams she whispered into reality.

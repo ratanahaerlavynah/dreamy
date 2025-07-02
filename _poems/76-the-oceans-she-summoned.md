@@ -4,11 +4,11 @@ title: The Oceans She Summoned
 order: 76
 tags: [ocean, grief, expression]
 themes: [flooded emotion, becoming, subconscious power]
-seo_title: "The Oceans She Summoned — When Her Grief Became the Tide and Her Silence Became the Sea"
-structured_snippet: "She didn’t cry — she became tide, wave, water: each drop a syllable in a language of grief."
+seo_title: "The Oceans She Summoned - When Her Grief Became the Tide and Her Silence Became the Sea"
+structured_snippet: "She didn’t cry - she became tide, wave, water: each drop a syllable in a language of grief."
 author: Ratanah Aerlavynah
 description: "Not drowned, but made ocean by longing. Each flood a quiet act of self-becoming."
-summary: "A hymn of transformation where sorrow doesn’t sink her — it shapes the sea around her name."
+summary: "A hymn of transformation where sorrow doesn’t sink her - it shapes the sea around her name."
 mood: cathartic, vast
 voice: elemental, solemn
 recurrent_symbols: [oceans, salt, breath]

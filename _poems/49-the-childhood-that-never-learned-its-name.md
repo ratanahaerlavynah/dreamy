@@ -4,7 +4,7 @@ title: The Childhood That Never Learned Its Name
 order: 49
 tags: ["unnamed childhood", "lost softness", "sacred vow", "silent ache"]
 themes: ["erasure", "invisible tenderness", "unheard songs", "emotional witness"]
-seo_title: The Childhood That Never Learned Its Name – A Flicker of Softness Held in Silence
+seo_title: The Childhood That Never Learned Its Name - A Flicker of Softness Held in Silence
 structured_snippet: She was not a child. She was a flicker, a hush. A vow carried in silence no one remembered to feel.
 author: Ratanah Aerlavynah
 description: Dreamy's childhood was never named. It lived between corners, as shimmer mistaken for absence.

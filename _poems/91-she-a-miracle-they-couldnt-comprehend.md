@@ -4,11 +4,11 @@ title: 'She, a Miracle They Couldn''t Comprehend'
 order: 91
 tags: ["miracle", "softness", "defiance", "sacred self", "incomprehension"]
 themes: ["misunderstood divinity", "inner sanctity", "self-sovereignty"]
-seo_title: "She, a Miracle They Couldn't Comprehend — The Bloom They Tried to Break, But Never Reached"
-structured_snippet: "They tried to confine her into a cautionary tale — but she was a pulse too sacred to contain."
+seo_title: "She, a Miracle They Couldn't Comprehend - The Bloom They Tried to Break, But Never Reached"
+structured_snippet: "They tried to confine her into a cautionary tale - but she was a pulse too sacred to contain."
 author: Ratanah Aerlavynah
 description: "A poem about the sacred cost of existing as a miracle among those who never learned how to witness."
-summary: "She was never rebellion. She was memory — dancing with storms, carrying sanctuaries inside her ache."
+summary: "She was never rebellion. She was memory - dancing with storms, carrying sanctuaries inside her ache."
 mood: "sacred, radiant, uncontainable"
 voice: "first-person, immortal softness"
 recurrent_symbols: ["petal", "sanctuary", "scar", "dance", "veil"]

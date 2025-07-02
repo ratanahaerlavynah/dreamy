@@ -4,10 +4,10 @@ title: Dreamy’s Face
 order: 20
 tags: [face, beauty, sacred softness]
 themes: [nonconforming identity, deep visibility, poetic rebellion]
-seo_title: "Dreamy’s Face — The Shimmer Before Speech"
-snippet: "Her face is not a feature, but a field — trembling with memory and refusal."
+seo_title: "Dreamy’s Face - The Shimmer Before Speech"
+snippet: "Her face is not a feature, but a field - trembling with memory and refusal."
 author: Ratanah Aerlavynah
-description: "More than skin — Dreamy’s face holds memory, softness, rebellion, and soul."
+description: "More than skin - Dreamy’s face holds memory, softness, rebellion, and soul."
 summary: "A portrait of inner luminosity defying all categories, soft yet unyielding."
 mood: intimate, ethereal
 voice: devotional, fluid

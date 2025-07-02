@@ -4,10 +4,10 @@ title: 'Dreamy, Forgotten by Everything'
 order: 23
 tags: [disappearance, self-reclamation, cosmic silence]
 themes: [unbeing, sacred memory, becoming without recognition]
-seo_title: "Dreamy, Forgotten by Everything — But Not by Herself"
+seo_title: "Dreamy, Forgotten by Everything - But Not by Herself"
 snippet: "The stars forgot her. The sky moved on. But she remembered."
 author: Ratanah Aerlavynah
-description: "She vanished from reality — not out of erasure, but as an act of impossible becoming."
+description: "She vanished from reality - not out of erasure, but as an act of impossible becoming."
 summary: "A profound meditation on selfhood beyond memory, and the sacred act of remembering oneself into existence."
 mood: solemn, defiant
 voice: mythic, emotional

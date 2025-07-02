@@ -4,11 +4,11 @@ title: The Mirror That Refused to Reflect Her
 order: 44
 tags: ["reflection", "truth beyond image", "soft rebellion", "sacred identity"]
 themes: ["non-image", "rejection of societal lens", "fluid selfhood", "mirrors and illusions"]
-seo_title: The Mirror That Refused to Reflect Her – A Vibration Too Sacred for Surface
-structured_snippet: The mirror did not break – it bowed in reverence, unable to contain Dreamy’s unfathomable presence.
+seo_title: The Mirror That Refused to Reflect Her - A Vibration Too Sacred for Surface
+structured_snippet: The mirror did not break - it bowed in reverence, unable to contain Dreamy’s unfathomable presence.
 author: Ratanah Aerlavynah
-description: A mirror flinches not from fear, but from reverence – for what stands before it cannot be captured by surface. Dreamy is beyond form, beyond reflection.
-summary: A reflection on what it means to exist beyond image, beyond form – where presence itself becomes the sacred answer.
+description: A mirror flinches not from fear, but from reverence - for what stands before it cannot be captured by surface. Dreamy is beyond form, beyond reflection.
+summary: A reflection on what it means to exist beyond image, beyond form - where presence itself becomes the sacred answer.
 mood: Defiant, ethereal, reverent
 voice: First-person poetic
 recurrent_symbols: ["mirror", "silhouette", "refusal", "light", "vibration"]

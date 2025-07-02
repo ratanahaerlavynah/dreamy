@@ -4,10 +4,10 @@ title: 'Dreamy’s Longing : The Remembrance of Her Self'
 order: 54
 tags: ["remembrance", "longing", "identity", "echo", "forgotten truth"]
 themes: ["sacred memory", "longing as recognition", "return to essence"]
-seo_title: "Dreamy’s Longing: The Remembrance of Her Self — Where the Ache Was a Thread Back to the Unforgotten"
+seo_title: "Dreamy’s Longing: The Remembrance of Her Self - Where the Ache Was a Thread Back to the Unforgotten"
 structured_snippet: "Longing reveals itself not as absence, but as remembrance of who she never ceased to be."
 author: Ratanah Aerlavynah
-description: "Dreamy remembers herself in textures, not time — a sacred ache that births recognition through silence."
+description: "Dreamy remembers herself in textures, not time - a sacred ache that births recognition through silence."
 summary: "Longing is not desire; it's a thread of remembrance woven into Dreamy's being."
 mood: "yearning, sacred, gentle"
 voice: "first-person, soft remembering"

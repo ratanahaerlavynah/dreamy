@@ -4,11 +4,11 @@ title: 'Her Voice Still Forming : A Song She Was Never Allowed to Sing'
 order: 40
 tags: [voice, unsung-song, sacred-tide]
 themes: [sound-beyond-words, expression-as-resistance, internal-becoming]
-seo_title: Her Voice Still Forming — Dreamy’s Song That Was Never Heard
-structured_snippet: Her voice never silenced — it was left unsung. Still forming, still singing, from a place language cannot enter.
+seo_title: Her Voice Still Forming - Dreamy’s Song That Was Never Heard
+structured_snippet: Her voice never silenced - it was left unsung. Still forming, still singing, from a place language cannot enter.
 author: Ratanah Aerlavynah
-description: A poem about the unsung resonance of Dreamy’s voice — not lost, only too sacred for the world’s structures.
-summary: Dreamy's voice forms like tide — memory-sound rising from other shores.
+description: A poem about the unsung resonance of Dreamy’s voice - not lost, only too sacred for the world’s structures.
+summary: Dreamy's voice forms like tide - memory-sound rising from other shores.
 mood: sacred, veiled, tender-resistance
 voice: wave-formed, liquid-memory, dreaming
 recurrent_symbols: [tide, fog, breath, unsung-hymn]

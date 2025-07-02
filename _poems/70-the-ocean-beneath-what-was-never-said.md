@@ -4,11 +4,11 @@ title: The Ocean Beneath What Was Never Said
 order: 70
 tags: ["unsaid", "beneath", "ocean", "displacement", "presence"]
 themes: ["soft dissonance", "warmth before form", "unspoken origin"]
-seo_title: "The Ocean Beneath What Was Never Said — Her Presence Was the Ache of Words That Had Not Yet Learned to Form"
+seo_title: "The Ocean Beneath What Was Never Said - Her Presence Was the Ache of Words That Had Not Yet Learned to Form"
 structured_snippet: "She shimmered into being not through words, but through the ache of unfinished thought."
 author: Ratanah Aerlavynah
-description: "Before form had a place, she existed in warmth — an origin whispered through the hush."
-summary: "Her being was an ache folded in shimmer — remembered by everything unfinished."
+description: "Before form had a place, she existed in warmth - an origin whispered through the hush."
+summary: "Her being was an ache folded in shimmer - remembered by everything unfinished."
 mood: "intimate, fluid, infinite"
 voice: "third-person, poetic intuition"
 recurrent_symbols: ["tide skin", "unfinished thought", "murmur", "shimmer", "light-bend"]

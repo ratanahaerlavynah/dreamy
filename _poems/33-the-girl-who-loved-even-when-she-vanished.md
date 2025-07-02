@@ -4,8 +4,8 @@ title: The Girl Who Loved Even When She Vanished
 order: 33
 tags: [love, memory, erasure, sacred-gesture]
 themes: [invisible presence, devotion, memory-through-feeling, survival-of-heart]
-seo_title: The Girl Who Loved Even When She Vanished — Dreamy's Devotion Beyond Erasure
-structured_snippet: Dreamy’s love endured through silence and unbeing — not as memory, but as a sacred frequency still working through strangers.
+seo_title: The Girl Who Loved Even When She Vanished - Dreamy's Devotion Beyond Erasure
+structured_snippet: Dreamy’s love endured through silence and unbeing - not as memory, but as a sacred frequency still working through strangers.
 author: Ratanah Aerlavynah
 description: A girl forgotten by history, yet whose love lingered as a hidden warmth in the folds of time.
 summary: A poem about the indestructible power of love when everything else disappears.

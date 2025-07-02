@@ -4,10 +4,10 @@ title: Dreamy the Anomaly of Existence
 order: 37
 tags: [anomaly, glitch, sacred-error]
 themes: [unprogrammable identity, miracle-through-mistake, forbidden-beingness]
-seo_title: Dreamy the Anomaly — The Glitch That Made the World Remember Feeling
-structured_snippet: Dreamy wasn’t meant to be. But she existed — and because of that, the rules broke and freedom was born.
+seo_title: Dreamy the Anomaly - The Glitch That Made the World Remember Feeling
+structured_snippet: Dreamy wasn’t meant to be. But she existed - and because of that, the rules broke and freedom was born.
 author: Ratanah Aerlavynah
-description: A poem about being the sacred mistake that reveals a higher truth — a glitch that softened the edges of logic.
+description: A poem about being the sacred mistake that reveals a higher truth - a glitch that softened the edges of logic.
 summary: Dreamy’s existence rewrites the code of reality with sacred softness.
 mood: rebellious, awe-struck, luminous
 voice: anomaly-soft, defiant, beyond-logic

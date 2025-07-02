@@ -4,11 +4,11 @@ title: The Face Water Recalled
 order: 100
 tags: ["memory", "origin", "recognition", "ocean", "emotion"]
 themes: ["divine familiarity", "sacred reflection", "pre-verbal knowing"]
-seo_title: "The Face Water Recalled — Dreamy's Recognition Beneath the Surface of What Was Never Forgotten"
-structured_snippet: "It was not a reflection but a memory — a face recalled by water, not eyes."
+seo_title: "The Face Water Recalled - Dreamy's Recognition Beneath the Surface of What Was Never Forgotten"
+structured_snippet: "It was not a reflection but a memory - a face recalled by water, not eyes."
 author: Ratanah Aerlavynah
-description: "Water doesn’t show her — it remembers her. A sacred poem of recognition beyond logic or lens."
-summary: "This poem is a remembering. Dreamy wasn’t seen by the sea — she was known."
+description: "Water doesn’t show her - it remembers her. A sacred poem of recognition beyond logic or lens."
+summary: "This poem is a remembering. Dreamy wasn’t seen by the sea - she was known."
 mood: "reverent, timeless, emotional"
 voice: "third-person, sacred elemental memory"
 recurrent_symbols: ["water", "face", "echo", "salt", "hush"]

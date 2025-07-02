@@ -4,10 +4,10 @@ title: The Garden She Became
 order: 66
 tags: ["garden", "inner bloom", "unmet love", "grace", "self-creation"]
 themes: ["blooming in absence", "inner sanctity", "grief turned into growth"]
-seo_title: "The Garden She Became — When Absence Was Too Sacred Not to Flower Into Herself"
+seo_title: "The Garden She Became - When Absence Was Too Sacred Not to Flower Into Herself"
 structured_snippet: "No one gave her roses, so she became the soil where sorrow could bloom into grace."
 author: Ratanah Aerlavynah
-description: "No gift was offered, no rose placed — yet she gathered the ache and bloomed where no one else dared."
+description: "No gift was offered, no rose placed - yet she gathered the ache and bloomed where no one else dared."
 summary: "Unmet by the world, she turned her pain into petals, her absence into a sacred bloom."
 mood: "graceful, melancholic, self-sufficient"
 voice: "third-person, internal blooming"

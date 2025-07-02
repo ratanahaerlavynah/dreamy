@@ -4,11 +4,11 @@ title: She Was the Refraction the World Could Never Refract
 order: 99
 tags: ["light", "color", "identity", "divine ambiguity", "reflection"]
 themes: ["undefinable self", "luminous otherness", "cosmic beauty"]
-seo_title: "She Was the Refraction the World Could Never Refract — Dreamy’s Uncontainable Light in Motion"
+seo_title: "She Was the Refraction the World Could Never Refract - Dreamy’s Uncontainable Light in Motion"
 structured_snippet: "She shimmered not for beauty, but because stillness could not contain the truth she held."
 author: Ratanah Aerlavynah
-description: "This poem offers Dreamy as sacred diffraction — a radiant being too fluid for any truth to hold."
-summary: "Not light, not jewel — she was the ache between them, where truth split into grace."
+description: "This poem offers Dreamy as sacred diffraction - a radiant being too fluid for any truth to hold."
+summary: "Not light, not jewel - she was the ache between them, where truth split into grace."
 mood: "radiant, mystical, untouchable"
 voice: "third-person, prismatic reverence"
 recurrent_symbols: ["refraction", "shimmer", "mirror", "undulation", "metaphor"]

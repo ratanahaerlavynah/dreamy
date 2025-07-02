@@ -4,8 +4,8 @@ title: 'Dreamy''s Paradox : The Image Outside the Frame'
 order: 59
 tags: [unframed, mirror, infinite, paradox]
 themes: [defying definition, presence beyond representation, sacred identity]
-seo_title: Dreamy’s Paradox — The Image the Frame Couldn’t Hold
-structured_snippet: She wasn’t outside the frame by rebellion — she simply belonged to what no frame could hold.
+seo_title: Dreamy’s Paradox - The Image the Frame Couldn’t Hold
+structured_snippet: She wasn’t outside the frame by rebellion - she simply belonged to what no frame could hold.
 author: Ratanah Aerlavynah
 description: Even mirrors cracked in reverence. Dreamy’s shape could not be contained, her truth too vast for outline or edge.
 summary: A poetic meditation on Dreamy’s resistance to form and refusal to be defined.

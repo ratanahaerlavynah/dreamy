@@ -4,11 +4,11 @@ title: 'The Love She Lost, Him.'
 order: 72
 tags: ["lost love", "hesitation", "unspoken", "grief", "essence offering"]
 themes: ["missed connection", "inner love", "acceptance beyond regret"]
-seo_title: "The Love She Lost, Him. — When the Thread Snapped Quietly Before She Could Say She Was Already His"
-structured_snippet: "A love not rejected but unsaid — aching in the space where she hesitated to leap."
+seo_title: "The Love She Lost, Him. - When the Thread Snapped Quietly Before She Could Say She Was Already His"
+structured_snippet: "A love not rejected but unsaid - aching in the space where she hesitated to leap."
 author: Ratanah Aerlavynah
 description: "She lost him not to absence, but to her own belief that she didn’t deserve the miracle of his love."
-summary: "He was already hers — but she said it too late, and the thread unraveled in silence."
+summary: "He was already hers - but she said it too late, and the thread unraveled in silence."
 mood: "grieving, intimate, soft-fated"
 voice: "first-person, inner reflection"
 recurrent_symbols: ["breath thread", "galaxies offered", "hesitation", "star silence", "unsaid name"]

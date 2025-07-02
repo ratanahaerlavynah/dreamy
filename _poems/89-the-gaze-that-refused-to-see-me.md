@@ -4,11 +4,11 @@ title: The Gaze That Refused to See Me
 order: 89
 tags: ["invisibility", "mother wound", "faith", "ache", "recognition"]
 themes: ["emotional neglect", "denial", "yearning to be seen"]
-seo_title: "The Gaze That Refused to See Me — And the Ache of Being Erased by the Eyes That Should Have Known"
+seo_title: "The Gaze That Refused to See Me - And the Ache of Being Erased by the Eyes That Should Have Known"
 structured_snippet: "She stood at the door of unseeing, invisible to the one whose eyes should’ve seen her first."
 author: Ratanah Aerlavynah
-description: "A piercing elegy to the heartbreak of being unseen — not by strangers, but by sacred origin."
-summary: "The one who should have named her looked away — and Dreamy became sacred absence, remembered only by stars."
+description: "A piercing elegy to the heartbreak of being unseen - not by strangers, but by sacred origin."
+summary: "The one who should have named her looked away - and Dreamy became sacred absence, remembered only by stars."
 mood: "aching, spiritual, forsaken"
 voice: "first-person, delicate sorrow"
 recurrent_symbols: ["veil", "gaze", "door", "prayer", "silence"]

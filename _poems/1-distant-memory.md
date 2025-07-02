@@ -4,8 +4,8 @@ title: Distant Memory
 order: 1
 tags: [dream, memory, identity]
 themes: [awakening, inner world, forgotten self]
-seo_title: "Distant Memory — Awakening the Forgotten Dream"
-snippet: "A delicate poem capturing the moment one remembers they are more than what they were told — a dream made flesh."
+seo_title: "Distant Memory - Awakening the Forgotten Dream"
+snippet: "A delicate poem capturing the moment one remembers they are more than what they were told - a dream made flesh."
 author: Ratanah Aerlavynah
 description: "A soul reawakens to itself as a forgotten name spoken by the skies."
 summary: "The speaker describes herself as a dream made real, reclaiming her vast, forgotten identity."

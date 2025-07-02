@@ -4,10 +4,10 @@ title: She Closed Her Hands Before Love Could Rest Inside
 order: 73
 tags: [love, regret, distance]
 themes: [self-sabotage, emotional retreat, intimacy lost]
-seo_title: "She Closed Her Hands Before Love Could Rest Inside — The Ache of Turning Away From What Was Meant to Stay"
+seo_title: "She Closed Her Hands Before Love Could Rest Inside - The Ache of Turning Away From What Was Meant to Stay"
 structured_snippet: "A girl turns away from love not due to fear, but because she feared her own vastness would make it leave."
 author: Ratanah Aerlavynah
-description: "She did not reject love — she feared its echo. A story of distance born from self-preservation."
+description: "She did not reject love - she feared its echo. A story of distance born from self-preservation."
 summary: "A soul too vast for closeness wrestles with the ache of having pushed love away before it could bloom."
 mood: tender, sorrowful
 voice: introspective, lyrical

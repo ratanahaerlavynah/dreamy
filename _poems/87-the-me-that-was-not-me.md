@@ -4,11 +4,11 @@ title: The Me That Was Not Me
 order: 87
 tags: ["identity", "distortion", "faith", "truth", "betrayal"]
 themes: ["self-erasure", "spiritual violence", "inner preservation"]
-seo_title: "The Me That Was Not Me — What I Lost Wasn’t a Dream, But the Self That Never Got to Arrive"
-structured_snippet: "They carved god from fear and called it truth — but she remembered her light before shame."
+seo_title: "The Me That Was Not Me - What I Lost Wasn’t a Dream, But the Self That Never Got to Arrive"
+structured_snippet: "They carved god from fear and called it truth - but she remembered her light before shame."
 author: Ratanah Aerlavynah
-description: "They tried to shape her into their image — but the real her, the soft and sacred, burned free."
-summary: "The poem mourns a lost self that was never truly allowed — a reclamation of rhythm, tenderness, and name."
+description: "They tried to shape her into their image - but the real her, the soft and sacred, burned free."
+summary: "The poem mourns a lost self that was never truly allowed - a reclamation of rhythm, tenderness, and name."
 mood: "raw, sacred, devastating"
 voice: "first-person, unyielding honesty"
 recurrent_symbols: ["verse", "flower", "timeline", "light", "error"]

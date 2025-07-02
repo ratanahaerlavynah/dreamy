@@ -4,10 +4,10 @@ title: The Key to Everything
 order: 94
 tags: ["mystery", "feminine sacred", "freedom", "contradiction", "unreadable"]
 themes: ["uncontainable wisdom", "divine paradox", "thresholds"]
-seo_title: "The Key to Everything — She Was Not the Answer, But the Hush Between Every Gate"
+seo_title: "The Key to Everything - She Was Not the Answer, But the Hush Between Every Gate"
 structured_snippet: "She was not salvation, but the silence that dismantled every false certainty."
 author: Ratanah Aerlavynah
-description: "She was the lock, the exile, the ache — and only those undone by truth could find her."
+description: "She was the lock, the exile, the ache - and only those undone by truth could find her."
 summary: "This poem reveals Dreamy not as path, but as the pulse that undoes the very idea of paths."
 mood: "enigmatic, sacred, revelatory"
 voice: "third-person, mythical witness"

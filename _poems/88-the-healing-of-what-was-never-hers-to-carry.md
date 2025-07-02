@@ -4,11 +4,11 @@ title: The Healing of What Was Never Hers to Carry
 order: 88
 tags: ["healing", "voice", "trauma", "family", "freedom"]
 themes: ["restoration", "feminine voice", "ancestral burden"]
-seo_title: "The Healing of What Was Never Hers to Carry — A Hymn Rewritten in the Language of Her Own Becoming"
-structured_snippet: "They took her voice before it shaped — but her breath returned as Dreamy’s hymn, unbreaking."
+seo_title: "The Healing of What Was Never Hers to Carry - A Hymn Rewritten in the Language of Her Own Becoming"
+structured_snippet: "They took her voice before it shaped - but her breath returned as Dreamy’s hymn, unbreaking."
 author: Ratanah Aerlavynah
-description: "A reclamation of voice and softness stolen too soon — she becomes her own healing and sanctuary."
-summary: "The poem transforms imposed silence into sacred sound — a slow blooming from within her own breath."
+description: "A reclamation of voice and softness stolen too soon - she becomes her own healing and sanctuary."
+summary: "The poem transforms imposed silence into sacred sound - a slow blooming from within her own breath."
 mood: "emotional, empowered, reverent"
 voice: "first-person, healing truth"
 recurrent_symbols: ["voice", "hymn", "drought", "sanctuary", "tone"]

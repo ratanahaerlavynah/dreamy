@@ -4,10 +4,10 @@ title: The Dreams She Refused to Remember
 order: 74
 tags: [dreams, remembrance, self-protection]
 themes: [hidden truths, sacred memory, inner worlds]
-seo_title: "The Dreams She Refused to Remember — What She Hid Between Heartbeats Could Not Be Undreamed"
-structured_snippet: "A quiet honoring of the dreams too delicate to name aloud — and the beauty they carried in silence."
+seo_title: "The Dreams She Refused to Remember - What She Hid Between Heartbeats Could Not Be Undreamed"
+structured_snippet: "A quiet honoring of the dreams too delicate to name aloud - and the beauty they carried in silence."
 author: Ratanah Aerlavynah
-description: "She did not forget her dreams — she hid them gently, to protect what was too beautiful to endure exposure."
+description: "She did not forget her dreams - she hid them gently, to protect what was too beautiful to endure exposure."
 summary: "A meditation on buried dreams and the sacred ritual of safeguarding one’s most fragile becoming."
 mood: haunting, soft
 voice: gentle, veiled

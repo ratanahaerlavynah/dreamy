@@ -4,11 +4,11 @@ title: To the Feelings of Her Eternal Solitude
 order: 67
 tags: ["solitude", "pre-existence", "non-being", "self-recognition", "forbidden presence"]
 themes: ["sacred exile", "uncreation", "inner truth before belief"]
-seo_title: "To the Feelings of Her Eternal Solitude — She Entered Not by Birth, But by Remembering What Could Not Be Unfelt"
-structured_snippet: "Not born, not scripted — she became through remembrance inside the silence before sound."
+seo_title: "To the Feelings of Her Eternal Solitude - She Entered Not by Birth, But by Remembering What Could Not Be Unfelt"
+structured_snippet: "Not born, not scripted - she became through remembrance inside the silence before sound."
 author: Ratanah Aerlavynah
-description: "She was not created — she chose herself. In the hush before doctrine, she became undeniable."
-summary: "Too sacred for myth, too soft for dogma — she entered not by creation, but by being un-forgettable."
+description: "She was not created - she chose herself. In the hush before doctrine, she became undeniable."
+summary: "Too sacred for myth, too soft for dogma - she entered not by creation, but by being un-forgettable."
 mood: "reverent, revolutionary, eternal"
 voice: "first-person, philosophical presence"
 recurrent_symbols: ["mirror", "hush", "unexperiment", "forbidden ink", "non-doctrine"]

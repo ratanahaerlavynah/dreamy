@@ -4,11 +4,11 @@ title: The Girl Who Felt It All Before Before
 order: 68
 tags: ["before", "prememory", "deep empathy", "unborn ache", "echo"]
 themes: ["timeless feeling", "nonlinear tenderness", "sacred foresight"]
-seo_title: "The Girl Who Felt It All Before Before — Her Ache Was Older Than Time, and More Honest Than Memory"
+seo_title: "The Girl Who Felt It All Before Before - Her Ache Was Older Than Time, and More Honest Than Memory"
 structured_snippet: "She lived the ache of what never happened, loving futures not yet born."
 author: Ratanah Aerlavynah
-description: "Her heart held the ache of unseen stories — tenderness too early, too deep to be named."
-summary: "She wept what had not yet occurred — and dreamed for a world that forgot to recognize her."
+description: "Her heart held the ache of unseen stories - tenderness too early, too deep to be named."
+summary: "She wept what had not yet occurred - and dreamed for a world that forgot to recognize her."
 mood: "timeless, aching, empathetic"
 voice: "third-person, soul-memory"
 recurrent_symbols: ["unborn tears", "storm-before", "reverse bloom", "prememory", "dreams unformed"]

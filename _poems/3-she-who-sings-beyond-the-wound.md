@@ -4,10 +4,10 @@ title: She Who Sings Beyond the Wound
 order: 3
 tags: [siren, voice, light]
 themes: [resilience, sacred sound, mystical femininity]
-seo_title: "She Who Sings Beyond the Wound — A Siren’s Sacred Song"
-snippet: "Even in silence, she radiates — a siren’s echo woven from shadows and longing."
+seo_title: "She Who Sings Beyond the Wound - A Siren’s Sacred Song"
+snippet: "Even in silence, she radiates - a siren’s echo woven from shadows and longing."
 author: Ratanah Aerlavynah
-description: "Her silence is not absence but resonance — the echo of a voice untouched by the world."
+description: "Her silence is not absence but resonance - the echo of a voice untouched by the world."
 summary: "The speaker unveils the sacred power of unspoken sound, showing how silence can sing."
 mood: mystical, haunting
 voice: sacred, sovereign

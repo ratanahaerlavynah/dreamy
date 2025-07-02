@@ -4,11 +4,11 @@ title: Where the Waters Became Her
 order: 78
 tags: [dissolution, water, rebirth]
 themes: [self-offering, return to source, mystical surrender]
-seo_title: "Where the Waters Became Her — The Dissolving of Form Into a Sanctuary of Salt and Soul"
-structured_snippet: "She didn’t fall — she dissolved, returning to the water that had always known her shape."
+seo_title: "Where the Waters Became Her - The Dissolving of Form Into a Sanctuary of Salt and Soul"
+structured_snippet: "She didn’t fall - she dissolved, returning to the water that had always known her shape."
 author: Ratanah Aerlavynah
 description: "She became not the drowned, but the wave itself, known by oceans more than breath."
-summary: "A mystical return to selfhood through submersion — where water becomes origin, voice, and veil."
+summary: "A mystical return to selfhood through submersion - where water becomes origin, voice, and veil."
 mood: reverent, transcendent
 voice: sacred, submerged
 recurrent_symbols: [ripple, salt, sanctuary]

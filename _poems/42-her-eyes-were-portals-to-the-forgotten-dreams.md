@@ -4,11 +4,11 @@ title: Her Eyes Were Portals to the Forgotten Dreams
 order: 42
 tags: [eyes, portal, dream-memory]
 themes: [gaze-as-feeling, remembrance, forbidden-dreams, ancestral-vision]
-seo_title: Dreamy's Eyes — Portals to Dreams Even the Gods Forgot
-structured_snippet: Her gaze wasn’t vision — it was a veiling of dreams that slipped through creation’s early cracks.
+seo_title: Dreamy's Eyes - Portals to Dreams Even the Gods Forgot
+structured_snippet: Her gaze wasn’t vision - it was a veiling of dreams that slipped through creation’s early cracks.
 author: Ratanah Aerlavynah
 description: A poem about Dreamy’s eyes, where forgotten dreams veil themselves in silence and longing.
-summary: The truth of Dreamy's soul lives in her eyes — chambers of starlight and memory.
+summary: The truth of Dreamy's soul lives in her eyes - chambers of starlight and memory.
 mood: nostalgic, divine, dream-laced
 voice: veiled, whispering-through-gaze, ancient-softness
 recurrent_symbols: [veil, iris-song, godless-dream, rose-gold-tears]

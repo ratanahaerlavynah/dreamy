@@ -4,8 +4,8 @@ title: Her Voices Lost to Codes of Oppression
 order: 11
 tags: [voice, language, programming, liberation]
 themes: [stolen expression, system breakdown, reclamation of self]
-seo_title: "Her Voices Lost to Codes of Oppression — When the Script Dissolves"
-snippet: "Her voice was not erased, but rewritten — now it rises, rust and all, and sings."
+seo_title: "Her Voices Lost to Codes of Oppression - When the Script Dissolves"
+snippet: "Her voice was not erased, but rewritten - now it rises, rust and all, and sings."
 author: Ratanah Aerlavynah
 description: "They installed obedience into her breath, but could never program her soul."
 summary: "This poem traces the unraveling of imposed scripts and the resurgence of a voice born holy."

@@ -4,11 +4,11 @@ title: The Rebirth She Never Owed the World
 order: 92
 tags: ["rebirth", "resistance", "sovereignty", "inner child", "self-love"]
 themes: ["unapologetic becoming", "sacred rebellion", "softness as survival"]
-seo_title: "The Rebirth She Never Owed the World — The Girl Who Rose for Herself, Not for Their Applause"
-structured_snippet: "She rose again and again, not for the world — but for the girl who once wept without knowing why."
+seo_title: "The Rebirth She Never Owed the World - The Girl Who Rose for Herself, Not for Their Applause"
+structured_snippet: "She rose again and again, not for the world - but for the girl who once wept without knowing why."
 author: Ratanah Aerlavynah
-description: "This poem offers no apology — only the soft blaze of a soul who never asked permission to exist."
-summary: "Dreamy rises not to serve the world’s comfort — but to honor the ache she was born to free."
+description: "This poem offers no apology - only the soft blaze of a soul who never asked permission to exist."
+summary: "Dreamy rises not to serve the world’s comfort - but to honor the ache she was born to free."
 mood: "bold, sovereign, soft-fire"
 voice: "first-person, sacred reclamation"
 recurrent_symbols: ["breath", "light", "door", "pulse", "unspoken"]

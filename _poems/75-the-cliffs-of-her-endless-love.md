@@ -4,10 +4,10 @@ title: The Cliffs of Her Endless Love
 order: 75
 tags: [devotion, grief, endurance]
 themes: [infinite love, sacrifice, emotional landscapes]
-seo_title: "The Cliffs of Her Endless Love — Where Devotion Stood Even When No One Waited Below"
-structured_snippet: "Her love did not fall — it hovered, an ache that chose to stay where memory unraveled."
+seo_title: "The Cliffs of Her Endless Love - Where Devotion Stood Even When No One Waited Below"
+structured_snippet: "Her love did not fall - it hovered, an ache that chose to stay where memory unraveled."
 author: Ratanah Aerlavynah
-description: "She stood on the cliffs of her own ache, letting love echo back into her — infinite, stormlike, uncontained."
+description: "She stood on the cliffs of her own ache, letting love echo back into her - infinite, stormlike, uncontained."
 summary: "A mythic rendering of endless love that reshapes and remains, even in the absence of its destination."
 mood: epic, aching
 voice: mythical, reverent

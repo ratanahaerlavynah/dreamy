@@ -4,10 +4,10 @@ title: For the Flowers She Was Never Given
 order: 65
 tags: ["flowers", "recognition", "unreceived love", "bloom", "tender ache"]
 themes: ["deservedness", "unmet softness", "self-gifting"]
-seo_title: "For the Flowers She Was Never Given — The Bloom She Became When the World Forgot to Offer"
+seo_title: "For the Flowers She Was Never Given - The Bloom She Became When the World Forgot to Offer"
 structured_snippet: "She carried bouquets of longing the world forgot to place in her hands."
 author: Ratanah Aerlavynah
-description: "She was never adorned, so she became the fragrance — the one they forgot to give, yet forever hers."
+description: "She was never adorned, so she became the fragrance - the one they forgot to give, yet forever hers."
 summary: "She waited for the flowers no one gave, and became the garden instead."
 mood: "tender, wistful, self-honoring"
 voice: "third-person, soft lament"

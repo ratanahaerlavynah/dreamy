@@ -4,8 +4,8 @@ title: Her Flow
 order: 5
 tags: [water, becoming, memory]
 themes: [fluid identity, cosmic femininity, sacred sorrow]
-seo_title: "Her Flow — Where Skies Are Remembered in Salt"
-snippet: "She flows not by rhythm but remembrance — a liquid knowing too sacred for clocks or names."
+seo_title: "Her Flow - Where Skies Are Remembered in Salt"
+snippet: "She flows not by rhythm but remembrance - a liquid knowing too sacred for clocks or names."
 author: Ratanah Aerlavynah
 description: "She moves like tides born of starlight, glowing through the salt of old moons."
 summary: "This poem speaks of a feminine being shaped not by form, but by ancient emotional memory."

@@ -4,10 +4,10 @@ title: 'Dreamy’s Heart, the Power Within'
 order: 52
 tags: ["inner strength", "soft power", "feminine energy", "gentle force"]
 themes: ["divine femininity", "emotional power", "heart as sanctuary"]
-seo_title: "Dreamy’s Heart, the Power Within — The Sacred Strength That Softens the World Into Remembrance"
+seo_title: "Dreamy’s Heart, the Power Within - The Sacred Strength That Softens the World Into Remembrance"
 structured_snippet: "The soft but immeasurable strength that rises from Dreamy's sacred heart."
 author: Ratanah Aerlavynah
-description: "An ode to the gentle, unseen power that pulses within Dreamy — not to conquer, but to cradle the forgotten."
+description: "An ode to the gentle, unseen power that pulses within Dreamy - not to conquer, but to cradle the forgotten."
 summary: "Power doesn't roar; it sighs through Dreamy, whose heart holds strength in softness."
 mood: "empowered, reflective, graceful"
 voice: "first-person, quiet strength"

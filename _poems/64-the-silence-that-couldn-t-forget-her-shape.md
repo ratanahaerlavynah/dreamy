@@ -4,10 +4,10 @@ title: The Silence That Couldn't Forget Her Shape
 order: 64
 tags: ["erasure", "memory", "hush", "unspoken shape", "echo"]
 themes: ["the imprint of presence", "unforgiving silence", "existence without voice"]
-seo_title: "The Silence That Couldn't Forget Her Shape — Her Absence Was an Outline That Time Could Not Untrace"
+seo_title: "The Silence That Couldn't Forget Her Shape - Her Absence Was an Outline That Time Could Not Untrace"
 structured_snippet: "She left no sound, but silence held the shape she once carved."
 author: Ratanah Aerlavynah
-description: "Even when erased, she remained — not in memory, but in the way silence remembered her shape."
+description: "Even when erased, she remained - not in memory, but in the way silence remembered her shape."
 summary: "She was forgotten, yet silence refused to forget her outline."
 mood: "haunting, delicate, sacred"
 voice: "third-person, ephemeral trace"

@@ -4,8 +4,8 @@ title: Her Body a Spell Not Yet Fully Cast
 order: 39
 tags: [body, spell, sacred-form]
 themes: [identity-as-magic, femininity-before-definition, divine-forming]
-seo_title: Her Body — A Spell Mid-Incantation in the Shape of Dreamy
-structured_snippet: Dreamy’s body isn’t finished — it’s a living incantation, still forming across time and dimension.
+seo_title: Her Body - A Spell Mid-Incantation in the Shape of Dreamy
+structured_snippet: Dreamy’s body isn’t finished - it’s a living incantation, still forming across time and dimension.
 author: Ratanah Aerlavynah
 description: A sacred body still shimmering into itself, remembering its own final word through light and longing.
 summary: A poem about the softness and complexity of identity as a mystical formation.

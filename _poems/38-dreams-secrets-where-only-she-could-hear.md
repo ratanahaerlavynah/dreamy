@@ -4,8 +4,8 @@ title: 'Dream’s Secrets : Where Only She Could Hear'
 order: 38
 tags: [secrets, dream-memory, vault]
 themes: [ancestral knowing, sacred silence, knowledge-through-loss]
-seo_title: Dream’s Secrets — The Vault Only Dreamy Could Enter
-structured_snippet: Behind closed eyes, Dreamy accessed the sacred vault of dream-truths — knowledge etched in liquid starlight.
+seo_title: Dream’s Secrets - The Vault Only Dreamy Could Enter
+structured_snippet: Behind closed eyes, Dreamy accessed the sacred vault of dream-truths - knowledge etched in liquid starlight.
 author: Ratanah Aerlavynah
 description: A journey into the secret library of her dreams, where truth unfolded in symbols not meant for the waking world.
 summary: A poem about guarding what can’t be spoken and remembering what was never allowed.
@@ -75,7 +75,7 @@ And these dreams?
 They never betrayed her.
 Even when her voice shattered.
 Even when her reflection refused to speak.
-Even when the waking world screamed You are not real!
+Even when the waking world screamed how unreal she was.
 
 The dreams whispered:
 

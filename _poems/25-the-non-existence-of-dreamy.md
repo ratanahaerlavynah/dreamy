@@ -4,7 +4,7 @@ title: The Non-Existence of Dreamy
 order: 25
 tags: [nonexistence, dissolution, transcendence, memory]
 themes: [beyond identity, soul after form, soft metaphysics]
-seo_title: "The Non-Existence of Dreamy — A Hush That Still Breathes"
+seo_title: "The Non-Existence of Dreamy - A Hush That Still Breathes"
 snippet: "She is not missing. She is unoccurred. And still… something hums."
 author: Ratanah Aerlavynah
 description: "There is no name to call her. So she became before names."

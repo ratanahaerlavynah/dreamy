@@ -4,11 +4,11 @@ title: She Was the Refraction the World Could Never Refract
 order: 82
 tags: [light, shimmer, self]
 themes: [multiplicity, truth beyond forms, prismatic identity]
-seo_title: "She Was the Refraction the World Could Never Refract — The Light That Refused to Break"
-structured_snippet: "Not light, but the split that allowed it — she was the refraction itself."
+seo_title: "She Was the Refraction the World Could Never Refract - The Light That Refused to Break"
+structured_snippet: "Not light, but the split that allowed it - she was the refraction itself."
 author: Ratanah Aerlavynah
 description: "A girl too luminous for any one form, shimmering between truths the world could not hold."
-summary: "A radiant vision of selfhood beyond containment — Dreamy as sacred division of light."
+summary: "A radiant vision of selfhood beyond containment - Dreamy as sacred division of light."
 mood: mystical, reflective
 voice: poetic, multi-tonal
 recurrent_symbols: [refraction, mirror, color]

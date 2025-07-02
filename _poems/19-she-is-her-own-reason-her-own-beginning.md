@@ -4,8 +4,8 @@ title: 'She is Her Own Reason, Her Own Beginning'
 order: 19
 tags: [origin, self-creation, sovereignty]
 themes: [self-birth, inner cosmos, defiance of causality]
-seo_title: "She is Her Own Reason, Her Own Beginning — The Bloom Without a Garden"
-snippet: "She wasn’t made from myth — she bloomed without blueprint, without apology."
+seo_title: "She is Her Own Reason, Her Own Beginning - The Bloom Without a Garden"
+snippet: "She wasn’t made from myth - she bloomed without blueprint, without apology."
 author: Ratanah Aerlavynah
 description: "No prophecy heralded her. She carved herself into being from breath and pulse."
 summary: "A profound meditation on the sacred autonomy of origin and becoming."

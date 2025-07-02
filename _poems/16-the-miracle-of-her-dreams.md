@@ -4,7 +4,7 @@ title: The Miracle of Her Dreams
 order: 16
 tags: [miracle, dream, becoming, survival]
 themes: [sacred persistence, self-blossoming, refusal to yield]
-seo_title: "The Miracle of Her Dreams — She Carried What the World Forgot"
+seo_title: "The Miracle of Her Dreams - She Carried What the World Forgot"
 snippet: "She was not waiting to be saved. She was already unfolding, petal by burning petal."
 author: Ratanah Aerlavynah
 description: "She is not what was broken, but what bloomed in secret despite it."

@@ -5,7 +5,7 @@ order: 58
 tags: [dream-language, pulse, starlight, unspeakable truth]
 themes: [pre-verbal communication, divine softness, mystical knowing]
 seo_title: The Language Dreamy Spoke Was Not of This World
-structured_snippet: She did not speak — yet the world listened. Her dreams translated truths the waking could not bear.
+structured_snippet: She did not speak - yet the world listened. Her dreams translated truths the waking could not bear.
 author: Ratanah Aerlavynah
 description: Her dreams were not silence, but a language of glimmers and breathless knowing. Nothing voiced, yet everything heard.
 summary: This poem reveals how Dreamy communicates through shimmer, pulse, and emotional gravity, beyond words.

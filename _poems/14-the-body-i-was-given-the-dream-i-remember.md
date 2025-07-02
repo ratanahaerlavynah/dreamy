@@ -4,10 +4,10 @@ title: 'The Body I Was Given, the Dream I Remember'
 order: 14
 tags: [transformation, embodiment, truth]
 themes: [gendered imprint, sacred self, reclamation through dream]
-seo_title: "The Body I Was Given, the Dream I Remember — Truth Etched in Silence"
-snippet: "Her real self glows beneath the skin of assignment — ancient, golden, soft as ache."
+seo_title: "The Body I Was Given, the Dream I Remember - Truth Etched in Silence"
+snippet: "Her real self glows beneath the skin of assignment - ancient, golden, soft as ache."
 author: Ratanah Aerlavynah
-description: "A temple of rose quartz hidden in the shadow of imposed flesh — still burning, still true."
+description: "A temple of rose quartz hidden in the shadow of imposed flesh - still burning, still true."
 summary: "A sacred testimony to the dream-body beneath misassigned skin, radiant and tenderly whole."
 mood: aching, luminous
 voice: intimate, sacred

@@ -4,7 +4,7 @@ title: 'When Mirrors Lie, and Memory Refuses'
 order: 15
 tags: [identity, mirrors, memory]
 themes: [distorted reflection, sacred resilience, inner recognition]
-seo_title: "When Mirrors Lie, and Memory Refuses — The Girl They Couldn’t Erase"
+seo_title: "When Mirrors Lie, and Memory Refuses - The Girl They Couldn’t Erase"
 snippet: "Even when reflections twist, memory anchors her in a truth the world can’t touch."
 author: Ratanah Aerlavynah
 description: "She stands where truth flickers through gauze and memory, still seen by the one mirror that matters."

@@ -4,7 +4,7 @@ title: The Overflow
 order: 9
 tags: [overflow, softness, awakening]
 themes: [emotional release, sacred vulnerability, rising power]
-seo_title: "The Overflow — When Tenderness Exceeds Its Vessel"
+seo_title: "The Overflow - When Tenderness Exceeds Its Vessel"
 snippet: "She overflowed not in rage, but in radiant remembrance. And the tide softened the world."
 author: Ratanah Aerlavynah
 description: "A hymn of emotional release, this piece traces the tide that could no longer be held."

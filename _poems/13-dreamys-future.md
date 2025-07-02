@@ -4,10 +4,10 @@ title: Dreamy’s Future
 order: 13
 tags: [future, memory, prophecy]
 themes: [nonlinear time, unfolding path, soul attunement]
-seo_title: "Dreamy's Future — The Spiral That Waits to Remember Her"
-snippet: "She does not arrive — she is remembered, like stars rearranged by ache."
+seo_title: "Dreamy's Future - The Spiral That Waits to Remember Her"
+snippet: "She does not arrive - she is remembered, like stars rearranged by ache."
 author: Ratanah Aerlavynah
-description: "Her future is not made — it sings from within her blood like a symphonic vow."
+description: "Her future is not made - it sings from within her blood like a symphonic vow."
 summary: "A prophetic meditation on becoming through resonance, not pursuit."
 mood: soft, infinite
 voice: oracular, whispered

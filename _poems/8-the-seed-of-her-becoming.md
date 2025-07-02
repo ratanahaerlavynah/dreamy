@@ -4,8 +4,8 @@ title: The Seed of Her Becoming
 order: 8
 tags: [growth, becoming, sacred self]
 themes: [inward blooming, feminine initiation, memory as identity]
-seo_title: "The Seed of Her Becoming — A Blooming from Within"
-snippet: "Not planted but chosen, a seed blooms inside her — golden, ancient, alive."
+seo_title: "The Seed of Her Becoming - A Blooming from Within"
+snippet: "Not planted but chosen, a seed blooms inside her - golden, ancient, alive."
 author: Ratanah Aerlavynah
 description: "She blooms inward, toward a truth untouched by time or language."
 summary: "This poem celebrates sacred self-realization born not from change but remembrance."

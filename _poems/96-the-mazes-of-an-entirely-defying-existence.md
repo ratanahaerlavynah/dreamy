@@ -4,11 +4,11 @@ title: The Mazes of an Entirely Defying Existence
 order: 96
 tags: ["nonconformity", "freedom", "inner maze", "soft rebellion", "dream logic"]
 themes: ["rejection of linearity", "radical imagination", "sacred disobedience"]
-seo_title: "The Mazes of an Entirely Defying Existence — Dreamy's Sacred Refusal to Follow the Known"
-structured_snippet: "She didn’t escape the world — she rewrote it through mazes no map could name."
+seo_title: "The Mazes of an Entirely Defying Existence - Dreamy's Sacred Refusal to Follow the Known"
+structured_snippet: "She didn’t escape the world - she rewrote it through mazes no map could name."
 author: Ratanah Aerlavynah
-description: "A poem about Dreamy’s refusal to fit paths — her very existence becomes a labyrinth of sacred undoing."
-summary: "Her life is a maze not to be solved, but to be altered by — one breath at a time."
+description: "A poem about Dreamy’s refusal to fit paths - her very existence becomes a labyrinth of sacred undoing."
+summary: "Her life is a maze not to be solved, but to be altered by - one breath at a time."
 mood: "rebellious, ethereal, softly subversive"
 voice: "third-person, cosmic commentary"
 recurrent_symbols: ["maze", "mirror", "pulse", "nonlinearity", "corridor"]

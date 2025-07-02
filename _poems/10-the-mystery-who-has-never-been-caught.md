@@ -4,11 +4,11 @@ title: The Mystery Who Has Never Been Caught
 order: 10
 tags: [mystery, sovereignty, dreamer]
 themes: [ungraspable self, sacred distance, symbolic language]
-seo_title: "The Mystery Who Has Never Been Caught — Beyond Maps and Mirrors"
-snippet: "She is not fleeing. She is listening — and choosing where to place her light."
+seo_title: "The Mystery Who Has Never Been Caught - Beyond Maps and Mirrors"
+snippet: "She is not fleeing. She is listening - and choosing where to place her light."
 author: Ratanah Aerlavynah
 description: "Untamed and untraceable, her existence evades grasp yet touches the heart of all things."
-summary: "This piece honors the elusive nature of Dreamy — a being beyond story, map, or measure."
+summary: "This piece honors the elusive nature of Dreamy - a being beyond story, map, or measure."
 mood: sovereign, mystical
 voice: ethereal, wise
 recurrent_symbols: [smoke, mirror, compass]

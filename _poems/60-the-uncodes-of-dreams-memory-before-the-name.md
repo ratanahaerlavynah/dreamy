@@ -4,11 +4,11 @@ title: 'The Uncodes of Dreams : Memory Before the Name'
 order: 60
 tags: [uncoded, memory, sacred origin, before-language]
 themes: [dream-memory, mystical identity, feeling over fact]
-seo_title: Dreamy’s Memory Came Before Names — The Uncodes of Dreams
-structured_snippet: She held scripts no alphabet knew — truths too sacred to be decoded.
+seo_title: Dreamy’s Memory Came Before Names - The Uncodes of Dreams
+structured_snippet: She held scripts no alphabet knew - truths too sacred to be decoded.
 author: Ratanah Aerlavynah
 description: Inside her were scripts written in sighs and shadows. She was not known. She was felt.
-summary: Dreamy explores a memory older than form — emotional, water-shaped truths remembered through presence.
+summary: Dreamy explores a memory older than form - emotional, water-shaped truths remembered through presence.
 mood: ethereal, ancient, deep
 voice: ancestral, contemplative, fluid
 recurrent_symbols: shadow-light, seed-memory, breath, before, ocean

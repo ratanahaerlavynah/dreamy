@@ -4,11 +4,11 @@ title: Infinity of Her Love
 order: 97
 tags: ["love", "femininity", "boundlessness", "devotion", "sacred ache"]
 themes: ["unconditional love", "divine softness", "cosmic femininity"]
-seo_title: "Infinity of Her Love — A Love Too Vast for Return, Yet Too Soft to Withhold"
-structured_snippet: "She was not offering love — she was its infinite presence, beyond need or name."
+seo_title: "Infinity of Her Love - A Love Too Vast for Return, Yet Too Soft to Withhold"
+structured_snippet: "She was not offering love - she was its infinite presence, beyond need or name."
 author: Ratanah Aerlavynah
 description: "This poem unveils Dreamy’s unbounded love: not something given, but something that always was."
-summary: "Her love existed before longing. It did not ask to be received — it simply became everything."
+summary: "Her love existed before longing. It did not ask to be received - it simply became everything."
 mood: "expansive, soft, sublime"
 voice: "third-person, sacred witness"
 recurrent_symbols: ["pulse", "tide", "warmth", "devotion", "breath"]

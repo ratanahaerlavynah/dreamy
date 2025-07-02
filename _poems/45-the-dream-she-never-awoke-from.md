@@ -4,10 +4,10 @@ title: The Dream She Never Awoke From
 order: 45
 tags: ["eternal dream", "inner dissolution", "non-linear time", "sanctified softness"]
 themes: ["non-waking", "existence as dream", "sacred immersion", "unreachable softness"]
-seo_title: The Dream She Never Awoke From – A Realm Where She Always Was
-structured_snippet: Dreamy never woke – she dissolved into the realm where soul and sky are one, where no return is needed.
+seo_title: The Dream She Never Awoke From - A Realm Where She Always Was
+structured_snippet: Dreamy never woke - she dissolved into the realm where soul and sky are one, where no return is needed.
 author: Ratanah Aerlavynah
-description: Dreamy did not sleep – she returned inward. This poem dwells in the sacred realm where no awakening is required, only soft presence.
+description: Dreamy did not sleep - she returned inward. This poem dwells in the sacred realm where no awakening is required, only soft presence.
 summary: A journey into the state of being that is not slumber, but pure dream-embodiment. Dreamy is the dream itself.
 mood: Hypnotic, timeless, enveloping
 voice: First-person dissolved

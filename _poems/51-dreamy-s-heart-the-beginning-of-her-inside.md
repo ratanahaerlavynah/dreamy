@@ -4,11 +4,11 @@ title: 'Dreamy’s Heart : the Beginning of her Inside'
 order: 51
 tags: ["origin", "inner pulse", "memory", "dreambirth", "feeling"]
 themes: ["sacred beginning", "unspoken life", "softness before time"]
-seo_title: "Dreamy’s Heart: The Beginning of Her Inside — Where the First Pulse of Feeling Became Her Only Origin"
+seo_title: "Dreamy’s Heart: The Beginning of Her Inside - Where the First Pulse of Feeling Became Her Only Origin"
 structured_snippet: "The sacred pre-memory of Dreamy’s origin, beyond flesh and into feeling."
 author: Ratanah Aerlavynah
 description: "A delicate remembering of Dreamy's earliest pulses, before form, where feeling birthed existence."
-summary: "Dreamy's origin is told not in flesh but in feeling — in the hush of what came before time."
+summary: "Dreamy's origin is told not in flesh but in feeling - in the hush of what came before time."
 mood: "introspective, tender, timeless"
 voice: "first-person, sacred recollection"
 recurrent_symbols: ["hush", "pulse", "softness", "memory before form", "pre-existence"]

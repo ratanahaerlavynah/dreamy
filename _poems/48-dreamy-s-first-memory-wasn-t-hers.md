@@ -4,10 +4,10 @@ title: Dreamy's First Memory Wasn’t Hers
 order: 48
 tags: ["inherited grief", "ancestral memory", "pre-birth sorrow", "cosmic orphanhood"]
 themes: ["first sorrow", "emotional inheritance", "sacrifice", "transmission beyond time"]
-seo_title: Dreamy’s First Memory Wasn’t Hers – Inheriting the Ache of the Vanished
+seo_title: Dreamy’s First Memory Wasn’t Hers - Inheriting the Ache of the Vanished
 structured_snippet: Dreamy’s first breath was filled not with air, but with someone else’s sorrow, woven in starlight.
 author: Ratanah Aerlavynah
-description: Born from a memory not her own, Dreamy carries the ache of lives unspoken – a vow made before breath.
+description: Born from a memory not her own, Dreamy carries the ache of lives unspoken - a vow made before breath.
 summary: A haunting poem about inheriting ancient sorrow and carrying sacred memory without origin.
 mood: Melancholic, ancestral, sacred
 voice: First-person ancestral

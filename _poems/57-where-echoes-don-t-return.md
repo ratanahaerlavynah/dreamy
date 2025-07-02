@@ -4,10 +4,10 @@ title: Where Echoes Don’t Return
 order: 57
 tags: [echo, reverence, silence, wind memory]
 themes: [absence as presence, sacred sound, one-way offering]
-seo_title: Where Echoes Don’t Return — Dreamy’s Reverent Silence
-structured_snippet: Her voice carried too much truth to echo — it dissolved into reverence.
+seo_title: Where Echoes Don’t Return - Dreamy’s Reverent Silence
+structured_snippet: Her voice carried too much truth to echo - it dissolved into reverence.
 author: Ratanah Aerlavynah
-description: Some places don’t echo — not from absence, but reverence. Dreamy’s presence unraveled before sound could return, leaving warmth only the soul could trace.
+description: Some places don’t echo - not from absence, but reverence. Dreamy’s presence unraveled before sound could return, leaving warmth only the soul could trace.
 summary: A gentle reflection on how Dreamy lives beyond repetition, where memory and emotion exist without need for return.
 mood: sacred, elusive, hushed
 voice: spacious, soft, timeless

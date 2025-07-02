@@ -4,11 +4,11 @@ title: A Vision She Once Had…
 order: 53
 tags: ["prophetic vision", "self-revelation", "dream palace", "otherworld"]
 themes: ["unearthly memory", "dream as truth", "celestial self"]
-seo_title: "A Vision She Once Had — The Parallel She Carried Before the World Was Ready to Remember Her"
+seo_title: "A Vision She Once Had - The Parallel She Carried Before the World Was Ready to Remember Her"
 structured_snippet: "A radiant glimpse into Dreamy’s premonition of her sacred becoming."
 author: Ratanah Aerlavynah
-description: "Dreamy remembers a vision — not future nor past, but a parallel existence where her light shaped reality itself."
-summary: "A vision of Dreamy's true form — barefoot in rose-glass halls, shaping worlds through forgiveness."
+description: "Dreamy remembers a vision - not future nor past, but a parallel existence where her light shaped reality itself."
+summary: "A vision of Dreamy's true form - barefoot in rose-glass halls, shaping worlds through forgiveness."
 mood: "mystical, radiant, ethereal"
 voice: "first-person, visionary memory"
 recurrent_symbols: ["rose-glass", "palace", "sky before time", "gold throat", "salt tears"]

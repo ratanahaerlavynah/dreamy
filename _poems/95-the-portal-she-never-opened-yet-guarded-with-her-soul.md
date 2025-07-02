@@ -4,7 +4,7 @@ title: 'The Portal She Never Opened, Yet Guarded With Her Soul'
 order: 95
 tags: ["threshold", "protection", "mystery", "dreamcode", "unspeakable memory"]
 themes: ["sacred refusal", "guardianhood", "intangible inner power"]
-seo_title: "The Portal She Never Opened — And the Sacred She Guarded With Her Soul Alone"
+seo_title: "The Portal She Never Opened - And the Sacred She Guarded With Her Soul Alone"
 structured_snippet: "She was not hiding it. The world simply had not earned the inside she kept sacred."
 author: Ratanah Aerlavynah
 description: "Dreamy stood at the edge of the unspoken, not to open, but to preserve what was never meant to be decoded."

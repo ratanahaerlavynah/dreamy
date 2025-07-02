@@ -4,8 +4,8 @@ title: The Waters That Never Let Her Go
 order: 77
 tags: [memory, ocean, self-recognition]
 themes: [belonging, tides as memory, return]
-seo_title: "The Waters That Never Let Her Go — Held Not by Rescue, But by the Memory of Who She Was"
-structured_snippet: "She was not saved by the waters — she was remembered by them."
+seo_title: "The Waters That Never Let Her Go - Held Not by Rescue, But by the Memory of Who She Was"
+structured_snippet: "She was not saved by the waters - she was remembered by them."
 author: Ratanah Aerlavynah
 description: "Currents did not carry her; they mirrored her soul and held her shape when even she forgot."
 summary: "A portrait of eternal return where water recognizes its own and refuses to let her be lost."

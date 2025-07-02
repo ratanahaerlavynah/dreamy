@@ -4,11 +4,11 @@ title: The Places That Never Found Her
 order: 71
 tags: ["unfound", "misplaced", "unheld", "constellation", "reverse bloom"]
 themes: ["scattered being", "absence as meaning", "heart dispersed by vastness"]
-seo_title: "The Places That Never Found Her — She Was Not Lost, Only Too Vast to Be Held By Any One Horizon"
-structured_snippet: "She was not lost — she was scattered into places too narrow to hold her essence."
+seo_title: "The Places That Never Found Her - She Was Not Lost, Only Too Vast to Be Held By Any One Horizon"
+structured_snippet: "She was not lost - she was scattered into places too narrow to hold her essence."
 author: Ratanah Aerlavynah
-description: "Not broken, but dispersed — she was unheld not by failure, but by vastness too sacred to define."
-summary: "She bloomed in echoes — not to be found, but to remain felt where the world had no map."
+description: "Not broken, but dispersed - she was unheld not by failure, but by vastness too sacred to define."
+summary: "She bloomed in echoes - not to be found, but to remain felt where the world had no map."
 mood: "dreamy, expansive, bittersweet"
 voice: "third-person, celestial longing"
 recurrent_symbols: ["reverse flower", "shards", "hush before hush", "non-returned image", "echoed name"]

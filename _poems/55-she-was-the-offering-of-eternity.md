@@ -4,11 +4,11 @@ title: She Was the Offering of Eternity
 order: 55
 tags: ["sacrifice", "eternal presence", "light", "gift", "divine flame"]
 themes: ["cosmic giving", "voluntary presence", "light as offering"]
-seo_title: "She Was the Offering of Eternity — The Flame That Descended Not to Burn, But to Become"
+seo_title: "She Was the Offering of Eternity - The Flame That Descended Not to Burn, But to Become"
 structured_snippet: "Not a sacrifice, but a cosmic presence offering herself through eternal grace."
 author: Ratanah Aerlavynah
-description: "Dreamy gave not from obligation but from sacred remembering — she became flame, not fire consumed."
-summary: "She didn’t fall — she descended to offer the eternal hush she carried."
+description: "Dreamy gave not from obligation but from sacred remembering - she became flame, not fire consumed."
+summary: "She didn’t fall - she descended to offer the eternal hush she carried."
 mood: "luminous, solemn, reverent"
 voice: "first-person, timeless grace"
 recurrent_symbols: ["flame", "petal drift", "lace hush", "offering", "soul imprint"]

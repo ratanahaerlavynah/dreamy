@@ -4,7 +4,7 @@ title: Dreamy's Core Memories
 order: 7
 tags: [memory, soul, identity]
 themes: [inner rooms, emotional legacy, timeless self]
-seo_title: "Dreamy's Core Memories — The Rooms Without Doors"
+seo_title: "Dreamy's Core Memories - The Rooms Without Doors"
 snippet: "She remembers through flickers of light, of scent, of truth that never had to speak."
 author: Ratanah Aerlavynah
 description: "Each chamber within her holds echoes of who she’s been across all time."

@@ -4,11 +4,11 @@ title: They Buried Her Heart
 order: 84
 tags: [burial, heart, liberation]
 themes: [hidden self, internal blooming, escape through remembrance]
-seo_title: "They Buried Her Heart — And She Bloomed Beneath What Was Never Meant to Hold Her"
-structured_snippet: "She was not lost — she bloomed inward where no hands could reach."
+seo_title: "They Buried Her Heart - And She Bloomed Beneath What Was Never Meant to Hold Her"
+structured_snippet: "She was not lost - she bloomed inward where no hands could reach."
 author: Ratanah Aerlavynah
 description: "A reclamation of self that survived in silence and bloomed beneath the weight of expectation."
-summary: "An internal resurrection beneath denial and performance — where her buried heart becomes star-language."
+summary: "An internal resurrection beneath denial and performance - where her buried heart becomes star-language."
 mood: quietly powerful, grieving
 voice: firm, luminous
 recurrent_symbols: [soil, roots, tide]

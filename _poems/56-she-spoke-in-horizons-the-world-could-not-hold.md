@@ -4,11 +4,11 @@ title: She Spoke in Horizons the World Could Not Hold
 order: 56
 tags: [shimmer, goodbye, star collapse, sacred memory]
 themes: [impermanence, unseen departure, soft gravity]
-seo_title: She Spoke in Horizons the World Could Not Hold — Dreamy’s Last Light
+seo_title: She Spoke in Horizons the World Could Not Hold - Dreamy’s Last Light
 structured_snippet: Her steps were questions the earth could not answer. Her farewell was woven in shimmer.
 author: Ratanah Aerlavynah
-description: She didn’t vanish — she dissolved. Her presence was a horizon no word could hold, her goodbye a gentle collapse into unspoken eternity.
-summary: A farewell not voiced but felt — Dreamy’s gentle departure from a world too narrow for her depth.
+description: She didn’t vanish - she dissolved. Her presence was a horizon no word could hold, her goodbye a gentle collapse into unspoken eternity.
+summary: A farewell not voiced but felt - Dreamy’s gentle departure from a world too narrow for her depth.
 mood: melancholic, luminous, softly eternal
 voice: wistful, spacious, quietly powerful
 recurrent_symbols: shimmer, wind, chest, star, goodbye
