@@ -3,14 +3,19 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in site.pages %}
-    {% if page.sitemap != false and page.url contains 'poems' or page.url contains 'legal' or page.url contains 'privacy' or page.url contains 'terms' %}
+
+  {%- assign all_pages = site.pages | concat: site.poems -%}
+  {%- for page in all_pages -%}
+    {%- if page.sitemap != false and page.url != nil -%}
       <url>
         <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
+        {%- if page.date -%}
         <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+        {%- endif -%}
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
-    {% endif %}
-  {% endfor %}
+    {%- endif -%}
+  {%- endfor -%}
+
 </urlset>
