@@ -2,6 +2,7 @@
 layout: poem
 title: The Water They Could Never Alter
 order: 93
+show_poem: true
 tags: ["femininity", "resilience", "fluidity", "freedom", "self-identity"]
 themes: ["soft strength", "sacred defiance", "miracle of survival"]
 seo_title: "The Water They Could Never Alter - Dreamy’s Fluid Defiance of All That Tried to Shape Her"

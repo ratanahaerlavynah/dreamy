@@ -2,6 +2,7 @@
 layout: poem
 title: The Key to Everything
 order: 94
+show_poem: true
 tags: ["mystery", "feminine sacred", "freedom", "contradiction", "unreadable"]
 themes: ["uncontainable wisdom", "divine paradox", "thresholds"]
 seo_title: "The Key to Everything - She Was Not the Answer, But the Hush Between Every Gate"

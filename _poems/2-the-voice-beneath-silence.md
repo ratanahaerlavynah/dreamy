@@ -2,6 +2,7 @@
 layout: poem
 title: The Voice Beneath Silence
 order: 2
+show_poem: true
 tags: [voice, silence, resistance]
 themes: [reclamation, inner music, identity]
 seo_title: "The Voice Beneath Silence - Reclaiming Her Hidden Song"

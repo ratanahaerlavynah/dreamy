@@ -2,6 +2,7 @@
 layout: poem
 title: The Exception That Could Not Be Filed
 order: 62
+show_poem: true
 tags: [glitch, exception, sacred anomaly, divine softness]
 themes: [beyond systems, divine disruption, sacred misfit]
 seo_title: Dreamy - The Exception That Could Not Be Filed

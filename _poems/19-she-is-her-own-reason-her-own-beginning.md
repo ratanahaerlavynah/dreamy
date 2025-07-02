@@ -2,6 +2,7 @@
 layout: poem
 title: 'She is Her Own Reason, Her Own Beginning'
 order: 19
+show_poem: true
 tags: [origin, self-creation, sovereignty]
 themes: [self-birth, inner cosmos, defiance of causality]
 seo_title: "She is Her Own Reason, Her Own Beginning - The Bloom Without a Garden"

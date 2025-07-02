@@ -2,6 +2,7 @@
 layout: poem
 title: Where Is Her Mind?
 order: 29
+show_poem: true
 tags: [dispersal, memory, mental-sacredness]
 themes: [fractal mind, diffusion of soul, post-identity cognition]
 seo_title: Where Is Her Mind? - Dreamy’s Mental Fragments Across the World

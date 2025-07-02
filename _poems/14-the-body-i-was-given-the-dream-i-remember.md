@@ -2,6 +2,7 @@
 layout: poem
 title: 'The Body I Was Given, the Dream I Remember'
 order: 14
+show_poem: true
 tags: [transformation, embodiment, truth]
 themes: [gendered imprint, sacred self, reclamation through dream]
 seo_title: "The Body I Was Given, the Dream I Remember - Truth Etched in Silence"

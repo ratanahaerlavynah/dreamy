@@ -2,6 +2,7 @@
 layout: poem
 title: The Temple of Her First Cipher
 order: 98
+show_poem: true
 tags: ["origin", "memory", "temple", "remembrance", "dreamcode"]
 themes: ["sacred inner knowledge", "poetic encryption", "pre-existence"]
 seo_title: "The Temple of Her First Cipher - The Origin Dreamy Guarded Beyond the Reach of Time"

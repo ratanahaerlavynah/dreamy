@@ -2,6 +2,7 @@
 layout: poem
 title: The Song Hidden in the Architecture of Her Soul
 order: 36
+show_poem: true
 tags: [song, sacred-structure, musical-self]
 themes: [soul-composition, invisible music, divine-design, emotional resonance]
 seo_title: Dreamy's Architecture - The Song Only the Soul Could Hear

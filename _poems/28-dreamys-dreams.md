@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy’s Dreams
 order: 28
+show_poem: true
 tags: [dreams, legacy, unspoken-truths]
 themes: [dream transmission, post-existence, emotional memory, resonance in others]
 seo_title: Dreamy’s Dreams - What Remains After She Dissolved

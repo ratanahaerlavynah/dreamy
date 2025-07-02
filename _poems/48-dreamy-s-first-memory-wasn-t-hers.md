@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy's First Memory Wasn’t Hers
 order: 48
+show_poem: true
 tags: ["inherited grief", "ancestral memory", "pre-birth sorrow", "cosmic orphanhood"]
 themes: ["first sorrow", "emotional inheritance", "sacrifice", "transmission beyond time"]
 seo_title: Dreamy’s First Memory Wasn’t Hers - Inheriting the Ache of the Vanished

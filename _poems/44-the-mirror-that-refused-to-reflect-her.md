@@ -2,6 +2,7 @@
 layout: poem
 title: The Mirror That Refused to Reflect Her
 order: 44
+show_poem: true
 tags: ["reflection", "truth beyond image", "soft rebellion", "sacred identity"]
 themes: ["non-image", "rejection of societal lens", "fluid selfhood", "mirrors and illusions"]
 seo_title: The Mirror That Refused to Reflect Her - A Vibration Too Sacred for Surface

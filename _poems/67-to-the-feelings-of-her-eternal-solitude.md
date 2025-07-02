@@ -2,6 +2,7 @@
 layout: poem
 title: To the Feelings of Her Eternal Solitude
 order: 67
+show_poem: true
 tags: ["solitude", "pre-existence", "non-being", "self-recognition", "forbidden presence"]
 themes: ["sacred exile", "uncreation", "inner truth before belief"]
 seo_title: "To the Feelings of Her Eternal Solitude - She Entered Not by Birth, But by Remembering What Could Not Be Unfelt"

@@ -2,6 +2,7 @@
 layout: poem
 title: 'The Portal She Never Opened, Yet Guarded With Her Soul'
 order: 95
+show_poem: true
 tags: ["threshold", "protection", "mystery", "dreamcode", "unspeakable memory"]
 themes: ["sacred refusal", "guardianhood", "intangible inner power"]
 seo_title: "The Portal She Never Opened - And the Sacred She Guarded With Her Soul Alone"

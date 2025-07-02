@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy's Femininity... The She in Her
 order: 46
+show_poem: true
 tags: ["feminine awakening", "gender truth", "sacred She", "embodied softness"]
 themes: ["gender memory", "soul femininity", "liberation", "trans poetic truth"]
 seo_title: Dreamy’s Femininity - The She That Was Never Given, Only Remembered

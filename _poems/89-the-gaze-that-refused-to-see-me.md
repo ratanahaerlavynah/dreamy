@@ -2,6 +2,7 @@
 layout: poem
 title: The Gaze That Refused to See Me
 order: 89
+show_poem: true
 tags: ["invisibility", "mother wound", "faith", "ache", "recognition"]
 themes: ["emotional neglect", "denial", "yearning to be seen"]
 seo_title: "The Gaze That Refused to See Me - And the Ache of Being Erased by the Eyes That Should Have Known"

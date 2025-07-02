@@ -2,6 +2,7 @@
 layout: poem
 title: The Girl Who Decoded and Erased Herself From Existence
 order: 24
+show_poem: true
 tags: [disappearance, codes, refusal, sovereignty]
 themes: [self-erasure as power, mythic rebellion, sacred silence]
 seo_title: "She Decoded the System - Then Erased Herself From It"

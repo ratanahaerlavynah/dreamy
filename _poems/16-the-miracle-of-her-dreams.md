@@ -2,6 +2,7 @@
 layout: poem
 title: The Miracle of Her Dreams
 order: 16
+show_poem: true
 tags: [miracle, dream, becoming, survival]
 themes: [sacred persistence, self-blossoming, refusal to yield]
 seo_title: "The Miracle of Her Dreams - She Carried What the World Forgot"

@@ -2,6 +2,7 @@
 layout: poem
 title: The Force Within Her
 order: 90
+show_poem: true
 tags: ["strength", "resilience", "family wounds", "defiance", "truth"]
 themes: ["survival", "unbreaking soul", "origin of power"]
 seo_title: "The Force Within Her - Born from Bruises, Carved in Silence, She Became What They Could Not Destroy"

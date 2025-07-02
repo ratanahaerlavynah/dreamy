@@ -2,6 +2,7 @@
 layout: poem
 title: The Dream She Never Awoke From
 order: 45
+show_poem: true
 tags: ["eternal dream", "inner dissolution", "non-linear time", "sanctified softness"]
 themes: ["non-waking", "existence as dream", "sacred immersion", "unreachable softness"]
 seo_title: The Dream She Never Awoke From - A Realm Where She Always Was

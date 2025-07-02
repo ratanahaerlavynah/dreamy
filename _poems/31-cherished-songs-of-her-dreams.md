@@ -2,6 +2,7 @@
 layout: poem
 title: Cherished Songs of Her Dreams
 order: 31
+show_poem: true
 tags: [love, endurance, sacred-heart]
 themes: [unbreakable love, inner fire, devotion beyond death]
 seo_title: Dreamy’s Love - The Heart That Refused to Stop Loving

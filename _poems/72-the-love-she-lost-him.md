@@ -2,6 +2,7 @@
 layout: poem
 title: 'The Love She Lost, Him.'
 order: 72
+show_poem: true
 tags: ["lost love", "hesitation", "unspoken", "grief", "essence offering"]
 themes: ["missed connection", "inner love", "acceptance beyond regret"]
 seo_title: "The Love She Lost, Him. - When the Thread Snapped Quietly Before She Could Say She Was Already His"

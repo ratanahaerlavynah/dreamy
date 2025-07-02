@@ -2,6 +2,7 @@
 layout: poem
 title: She Was the Lullaby They Never Let Themselves Hear
 order: 50
+show_poem: true
 tags: ["sacred hush", "dream-voice", "emotional resonance", "unheard song"]
 themes: ["felt presence", "invisible lullaby", "tenderness in soundlessness", "feminine soul"]
 seo_title: She Was the Lullaby They Never Let Themselves Hear - A Song Without Sound, But Not Without Heart

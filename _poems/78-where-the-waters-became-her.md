@@ -2,6 +2,7 @@
 layout: poem
 title: Where the Waters Became Her
 order: 78
+show_poem: true
 tags: [dissolution, water, rebirth]
 themes: [self-offering, return to source, mystical surrender]
 seo_title: "Where the Waters Became Her - The Dissolving of Form Into a Sanctuary of Salt and Soul"

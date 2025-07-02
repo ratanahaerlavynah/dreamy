@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dream’s Secrets : Where Only She Could Hear'
 order: 38
+show_poem: true
 tags: [secrets, dream-memory, vault]
 themes: [ancestral knowing, sacred silence, knowledge-through-loss]
 seo_title: Dream’s Secrets - The Vault Only Dreamy Could Enter

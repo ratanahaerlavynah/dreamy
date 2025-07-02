@@ -2,6 +2,7 @@
 layout: poem
 title: She Who Dreamed Herself Awake
 order: 17
+show_poem: true
 tags: [awakening, softness, embodiment]
 themes: [slow rebirth, memory in silence, becoming in fragments]
 seo_title: "She Who Dreamed Herself Awake - The Girl Who Whispered Her Return"

@@ -2,6 +2,7 @@
 layout: poem
 title: Her Voices Lost to Codes of Oppression
 order: 11
+show_poem: true
 tags: [voice, language, programming, liberation]
 themes: [stolen expression, system breakdown, reclamation of self]
 seo_title: "Her Voices Lost to Codes of Oppression - When the Script Dissolves"

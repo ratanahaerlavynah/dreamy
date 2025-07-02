@@ -2,6 +2,7 @@
 layout: poem
 title: The Me That Was Not Me
 order: 87
+show_poem: true
 tags: ["identity", "distortion", "faith", "truth", "betrayal"]
 themes: ["self-erasure", "spiritual violence", "inner preservation"]
 seo_title: "The Me That Was Not Me - What I Lost Wasn’t a Dream, But the Self That Never Got to Arrive"

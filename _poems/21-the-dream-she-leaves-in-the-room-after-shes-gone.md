@@ -2,6 +2,7 @@
 layout: poem
 title: The Dream She Leaves in the Room After She’s Gone
 order: 21
+show_poem: true
 tags: [presence, lingering, resonance, aura]
 themes: [emotional atmosphere, unseen transformation, memory awakening]
 seo_title: "The Dream She Leaves - Her Absence Alters Everything"

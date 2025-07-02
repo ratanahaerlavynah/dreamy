@@ -2,6 +2,7 @@
 layout: poem
 title: The Seed of Her Becoming
 order: 8
+show_poem: true
 tags: [growth, becoming, sacred self]
 themes: [inward blooming, feminine initiation, memory as identity]
 seo_title: "The Seed of Her Becoming - A Blooming from Within"

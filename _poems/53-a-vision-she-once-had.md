@@ -2,6 +2,7 @@
 layout: poem
 title: A Vision She Once Had…
 order: 53
+show_poem: true
 tags: ["prophetic vision", "self-revelation", "dream palace", "otherworld"]
 themes: ["unearthly memory", "dream as truth", "celestial self"]
 seo_title: "A Vision She Once Had - The Parallel She Carried Before the World Was Ready to Remember Her"

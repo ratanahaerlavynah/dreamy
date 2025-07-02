@@ -2,6 +2,7 @@
 layout: poem
 title: She Was the Offering of Eternity
 order: 55
+show_poem: true
 tags: ["sacrifice", "eternal presence", "light", "gift", "divine flame"]
 themes: ["cosmic giving", "voluntary presence", "light as offering"]
 seo_title: "She Was the Offering of Eternity - The Flame That Descended Not to Burn, But to Become"

@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy''s Love, Her Undying Heart'
 order: 32
+show_poem: true
 tags: [love, endurance, sacred-heart]
 themes: [unbreakable love, inner fire, devotion beyond death]
 seo_title: Dreamy’s Love - The Heart That Refused to Stop Loving

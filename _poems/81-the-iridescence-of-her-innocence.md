@@ -2,6 +2,7 @@
 layout: poem
 title: The Iridescence of Her Innocence
 order: 81
+show_poem: true
 tags: [innocence, light, elements]
 themes: [primordial self, dream identity, untouched purity]
 seo_title: "The Iridescence of Her Innocence - Dreamy Before Time, Opal Beyond the Eye"

@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy’s Future : Boundless'
 order: 83
+show_poem: true
 tags: [future, dream, becoming]
 themes: [timebending self, emergent potential, sacred unfolding]
 seo_title: "Dreamy’s Future: Boundless - Where Becoming Blooms Before the Petal Opens"

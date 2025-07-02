@@ -75,7 +75,7 @@ show_gallery: false   # flip to true when ready
     });
   </script>
 
-  {% assign sorted_poems = site.poems | sort: 'order' %}
+  {% assign sorted_poems = site.poems | where_exp: "p", "p.show_poem != false" | sort: 'order' %}
   <ul class="poem-list">
     {% for poem in sorted_poems %}
       <li><a class="poem-link" href="{{ poem.url }}">{{ poem.title }}</a></li>

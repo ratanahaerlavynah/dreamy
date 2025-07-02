@@ -2,6 +2,7 @@
 layout: poem
 title: 'Her Voice Still Forming : A Song She Was Never Allowed to Sing'
 order: 40
+show_poem: true
 tags: [voice, unsung-song, sacred-tide]
 themes: [sound-beyond-words, expression-as-resistance, internal-becoming]
 seo_title: Her Voice Still Forming - Dreamy’s Song That Was Never Heard

@@ -2,6 +2,7 @@
 layout: poem
 title: She Dreamed in a Language That Could Not Be Spoken
 order: 58
+show_poem: true
 tags: [dream-language, pulse, starlight, unspeakable truth]
 themes: [pre-verbal communication, divine softness, mystical knowing]
 seo_title: The Language Dreamy Spoke Was Not of This World

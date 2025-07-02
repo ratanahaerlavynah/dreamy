@@ -4,7 +4,7 @@ permalink: /poems-index.html
 ---
 
 <div id="poems-index">
-  {% for poem in site.poems %}
+  {% for poem in site.poems | where_exp: "p", "p.show_poem != false" %}
     <div class="poem" data-title="{{ poem.title }}">
       {{ poem.content | strip_html }}
     </div>

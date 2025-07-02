@@ -2,6 +2,7 @@
 layout: poem
 title: 'Aerlavynah, The Dream That Could Not Escape Itself...'
 order: 85
+show_poem: true
 tags: [trauma, liberation, self-naming]
 themes: [sacred resistance, survival, reclamation]
 seo_title: "Aerlavynah - The Dream That Could Not Escape Itself, So It Rewrote the Nightmare From Within"

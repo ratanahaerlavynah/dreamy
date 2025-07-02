@@ -2,6 +2,7 @@
 layout: poem
 title: The Oceans She Summoned
 order: 76
+show_poem: true
 tags: [ocean, grief, expression]
 themes: [flooded emotion, becoming, subconscious power]
 seo_title: "The Oceans She Summoned - When Her Grief Became the Tide and Her Silence Became the Sea"

@@ -2,6 +2,7 @@
 layout: poem
 title: The Unrevealed Answer
 order: 4
+show_poem: true
 tags: [miracle, tides, origin]
 themes: [eternity, mystery, divine unknowability]
 seo_title: "The Unrevealed Answer - She Who Dreams Without Shores"

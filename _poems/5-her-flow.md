@@ -2,6 +2,7 @@
 layout: poem
 title: Her Flow
 order: 5
+show_poem: true
 tags: [water, becoming, memory]
 themes: [fluid identity, cosmic femininity, sacred sorrow]
 seo_title: "Her Flow - Where Skies Are Remembered in Salt"

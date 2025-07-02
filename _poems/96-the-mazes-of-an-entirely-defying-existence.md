@@ -2,6 +2,7 @@
 layout: poem
 title: The Mazes of an Entirely Defying Existence
 order: 96
+show_poem: true
 tags: ["nonconformity", "freedom", "inner maze", "soft rebellion", "dream logic"]
 themes: ["rejection of linearity", "radical imagination", "sacred disobedience"]
 seo_title: "The Mazes of an Entirely Defying Existence - Dreamy's Sacred Refusal to Follow the Known"

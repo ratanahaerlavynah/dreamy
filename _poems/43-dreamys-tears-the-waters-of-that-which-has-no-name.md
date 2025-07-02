@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy’s Tears, the Waters of That-Which-Has-No-Name'
 order: 43
+show_poem: true
 tags: ["Dreamy", "sacred tears", "inner origin", "emotional memory", "liquid essence"]
 themes: ["remembrance", "emotional sacredness", "dimension beyond grief", "dream-fluid identity"]
 seo_title: Dreamy’s Tears, the Waters of That-Which-Has-No-Name - Sacred Softness Remembered

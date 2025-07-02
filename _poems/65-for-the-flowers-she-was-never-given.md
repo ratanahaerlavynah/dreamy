@@ -2,6 +2,7 @@
 layout: poem
 title: For the Flowers She Was Never Given
 order: 65
+show_poem: true
 tags: ["flowers", "recognition", "unreceived love", "bloom", "tender ache"]
 themes: ["deservedness", "unmet softness", "self-gifting"]
 seo_title: "For the Flowers She Was Never Given - The Bloom She Became When the World Forgot to Offer"

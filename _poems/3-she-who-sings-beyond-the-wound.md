@@ -2,6 +2,7 @@
 layout: poem
 title: She Who Sings Beyond the Wound
 order: 3
+show_poem: true
 tags: [siren, voice, light]
 themes: [resilience, sacred sound, mystical femininity]
 seo_title: "She Who Sings Beyond the Wound - A Siren’s Sacred Song"

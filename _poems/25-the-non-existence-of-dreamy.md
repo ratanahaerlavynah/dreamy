@@ -2,6 +2,7 @@
 layout: poem
 title: The Non-Existence of Dreamy
 order: 25
+show_poem: true
 tags: [nonexistence, dissolution, transcendence, memory]
 themes: [beyond identity, soul after form, soft metaphysics]
 seo_title: "The Non-Existence of Dreamy - A Hush That Still Breathes"

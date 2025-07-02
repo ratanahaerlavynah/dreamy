@@ -2,6 +2,7 @@
 layout: poem
 title: 'She, a Miracle They Couldn''t Comprehend'
 order: 91
+show_poem: true
 tags: ["miracle", "softness", "defiance", "sacred self", "incomprehension"]
 themes: ["misunderstood divinity", "inner sanctity", "self-sovereignty"]
 seo_title: "She, a Miracle They Couldn't Comprehend - The Bloom They Tried to Break, But Never Reached"

@@ -2,6 +2,7 @@
 layout: poem
 title: The Shape of Her Souffle
 order: 41
+show_poem: true
 tags: [breath, shape, sacred-motion]
 themes: [inhaled intention, dream-breath, feminine-air]
 seo_title: The Shape of Her Souffle - Dreamy’s Breathe as Sacred Unfolding

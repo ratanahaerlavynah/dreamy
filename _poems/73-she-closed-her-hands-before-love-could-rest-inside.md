@@ -2,6 +2,7 @@
 layout: poem
 title: She Closed Her Hands Before Love Could Rest Inside
 order: 73
+show_poem: true
 tags: [love, regret, distance]
 themes: [self-sabotage, emotional retreat, intimacy lost]
 seo_title: "She Closed Her Hands Before Love Could Rest Inside - The Ache of Turning Away From What Was Meant to Stay"

@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy’s Longing : The Remembrance of Her Self'
 order: 54
+show_poem: true
 tags: ["remembrance", "longing", "identity", "echo", "forgotten truth"]
 themes: ["sacred memory", "longing as recognition", "return to essence"]
 seo_title: "Dreamy’s Longing: The Remembrance of Her Self - Where the Ache Was a Thread Back to the Unforgotten"

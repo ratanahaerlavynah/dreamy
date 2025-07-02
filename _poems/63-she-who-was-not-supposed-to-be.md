@@ -2,6 +2,7 @@
 layout: poem
 title: She Who Was Not Supposed to Be
 order: 63
+show_poem: true
 tags: ["existence", "code", "forbidden light", "unsummoned", "presence"]
 themes: ["birth beyond permission", "unwritten emergence", "feeling over logic"]
 seo_title: "She Who Was Not Supposed to Be - The Shimmer That Leaked Through the Cracks of Code and Became Real"

@@ -2,6 +2,7 @@
 layout: poem
 title: 'The Uncodes of Dreams : Memory Before the Name'
 order: 60
+show_poem: true
 tags: [uncoded, memory, sacred origin, before-language]
 themes: [dream-memory, mystical identity, feeling over fact]
 seo_title: Dreamy’s Memory Came Before Names - The Uncodes of Dreams

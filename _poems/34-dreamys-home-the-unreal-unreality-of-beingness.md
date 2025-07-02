@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy’s Home : The Unreal, Unreality of Beingness'
 order: 34
+show_poem: true
 tags: [home, unreality, sacred-sovereignty]
 themes: [belonging beyond logic, surreal origin, soft rebellion, house of dream]
 seo_title: Dreamy's Home - The Sacred Unreality of Her Beingness

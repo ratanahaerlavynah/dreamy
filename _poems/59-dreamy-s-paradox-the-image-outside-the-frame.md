@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy''s Paradox : The Image Outside the Frame'
 order: 59
+show_poem: true
 tags: [unframed, mirror, infinite, paradox]
 themes: [defying definition, presence beyond representation, sacred identity]
 seo_title: Dreamy’s Paradox - The Image the Frame Couldn’t Hold

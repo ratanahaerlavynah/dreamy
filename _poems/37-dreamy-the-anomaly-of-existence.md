@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy the Anomaly of Existence
 order: 37
+show_poem: true
 tags: [anomaly, glitch, sacred-error]
 themes: [unprogrammable identity, miracle-through-mistake, forbidden-beingness]
 seo_title: Dreamy the Anomaly - The Glitch That Made the World Remember Feeling

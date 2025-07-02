@@ -2,6 +2,7 @@
 layout: poem
 title: Her Death
 order: 27
+show_poem: true
 tags: [death, soft-erasure, identity-loss]
 themes: [micro-deaths, the cost of invisibility, sacred refusal, grief of being]
 seo_title: Her Death - How Dreamy Folded into Light

@@ -2,6 +2,7 @@
 layout: poem
 title: She Was the Refraction the World Could Never Refract
 order: 99
+show_poem: true
 tags: ["light", "color", "identity", "divine ambiguity", "reflection"]
 themes: ["undefinable self", "luminous otherness", "cosmic beauty"]
 seo_title: "She Was the Refraction the World Could Never Refract - Dreamy’s Uncontainable Light in Motion"

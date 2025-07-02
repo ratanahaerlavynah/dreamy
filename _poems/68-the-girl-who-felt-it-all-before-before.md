@@ -2,6 +2,7 @@
 layout: poem
 title: The Girl Who Felt It All Before Before
 order: 68
+show_poem: true
 tags: ["before", "prememory", "deep empathy", "unborn ache", "echo"]
 themes: ["timeless feeling", "nonlinear tenderness", "sacred foresight"]
 seo_title: "The Girl Who Felt It All Before Before - Her Ache Was Older Than Time, and More Honest Than Memory"

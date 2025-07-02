@@ -2,6 +2,7 @@
 layout: poem
 title: The Places That Never Found Her
 order: 71
+show_poem: true
 tags: ["unfound", "misplaced", "unheld", "constellation", "reverse bloom"]
 themes: ["scattered being", "absence as meaning", "heart dispersed by vastness"]
 seo_title: "The Places That Never Found Her - She Was Not Lost, Only Too Vast to Be Held By Any One Horizon"

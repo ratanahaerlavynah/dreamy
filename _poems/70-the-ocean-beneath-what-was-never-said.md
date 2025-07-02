@@ -2,6 +2,7 @@
 layout: poem
 title: The Ocean Beneath What Was Never Said
 order: 70
+show_poem: true
 tags: ["unsaid", "beneath", "ocean", "displacement", "presence"]
 themes: ["soft dissonance", "warmth before form", "unspoken origin"]
 seo_title: "The Ocean Beneath What Was Never Said - Her Presence Was the Ache of Words That Had Not Yet Learned to Form"

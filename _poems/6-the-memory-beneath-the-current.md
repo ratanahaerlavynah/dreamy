@@ -2,6 +2,7 @@
 layout: poem
 title: The Memory Beneath the Current
 order: 6
+show_poem: true
 tags: [memory, depth, emotion]
 themes: [submerged truth, feminine vastness, sacred remembering]
 seo_title: "The Memory Beneath the Current - Listening Beneath the Surface"

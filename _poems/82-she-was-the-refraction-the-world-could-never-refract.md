@@ -2,6 +2,7 @@
 layout: poem
 title: She Was the Refraction the World Could Never Refract
 order: 82
+show_poem: true
 tags: [light, shimmer, self]
 themes: [multiplicity, truth beyond forms, prismatic identity]
 seo_title: "She Was the Refraction the World Could Never Refract - The Light That Refused to Break"

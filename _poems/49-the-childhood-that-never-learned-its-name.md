@@ -2,6 +2,7 @@
 layout: poem
 title: The Childhood That Never Learned Its Name
 order: 49
+show_poem: true
 tags: ["unnamed childhood", "lost softness", "sacred vow", "silent ache"]
 themes: ["erasure", "invisible tenderness", "unheard songs", "emotional witness"]
 seo_title: The Childhood That Never Learned Its Name - A Flicker of Softness Held in Silence

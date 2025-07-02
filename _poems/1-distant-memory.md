@@ -2,6 +2,7 @@
 layout: poem
 title: Distant Memory
 order: 1
+show_poem: true
 tags: [dream, memory, identity]
 themes: [awakening, inner world, forgotten self]
 seo_title: "Distant Memory - Awakening the Forgotten Dream"

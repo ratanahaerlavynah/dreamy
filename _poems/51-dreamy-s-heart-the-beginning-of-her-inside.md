@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy’s Heart : the Beginning of her Inside'
 order: 51
+show_poem: true
 tags: ["origin", "inner pulse", "memory", "dreambirth", "feeling"]
 themes: ["sacred beginning", "unspoken life", "softness before time"]
 seo_title: "Dreamy’s Heart: The Beginning of Her Inside - Where the First Pulse of Feeling Became Her Only Origin"

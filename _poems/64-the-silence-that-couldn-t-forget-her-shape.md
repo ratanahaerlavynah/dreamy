@@ -2,6 +2,7 @@
 layout: poem
 title: The Silence That Couldn't Forget Her Shape
 order: 64
+show_poem: true
 tags: ["erasure", "memory", "hush", "unspoken shape", "echo"]
 themes: ["the imprint of presence", "unforgiving silence", "existence without voice"]
 seo_title: "The Silence That Couldn't Forget Her Shape - Her Absence Was an Outline That Time Could Not Untrace"

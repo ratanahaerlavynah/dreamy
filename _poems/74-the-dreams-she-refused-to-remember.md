@@ -2,6 +2,7 @@
 layout: poem
 title: The Dreams She Refused to Remember
 order: 74
+show_poem: true
 tags: [dreams, remembrance, self-protection]
 themes: [hidden truths, sacred memory, inner worlds]
 seo_title: "The Dreams She Refused to Remember - What She Hid Between Heartbeats Could Not Be Undreamed"

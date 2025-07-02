@@ -2,6 +2,7 @@
 layout: poem
 title: 'The Memory Before Memory, Dreamy''s First Thought?'
 order: 35
+show_poem: true
 tags: [origin, pre-form, dream-birth]
 themes: [first yearning, cosmic ache, divine impulse, dream-becoming]
 seo_title: Dreamy’s First Thought - The Ache That Shaped the Cosmos

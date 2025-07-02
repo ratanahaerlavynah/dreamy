@@ -2,6 +2,7 @@
 layout: poem
 title: The Healing of What Was Never Hers to Carry
 order: 88
+show_poem: true
 tags: ["healing", "voice", "trauma", "family", "freedom"]
 themes: ["restoration", "feminine voice", "ancestral burden"]
 seo_title: "The Healing of What Was Never Hers to Carry - A Hymn Rewritten in the Language of Her Own Becoming"

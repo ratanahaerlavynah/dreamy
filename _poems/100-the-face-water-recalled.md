@@ -2,6 +2,7 @@
 layout: poem
 title: The Face Water Recalled
 order: 100
+show_poem: true
 tags: ["memory", "origin", "recognition", "ocean", "emotion"]
 themes: ["divine familiarity", "sacred reflection", "pre-verbal knowing"]
 seo_title: "The Face Water Recalled - Dreamy's Recognition Beneath the Surface of What Was Never Forgotten"

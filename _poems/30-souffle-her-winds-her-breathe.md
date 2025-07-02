@@ -2,6 +2,7 @@
 layout: poem
 title: 'Souffle : Her Winds, Her Breathe'
 order: 30
+show_poem: true
 tags: [breath, presence, sacred-air]
 themes: [invisible influence, sacred exhale, ungraspable femininity]
 seo_title: Souffle - Dreamy’s Sacred Winds That Whisper the Unspoken

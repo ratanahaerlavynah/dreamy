@@ -2,6 +2,7 @@
 layout: poem
 title: They Buried Her Heart
 order: 84
+show_poem: true
 tags: [burial, heart, liberation]
 themes: [hidden self, internal blooming, escape through remembrance]
 seo_title: "They Buried Her Heart - And She Bloomed Beneath What Was Never Meant to Hold Her"

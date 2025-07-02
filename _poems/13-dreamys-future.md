@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy’s Future
 order: 13
+show_poem: true
 tags: [future, memory, prophecy]
 themes: [nonlinear time, unfolding path, soul attunement]
 seo_title: "Dreamy's Future - The Spiral That Waits to Remember Her"

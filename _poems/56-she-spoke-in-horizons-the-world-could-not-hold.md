@@ -2,6 +2,7 @@
 layout: poem
 title: She Spoke in Horizons the World Could Not Hold
 order: 56
+show_poem: true
 tags: [shimmer, goodbye, star collapse, sacred memory]
 themes: [impermanence, unseen departure, soft gravity]
 seo_title: She Spoke in Horizons the World Could Not Hold - Dreamy’s Last Light

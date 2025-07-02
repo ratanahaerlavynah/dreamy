@@ -2,6 +2,7 @@
 layout: poem
 title: The Silence That Dreamed Her Too Soon
 order: 69
+show_poem: true
 tags: ["pre-arrival", "softness", "dreaming hush", "timeless shimmer", "witnessless"]
 themes: ["pre-birth tenderness", "unseen emergence", "sacred pause"]
 seo_title: "The Silence That Dreamed Her Too Soon - A Hush So Ancient It Shimmered Her Into Unwitnessed Becoming"

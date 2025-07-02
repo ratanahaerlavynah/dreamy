@@ -2,6 +2,7 @@
 layout: poem
 title: The Clocks in Her Heart
 order: 22
+show_poem: true
 tags: [time, memory, emotional resonance, mystery]
 themes: [nonlinear perception, sacred interiority, hidden feeling]
 seo_title: "The Clocks in Her Heart - Time Measured in Feeling, Not Minutes"

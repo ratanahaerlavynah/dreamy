@@ -2,6 +2,7 @@
 layout: poem
 title: The Overflow
 order: 9
+show_poem: true
 tags: [overflow, softness, awakening]
 themes: [emotional release, sacred vulnerability, rising power]
 seo_title: "The Overflow - When Tenderness Exceeds Its Vessel"

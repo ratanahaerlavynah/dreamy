@@ -2,6 +2,7 @@
 layout: poem
 title: 'When Mirrors Lie, and Memory Refuses'
 order: 15
+show_poem: true
 tags: [identity, mirrors, memory]
 themes: [distorted reflection, sacred resilience, inner recognition]
 seo_title: "When Mirrors Lie, and Memory Refuses - The Girl They Couldn’t Erase"

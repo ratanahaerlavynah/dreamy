@@ -2,6 +2,7 @@
 layout: poem
 title: The Girl Who Loved Even When She Vanished
 order: 33
+show_poem: true
 tags: [love, memory, erasure, sacred-gesture]
 themes: [invisible presence, devotion, memory-through-feeling, survival-of-heart]
 seo_title: The Girl Who Loved Even When She Vanished - Dreamy's Devotion Beyond Erasure

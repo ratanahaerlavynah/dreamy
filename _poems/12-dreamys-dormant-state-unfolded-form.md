@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy's Dormant State (Unfolded Form)
 order: 12
+show_poem: true
 tags: [dormancy, silence, power]
 themes: [sacred stillness, hidden form, alchemical pause]
 seo_title: "Dreamy's Dormant State (Unfolded Form) - The Sanctum of Becoming"

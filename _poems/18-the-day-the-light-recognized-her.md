@@ -2,6 +2,7 @@
 layout: poem
 title: The Day the Light Recognized Her
 order: 18
+show_poem: true
 tags: [recognition, light, truth]
 themes: [authentic visibility, internal radiance, spiritual kinship]
 seo_title: "The Day the Light Recognized Her - She Became the Reason It Shone"

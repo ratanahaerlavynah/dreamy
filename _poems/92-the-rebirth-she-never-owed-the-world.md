@@ -2,6 +2,7 @@
 layout: poem
 title: The Rebirth She Never Owed the World
 order: 92
+show_poem: true
 tags: ["rebirth", "resistance", "sovereignty", "inner child", "self-love"]
 themes: ["unapologetic becoming", "sacred rebellion", "softness as survival"]
 seo_title: "The Rebirth She Never Owed the World - The Girl Who Rose for Herself, Not for Their Applause"

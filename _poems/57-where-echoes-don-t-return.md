@@ -2,6 +2,7 @@
 layout: poem
 title: Where Echoes Don’t Return
 order: 57
+show_poem: true
 tags: [echo, reverence, silence, wind memory]
 themes: [absence as presence, sacred sound, one-way offering]
 seo_title: Where Echoes Don’t Return - Dreamy’s Reverent Silence

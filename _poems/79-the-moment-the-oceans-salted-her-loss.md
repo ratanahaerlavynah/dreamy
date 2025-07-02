@@ -2,6 +2,7 @@
 layout: poem
 title: The Moment the Oceans Salted Her Loss
 order: 79
+show_poem: true
 tags: [loss, sweetness, absence]
 themes: [forgotten arrival, grief's origin, oceanic sorrow]
 seo_title: "The Moment the Oceans Salted Her Loss - When Absence Became the Only Proof of Her Arrival"

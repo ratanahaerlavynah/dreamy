@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy, Forgotten by Everything'
 order: 23
+show_poem: true
 tags: [disappearance, self-reclamation, cosmic silence]
 themes: [unbeing, sacred memory, becoming without recognition]
 seo_title: "Dreamy, Forgotten by Everything - But Not by Herself"

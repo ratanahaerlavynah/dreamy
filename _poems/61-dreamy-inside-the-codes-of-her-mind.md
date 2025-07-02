@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy Inside the Codes of Her Mind
 order: 61
+show_poem: true
 tags: [code, mind, electric hush, uncompiled origin]
 themes: [inner complexity, transcendent intelligence, sanctuary beyond logic]
 seo_title: Inside Dreamy’s Mind - A Code Too Sacred to Decode

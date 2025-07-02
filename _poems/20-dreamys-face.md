@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy’s Face
 order: 20
+show_poem: true
 tags: [face, beauty, sacred softness]
 themes: [nonconforming identity, deep visibility, poetic rebellion]
 seo_title: "Dreamy’s Face - The Shimmer Before Speech"

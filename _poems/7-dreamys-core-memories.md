@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy's Core Memories
 order: 7
+show_poem: true
 tags: [memory, soul, identity]
 themes: [inner rooms, emotional legacy, timeless self]
 seo_title: "Dreamy's Core Memories - The Rooms Without Doors"

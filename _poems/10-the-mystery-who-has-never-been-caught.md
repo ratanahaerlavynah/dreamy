@@ -2,6 +2,7 @@
 layout: poem
 title: The Mystery Who Has Never Been Caught
 order: 10
+show_poem: true
 tags: [mystery, sovereignty, dreamer]
 themes: [ungraspable self, sacred distance, symbolic language]
 seo_title: "The Mystery Who Has Never Been Caught - Beyond Maps and Mirrors"

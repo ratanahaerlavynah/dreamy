@@ -2,6 +2,7 @@
 layout: poem
 title: The Pearl She Never Gave
 order: 80
+show_poem: true
 tags: [silence, hidden pain, treasure]
 themes: [held sorrow, unspeakable memory, sacred withholding]
 seo_title: "The Pearl She Never Gave - A Jewel Formed in Silence, Too Sacred to Be Named"

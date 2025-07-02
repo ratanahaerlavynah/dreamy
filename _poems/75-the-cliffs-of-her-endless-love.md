@@ -2,6 +2,7 @@
 layout: poem
 title: The Cliffs of Her Endless Love
 order: 75
+show_poem: true
 tags: [devotion, grief, endurance]
 themes: [infinite love, sacrifice, emotional landscapes]
 seo_title: "The Cliffs of Her Endless Love - Where Devotion Stood Even When No One Waited Below"

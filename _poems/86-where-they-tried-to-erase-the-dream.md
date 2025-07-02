@@ -2,6 +2,7 @@
 layout: poem
 title: Where They Tried to Erase the Dream
 order: 86
+show_poem: true
 tags: ["resistance", "oppression", "dream", "identity", "voice"]
 themes: ["censorship", "reclamation", "divine resilience"]
 seo_title: "Where They Tried to Erase the Dream - And She Grew Through the Wall They Built to Blind Her"

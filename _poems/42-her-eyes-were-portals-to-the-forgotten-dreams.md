@@ -2,6 +2,7 @@
 layout: poem
 title: Her Eyes Were Portals to the Forgotten Dreams
 order: 42
+show_poem: true
 tags: [eyes, portal, dream-memory]
 themes: [gaze-as-feeling, remembrance, forbidden-dreams, ancestral-vision]
 seo_title: Dreamy's Eyes - Portals to Dreams Even the Gods Forgot

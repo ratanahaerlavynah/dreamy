@@ -2,6 +2,7 @@
 layout: poem
 title: The Petals She Never Let Wilt
 order: 47
+show_poem: true
 tags: ["memory petals", "soft devotion", "dream-child", "sacred preservation"]
 themes: ["emotional fragments", "tender remembrance", "vow of softness", "petals as identity"]
 seo_title: The Petals She Never Let Wilt - A Vow to the Softness That Raised Her

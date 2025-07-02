@@ -2,6 +2,7 @@
 layout: poem
 title: The Garden She Became
 order: 66
+show_poem: true
 tags: ["garden", "inner bloom", "unmet love", "grace", "self-creation"]
 themes: ["blooming in absence", "inner sanctity", "grief turned into growth"]
 seo_title: "The Garden She Became - When Absence Was Too Sacred Not to Flower Into Herself"

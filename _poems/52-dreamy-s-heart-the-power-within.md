@@ -2,6 +2,7 @@
 layout: poem
 title: 'Dreamy’s Heart, the Power Within'
 order: 52
+show_poem: true
 tags: ["inner strength", "soft power", "feminine energy", "gentle force"]
 themes: ["divine femininity", "emotional power", "heart as sanctuary"]
 seo_title: "Dreamy’s Heart, the Power Within - The Sacred Strength That Softens the World Into Remembrance"

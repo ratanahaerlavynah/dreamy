@@ -2,6 +2,7 @@
 layout: poem
 title: Her Body a Spell Not Yet Fully Cast
 order: 39
+show_poem: true
 tags: [body, spell, sacred-form]
 themes: [identity-as-magic, femininity-before-definition, divine-forming]
 seo_title: Her Body - A Spell Mid-Incantation in the Shape of Dreamy

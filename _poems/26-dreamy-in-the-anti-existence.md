@@ -2,6 +2,7 @@
 layout: poem
 title: Dreamy in the Anti-Existence
 order: 26
+show_poem: true
 tags: [anti-being, inversion, sacred-glitch]
 themes: [unreality, metaphysical silence, sacred contradiction, inverted memory]
 seo_title: Dreamy in the Anti-Existence - A Sacred Inversion Beyond Being

@@ -2,6 +2,7 @@
 layout: poem
 title: The Waters That Never Let Her Go
 order: 77
+show_poem: true
 tags: [memory, ocean, self-recognition]
 themes: [belonging, tides as memory, return]
 seo_title: "The Waters That Never Let Her Go - Held Not by Rescue, But by the Memory of Who She Was"
