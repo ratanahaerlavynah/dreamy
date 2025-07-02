@@ -784,3 +784,96 @@ pre, code, span {
     color: #f2b9dd;
   }
 }
+
+
+
+
+/* 🦢 Final Footer Styling Enhancements (Light & Dark Harmony) */
+.site-footer {
+  padding: 2rem 1rem 1rem;
+  font-family: 'Courier New', monospace;
+  font-size: 0.95rem;
+  background-color: #fff0f6;
+  border-top: 1px solid #f8c9df;
+  color: #6e3f55;
+  text-align: center;
+  box-shadow: 0 -2px 8px rgba(255, 192, 203, 0.1);
+}
+
+.footer-links {
+  margin: 1rem 0 0.5rem;
+}
+
+.footer-links a {
+  font-size: 0.9rem;
+  color: #d16fa8;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.footer-links a:hover {
+  color: #e070a0;
+  text-decoration: underline;
+}
+
+.footer-copy {
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+  color: #7a4c61;
+  line-height: 1.4;
+}
+.footer-copy a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.footer-copy a:hover {
+  color: #b85788;
+}
+
+/* 💫 Footer Top Back-to-Top Link */
+.footer-top-link {
+  margin-top: 1.2rem;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+.footer-top-link a {
+  color: #c05a96;
+  text-decoration: none;
+}
+.footer-top-link a:hover {
+  color: #e070a0;
+  text-decoration: underline;
+}
+
+/* 🌙 Dark Mode Footer Harmony */
+@media (prefers-color-scheme: dark) {
+  .site-footer {
+    background-color: #111111;
+    border-top: 1px solid #333;
+    color: #cccccc;
+    box-shadow: 0 -2px 10px rgba(255, 105, 180, 0.05);
+  }
+
+  .footer-links a {
+    color: #f2b9dd;
+  }
+  .footer-links a:hover {
+    color: #ffd0e9;
+  }
+
+  .footer-copy {
+    color: #aa88a8;
+  }
+
+  .footer-copy a:hover {
+    color: #ffc1dc;
+  }
+
+  .footer-top-link a {
+    color: #f2b9dd;
+  }
+
+  .footer-top-link a:hover {
+    color: #ffd0e9;
+  }
+}
