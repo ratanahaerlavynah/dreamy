@@ -4,6 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <!-- 🌟 Favicon and App Icons -->
+<link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+<meta name="theme-color" content="#ffc0e8">
+
+
     <!-- Preload homepage hero image for faster rendering -->
     <link
       rel="preload"
@@ -13,6 +22,31 @@
 
     <title>{{ page.title }} — Aerlavynah</title>
     {% seo %}
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "CreativeWork",
+        "author": {
+          "@type": "Person",
+          "name": "Ratanah Aerlavynah"
+        },
+        "headline": "{{ page.title | escape }}",
+        "url": "{{ page.url | absolute_url }}",
+        "image": "{{ page.image | absolute_url }}",
+        "keywords": "{{ page.tags | join: ', ' }}",
+        "description": "{{ page.description | escape }}",
+        "inLanguage": "en",
+        {% if page.date %}
+        "datePublished": "{{ page.date | date_to_xmlschema }}",
+        {% endif %}
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "{{ site.url }}{{ page.url }}"
+        }
+      }
+      </script>
+
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css?v=2" />
