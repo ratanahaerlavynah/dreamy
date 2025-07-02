@@ -32,7 +32,7 @@ that carved itself into her like the ocean carves the earth
 without asking for permission, 
 without needing to be thanked.
 
-Her love was not gentle ~
+Her love was not gentle.
 It moved like time unpaused,
 like tempests that continued
 even after the sky surrendered.

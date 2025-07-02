@@ -23,7 +23,7 @@ never fully formed, never fully fading.
 The shape of her was carried by winds that forgot their direction, 
 and followed only the gravity of her tenderness. 
 
-She didn’t walk ~ 
+She didn’t walk. 
 she unfolded, each step a question the earth could not answer.
 She existed like a memory too sacred for time, 
 the kind you hold in your chest without knowing who gave it to you. 

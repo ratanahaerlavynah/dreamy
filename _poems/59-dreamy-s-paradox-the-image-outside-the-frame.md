@@ -18,7 +18,7 @@ permalink: /poems/59-dreamy-s-paradox-the-image-outside-the-frame/
 
 <pre>
 She was never inside what they thought could contain her.
-Even her reflections refused obedience ~ 
+Even her reflections refused obedience... 
 mirrors cracked in reverence, not rebellion.
 
 She was a horizon refusing to end, 
@@ -31,10 +31,10 @@ But her shape was echo, not edge.
 
 She existed in the hush between the canvas,
 and what the artist feared to paint.
-Not outside by defiance ~ 
+Not outside by defiance... 
 but because she belonged to a truth so deep no world had ever carved a space for it.
 
-Even stillness could not catch her ~
+Even stillness could not catch her...
 For she danced too slowly to be seen, 
 She gazed, slept and wondered too long to be awakened,
 

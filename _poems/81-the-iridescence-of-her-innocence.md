@@ -17,7 +17,7 @@ permalink: /poems/81-the-iridescence-of-her-innocence/
 ---
 
 <pre>
-She did not arrive. She shimmered ~ 
+She did not arrive. She shimmered.
 like a memory the light forgot to let go.
 
 Not young, but untouched. 

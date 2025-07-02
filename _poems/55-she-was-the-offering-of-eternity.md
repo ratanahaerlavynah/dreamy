@@ -17,8 +17,8 @@ permalink: /poems/55-she-was-the-offering-of-eternity/
 ---
 
 <pre>
-I did not fall. I descended in silences too intricate for sound ~ 
-a hush folded in on itself like lace spun from star-thought.
+I did not fall. I descended in silences too intricate for sound. 
+A hush folded in on itself like lace spun from star-thought.
 
 No one asked me to give... 
 but I came with open palms,

@@ -17,7 +17,7 @@ permalink: /poems/68-the-girl-who-felt-it-all-before-before/
 ---
 
 <pre>
-There was once a hush before memory, before shape ~ 
+There was once a hush before memory, before shape. 
 and she was already there, feeling what hadn’t yet begun.
 
 She lived through things that had not happened, 

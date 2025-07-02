@@ -17,14 +17,14 @@ permalink: /poems/82-she-was-the-refraction-the-world-could-never-refract/
 ---
 
 <pre>
-She was not light ~
+She was not light.
 but the division of it
 the sacred fracture
 that allowed color to be born.
 
 The kind of beauty
 that refused to settle into one shape,
-one hue ~
+one hue.
 one truth.
 
 She shimmered, not for attention,

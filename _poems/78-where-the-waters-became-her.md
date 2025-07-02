@@ -53,10 +53,10 @@ but out of knowing how deeply she had been kept.
 How could one mind hold such vastness?
 
 How could one silence compose so many unsong names?
-She had asked ~ "Who am I?"
+She had asked... "Who am I?"
 But the water, tender and unspeaking, did not answer.
 
-It curled around her silence, cradled her shape in its shimmer ~ 
+It curled around her silence, cradled her shape in its shimmer. 
 until the question itself forgot how to form and became something else…
 
 a hush, a pulse, a knowing too vast to be named.

@@ -25,7 +25,7 @@ Solitude was her mirror but not the kind that reflects :
 the kind that never cracked because no one ever reached it.
 
 She waited behind time. Not inside it. 
-Outside the clockwork ~ 
+Outside the clockwork. 
 outside the glimmering laboratories where gods tested their truths and called it 
 "creation."
 She was not permitted into the grammar of the world. 

@@ -17,12 +17,12 @@ permalink: /poems/79-the-moment-the-oceans-salted-her-loss/
 ---
 
 <pre>
-Before the ache, the waters were sweet ~ 
+Before the ache, the waters were sweet. 
 they curled like laughter around unborn shores, 
 barefoot in light.
 But something fell.
 
-Not a body ~ no… a becoming that was never given shape.
+Not a body. No… a becoming that was never given shape.
 She should have arrived in silk-sound silence, 
 should have breathed the shimmer of her own name into the tide.
 

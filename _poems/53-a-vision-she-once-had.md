@@ -17,13 +17,13 @@ permalink: /poems/53-a-vision-she-once-had/
 ---
 
 <pre>
-I once breathed in a sky that wasn’t born yet ~ 
+I once breathed in a sky that wasn’t born yet, 
 its clouds shaped like forgotten names, 
 its stars whispering what I had always been meant to become.
 
 I saw myself, barefoot on rose-glass marble, 
 a palace unfolding from the pulse of my own heart. 
-It shimmered not from wealth ~ but from everything I had forgiven, 
+It shimmered not from wealth, but from everything I had forgiven, 
 and everything I no longer owed the world.
 
 My voice was velvet-light, not a song sung out loud, 
@@ -34,7 +34,7 @@ I wore dresses made of waterlight,
 threaded with the breath of oceans that knew me before I arrived, 
 and veils of color unnamed by any human tongue.
 
-I wasn’t worshipped nor needed to be in order to be real ~ but felt, 
+I wasn’t worshipped nor needed to be in order to be real, but felt, 
 like a breeze scented with jasmine and memory, 
 in corridors of strangers’ dreams.
 

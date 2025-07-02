@@ -18,7 +18,7 @@ permalink: /poems/69-the-silence-that-dreamed-her-too-soon/
 
 <pre>
 There were no eyes yet but something had already begun weeping. 
-No sky had opened ~ 
+No sky had opened,
 yet a softness had already begun to fall from somewhere unnamed.
 
 She did not arrive. 

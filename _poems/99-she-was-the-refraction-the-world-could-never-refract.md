@@ -17,7 +17,7 @@ permalink: /poems/99-she-was-the-refraction-the-world-could-never-refract/
 ---
 
 <pre>
-She was not light ~ 
+She was not light.
 but the division of it the sacred fracture that allowed color to be born.
 
 The kind of beauty that refused to settle into 
@@ -53,7 +53,7 @@ only too luminous to be held by anything that hadn’t first learned
 how to ache beautifully.
 .
 .
-The world could only name her in metaphors ~ 
+The world could only name her in metaphors. 
 because reality had never
 birthed something so reflected, 
 reflecting, 

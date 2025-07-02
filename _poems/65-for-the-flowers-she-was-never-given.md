@@ -17,7 +17,7 @@ permalink: /poems/65-for-the-flowers-she-was-never-given/
 ---
 
 <pre>
-She walked through her life with her palms slightly open ~ 
+She walked through her life with her palms slightly open. 
 as if expecting something that never quite arrived. 
 Not a gift but a recognition.
 
