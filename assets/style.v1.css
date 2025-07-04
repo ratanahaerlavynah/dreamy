@@ -68,6 +68,14 @@ body{background:#111;color:#eee}
 .poem-nav-prev:hover,.poem-nav-next:hover{text-decoration:underline}
 @media(max-width:600px){
 .poem-nav-top,.poem-nav-bottom{justify-content:center}}
+/* 🌸 Harmonise l’air autour des liens PREV/NEXT sur mobile & desktop */
+.poem-nav-top     { margin-block: 2rem 1.2rem; }   /* 2rem au-dessus, 1.2rem en-dessous */
+.poem-nav-bottom  { margin-block: 2.5rem 2rem; }   /* 2.5rem au-dessus, 2rem en-dessous */
+@media (max-width: 600px){
+  .poem-nav-top    { margin-block: 1.6rem 1rem; }
+  .poem-nav-bottom { margin-block: 2rem 1.6rem; }
+}
+
 
 /* ───────────── 📦 LETTERBOX ───────────── */
 .letterbox-container{background:var(--background-soft,#fef8fc);padding:2rem;border-radius:12px;max-width:600px;margin:4rem auto;box-shadow:0 0 20px rgba(255,192,203,.2)}
