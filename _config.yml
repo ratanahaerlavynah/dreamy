@@ -1,9 +1,10 @@
 title: Aerlavynah
 description: "Dreamy's Dreams"
-baseurl: ""
+baseurl: ""                  # racine du domaine
 url: "https://aerlavynah.com"
 
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -17,7 +18,7 @@ paginate_path: "/page:num/"
 
 exclude:
   - Gemfile
-  - Gemfile.lock        
+  - Gemfile.lock
   - node_modules
   - vendor
   - .jekyll-cache
@@ -34,11 +35,10 @@ collections:
     permalink: /poems/:name/
 
 include:
-  - poems-data.js
+  - poems-data.js            # un seul fichier mais on garde le tiret, YAML adore
 
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: ""               # s’applique à tout le site
     values:
       sitemap: true

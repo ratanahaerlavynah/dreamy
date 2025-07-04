@@ -231,8 +231,4 @@ html, body,
 main pre {white-space: pre-wrap !important;   /* garde tes sauts de ligne ET autorise le wrap */overflow-wrap: anywhere;            /* casse même les mots interminables */word-break: break-word;max-width: 100%;box-sizing: border-box;}
 
 /* --- POEM MOBILE WRAP · FINAL SAFE PATCH --- */
-pre {
-  white-space: pre-wrap !important;   /* autorise le retour à la ligne */
-  overflow-wrap: anywhere !important; /* casse les mots trop longs    */
-  word-break: break-word !important;
-}
+pre {white-space: pre-wrap !important;   /* autorise le retour à la ligne */overflow-wrap: anywhere !important; /* casse les mots trop longs    */word-break: break-word !important;}
