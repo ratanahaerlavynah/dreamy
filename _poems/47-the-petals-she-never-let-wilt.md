@@ -18,8 +18,10 @@ permalink: /poems/47-the-petals-she-never-let-wilt/
 ---
 
 <pre>
-One petal, velvet-soft with memory :  this is a dream. 
-Another, fragile with forgotten shimmer :  this is reality.
+One petal, 
+velvet-soft with memory :  this is a dream. 
+Another, 
+fragile with forgotten shimmer :  this is reality.
 
 I sit in the hush between them, 
 unraveling what cannot be known :  

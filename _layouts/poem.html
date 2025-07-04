@@ -10,7 +10,7 @@ layout: default
 ╰───────────────────────────────────────────────────────────╯
 {%- endcomment -%}
 
-{%- assign poems_sorted = site.poems | sort: "order" -%}
+{%- assign poems_sorted  = site.poems | sort: "order" -%}
 {%- assign current_index = nil -%}
 
 {%- for p in poems_sorted -%}
@@ -21,32 +21,27 @@ layout: default
 
 {%- assign prev_index = current_index | minus: 1 -%}
 {%- assign next_index = current_index | plus: 1 -%}
-
-{%- assign prev_poem = poems_sorted[prev_index] -%}
-{%- assign next_poem = poems_sorted[next_index] -%}
+{%- assign prev_poem  = poems_sorted[prev_index] -%}
+{%- assign next_poem  = poems_sorted[next_index] -%}
 
 {%- if prev_poem -%}
-  <nav class="poem-nav-top" style="margin-bottom:0.05rem; margin-top:0.2rem;">
-    <a class="poem-nav-prev" href="{{ prev_poem.url | relative_url }}">
-      {{ prev_poem.title }}
-    </a>
-  </nav>
+<nav class="poem-nav-top" style="margin-bottom:0.05rem;margin-top:0.2rem;">
+  <a class="poem-nav-prev" href="{{ prev_poem.url | relative_url }}">
+    {{ prev_poem.title }}
+  </a>
+</nav>
 {%- endif -%}
 
-
-{%- comment -%} ─── Title ────────────────────────────────── {%- endcomment -%}
 <h2 class="poem-title">{{ page.title }}</h2>
 
-{%- comment -%} ─── Content ──────────────────────────────── {%- endcomment -%}
 {{ content }}
 
-{%- comment -%} ─── BOTTOM NAV (right) ───────────────────── {%- endcomment -%}
 {%- if next_poem -%}
-  <nav class="poem-nav-bottom">
-    <a class="poem-nav-next" href="{{ next_poem.url | relative_url }}">
-      {{ next_poem.title }}
-    </a>
-  </nav>
+<nav class="poem-nav-bottom">
+  <a class="poem-nav-next" href="{{ next_poem.url | relative_url }}">
+    {{ next_poem.title }}
+  </a>
+</nav>
 {%- endif -%}
 
 </main>

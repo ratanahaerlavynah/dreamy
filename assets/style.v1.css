@@ -1,26 +1,11 @@
-/* Dreamy Aerlavynah · style.v1.css · Last updated: 2025-07-02 */
+/* Dreamy Aerlavynah · style.v1.css · Last updated: 2025-07-03 */
 
 /* ─────────────────────────────────────────
    🌐  RESET & BASE
 ───────────────────────────────────────── */
 
-@font-face {
-   font-family: 'Italianno';
-   src: url('/assets/fonts/italianoregular.woff2') format('woff2');
-   font-weight: 400;
-   font-style: normal;
-   font-display: swap;
- }
-
- @font-face {
-   font-family: 'Italianno';
-   src: 
-   url('/assets/fonts/italianoregular.woff2') format('woff2');
-   font-display: swap;
-   font-style: normal;
-   font-weight: 400;
- }
- 
+@font-face {font-family: 'Italianno';src: url('/assets/fonts/italianoregular.woff2') format('woff2');font-weight: 400;font-style: normal;font-display: swap;}
+@font-face {font-family: 'Italianno';src: url('/assets/fonts/italianoregular.woff2') format('woff2');font-display: swap;font-style: normal;font-weight: 400;}
  
 html{ box-sizing:border-box}*,*::before,*::after{ box-sizing:inherit}
 
@@ -50,14 +35,7 @@ body{background:#111;color:#eee}
 .letterbox-form button:hover{background:#a84ab7}}
     
 /* ─────────────── 📐 LAYOUT ─────────────── */
-.site-container {
-   max-width: 800px;
-   width: 100%;
-   margin: 0 auto;
-   padding: 0 1rem;
-   box-sizing: border-box;
-   overflow-x: hidden;
- }
+.site-container {max-width: 800px;width: 100%;margin: 0 auto;padding: 0 1rem;box-sizing: border-box;overflow-x: hidden;}
  
 /* ─────────── ✨ HEADER & BRANDING ─────────── */
 .site-header{margin:0 0 2rem;padding:1rem 0;text-align:center}
@@ -178,8 +156,7 @@ img,pre,code,table{max-width:100%;overflow-wrap:break-word}
    FONTS
 ───────────────────────────────────────── */
 
-@font-face {font-family: 'Italianno';font-style: normal;font-weight: 400;font-display: swap;src: 
-   url('/assets/fonts/italianoregular.woff2') format('woff2');}
+@font-face {font-family: 'Italianno';font-style: normal;font-weight: 400;font-display: swap;src:url('/assets/fonts/italianoregular.woff2') format('woff2');}
 
 /* ─────────────────────────────────────────
    🌙  DARK MODE (prefers-color-scheme)
@@ -227,29 +204,27 @@ body{background:#1a1a1a;color:#eeeeee}
 #word-search-results a:hover{color:#ffd0ec}}
 
 /* 🌸 Mobile Overflow Protection — Final Fix */
+html,
+body { width: 100%;max-width: 100%;overflow-x: hidden;}
+.site-container {max-width: 800px;width: 100%;margin: 0 auto;padding: 0 1rem;box-sizing: border-box;overflow-x: hidden;}
+.poem-content {width: 100%;box-sizing: border-box;padding-left: 1rem;padding-right: 1rem;overflow-wrap: break-word;word-break: break-word;white-space: pre-wrap;}
+ 
+/* ▸ Mobile safety (≤600 px) */
+@media (max-width: 600px) {
+html, body,
+.site-container,main {max-width: 100vw !important;width: 100% !important;}}
+.poem-content {overflow-wrap: anywhere;   /* la valeur magique qui force la casse partout */word-break: break-word;    /* vieux alias – utile pour iOS 14- */white-space: pre-wrap;     /* garder tes retours à la ligne manuels */hyphens: auto;}
+@media (max-width: 600px) { body { font-family: 'Helvetica Neue', Arial, sans-serif; } 
+.poem-content { font-family: 'Courier New', monospace; } /* si tu tiens au monospace à l’intérieur, sinon retire-le */}
+.poem-content pre, 
+.poem-content code {white-space: pre-wrap !important;   /* override */overflow-x: auto;                   /* en dernier recours, scroll horizontal */font-size: 0.9rem;}
 
-html, body {
-   width: 100%;
-   max-width: 100%;
-   overflow-x: hidden;
- }
- 
- .site-container {
-   max-width: 800px;
-   width: 100%;
-   margin: 0 auto;
-   padding: 0 1rem;
-   box-sizing: border-box;
-   overflow-x: hidden;
- }
- 
- .poem-content {
-   width: 100%;
-   box-sizing: border-box;
-   padding-left: 1rem;
-   padding-right: 1rem;
-   overflow-wrap: break-word;
-   word-break: break-word;
-   white-space: pre-wrap;
- }
- 
+/* --- Poem mobile wrap fix --- */
+main pre {white-space: pre-wrap !important;   /* garde tes sauts de ligne ET autorise le wrap */overflow-wrap: anywhere;            /* casse même les mots interminables */word-break: break-word;max-width: 100%;box-sizing: border-box;}
+
+/* --- POEM MOBILE WRAP · FINAL SAFE PATCH --- */
+pre {
+  white-space: pre-wrap !important;   /* autorise le retour à la ligne */
+  overflow-wrap: anywhere !important; /* casse les mots trop longs    */
+  word-break: break-word !important;
+}
