@@ -36,9 +36,17 @@ collections:
 
 include:
   - poems-data.js            # un seul fichier mais on garde le tiret, YAML adore
+  - manifest.webmanifest
+  - offline.html
+webrick:
+  mime_types:
+    .webmanifest: application/manifest+json
 
 defaults:
   - scope:
       path: ""               # s’applique à tout le site
     values:
       sitemap: true
+
+
+

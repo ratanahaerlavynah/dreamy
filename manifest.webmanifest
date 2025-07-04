@@ -1,0 +1,20 @@
+{
+  "name": "Dreamy's Dream Poems",
+  "short_name": "Dreamy Poems",
+  "id": "/",
+  "description": "Read the lyrical dreams of Ratanah Aerlavynah offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#ffc0e8",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "/assets/favicon/android-chrome-192x192.png","sizes":"192x192","type":"image/png" },
+    { "src": "/assets/favicon/android-chrome-512x512.png","sizes":"512x512","type":"image/png" },
+    { "src": "/assets/favicon/android-chrome-maskable-512x512.png","sizes":"512x512","type":"image/png","purpose":"maskable" }
+  ],
+  "screenshots": [
+    { "src": "/assets/img/pwa-wide.webp","sizes":"1280x720","type":"image/webp","form_factor":"wide" },
+    { "src": "/assets/img/pwa-portrait.webp","sizes":"720x1280","type":"image/webp" }
+  ]
+}

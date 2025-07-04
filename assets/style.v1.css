@@ -104,6 +104,8 @@ img,pre,code,table{max-width:100%;overflow-wrap:break-word}
 .modal-content h2{font-family:'Italianno',cursive;font-size:2rem;color:#d6336c;margin-bottom:.5em}
 .modal-close{position:absolute;top:.75rem;right:.75rem;width:1.8rem;height:1.8rem;background:#ffc0cb;border:none;color:white;border-radius:50%;font-size:1.2rem;cursor:pointer;box-shadow:0 2px 6px rgba(0,0,0,.1)}
 .modal-close:hover{background:#ffb6c1}
+.modal-close{display: flex;              /* crée un mini conteneur flex */align-items: center;        /* centre verticalement le “×” */justify-content: center;    /* centre horizontalement      */line-height: 0;             /* annule le décalage de baseline */padding: 0;                 /* évite tout débordement latent */}
+ 
 
 /* Word-input & results */
 #word-search-input{ width:100%;padding:.6em 1em;border:1px solid #ffc0cb;border-radius:24px;margin-bottom:1em;font-size:1em;text-align:center;color:#d6336c;font-family:inherit;box-shadow:0 2px 4px rgba(0,0,0,.08);}

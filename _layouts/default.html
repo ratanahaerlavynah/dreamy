@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="Cache-Control" content="public, max-age=31536000">
     <meta http-equiv="Expires" content="Fri, 31 Dec 2037 23:59:59 GMT">
-
+    <link rel="manifest" href="/manifest.webmanifest">
+    <meta name="theme-color" content="#ffc0e8">
 
 <!-- 🌟 Favicon and App Icons -->
 <meta name="theme-color" content="#ffc0e8">
@@ -13,7 +14,6 @@
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon/favicon-32x32.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon/favicon-16x16.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">
-<link rel="manifest" href="{{ '/assets/favicon/site.webmanifest' | relative_url }}" type="application/manifest+json">
 
 <!--  Font Italianno  -->
 <link
@@ -161,5 +161,14 @@ type="image/webp"
     </footer>
 
     {{ content_for_footer }}
+
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () =>
+          navigator.serviceWorker.register("/service-worker.js")
+        );
+      }
+    </script>
+    
   </body>
 </html>
