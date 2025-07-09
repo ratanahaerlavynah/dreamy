@@ -20,7 +20,7 @@ permalink: /poems/8-the-seed-of-her-becoming/
 <pre>
 There is a silence in her
 that does not sleep,
-a seed wrapped in centuries,
+a sigh wrapped in centuries,
 soft as starlight,
 fierce as forgiveness.
 

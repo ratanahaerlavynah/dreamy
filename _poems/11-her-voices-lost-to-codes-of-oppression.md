@@ -95,5 +95,5 @@ The system crashes.
 And what remains…
 is her.
 A song not permitted,
-but prophesied.
+but sang anyway.
 </pre>

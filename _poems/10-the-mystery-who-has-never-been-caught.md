@@ -48,11 +48,9 @@ And then forget what they were asking.
 She speaks in the language of pulse,
 not words.
 She vanishes in mirrors,
-but appears in dreams of strangers
-who wake up weeping,
-never knowing why.
+but appears in dreams,
 
-Her truths come wrapped in fog,
+Her truths come wrapped in calm waves,
 in symbols that only the heart can translate,
 and only when the heart
 has forgotten how to lie.
@@ -68,5 +66,5 @@ She was never running.
 She was only listening...
 to the ache of the world,
 and choosing carefully
-where to place her light.
+where to place her heart.
 </pre>
