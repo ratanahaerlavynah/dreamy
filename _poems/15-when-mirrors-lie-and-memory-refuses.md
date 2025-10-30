@@ -67,13 +67,13 @@ what they praised or punished...
 
 There.
 There is a girl
-with violet eyes made of memory,
+with violet-pink eyes made of memory,
 with a spine not built from bones
 but from promises she whispered to herself
 in the dark,
 when no one came.
 
-And it is her!
+And it is her,
 the real one.
 that the mirror cannot erase.
 
