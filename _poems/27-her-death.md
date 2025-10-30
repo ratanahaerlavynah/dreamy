@@ -19,8 +19,7 @@ permalink: /poems/27-her-death/
 
 <pre>
 It did not come like they feared.
-No scythe.
-No last breath.
+No scythe, no last breath.
 No parade of shadows welcoming her across a divide.
 
 Dreamy did not die once.
@@ -76,7 +75,7 @@ in a future that hadn’t arrived.
 She became a story
 that never made it to the last chapter.
 She became
-a warmth you feel
+a warmth that can be felt
 in an empty room...
 not because someone’s there,
 but because someone once was.
@@ -87,11 +86,11 @@ nothing.
 No soul rising.
 No spirit lifting.
 
-Just stillness.
+Only stillness.
 A soft ripple
 where her name used to live.
 
-She wasn’t gone.
+She wasn’t gone,
 She was unformed.
 
 The body stopped aching.
@@ -116,8 +115,7 @@ but because they never saw her before she did.
 And in the silence after her unbeing,
 something was left behind.
 
-Not ashes.
-Not shadow.
+Not ashes nor shadow.
 
 But shape.
 
@@ -125,7 +123,7 @@ An impression in the fabric of reality
 that whispers, even now:
 
 "There was once a girl.
-Her name was Dreamy.
+She was Dreamy.
 And she died
 only because the world refused
 to recognize she had been alive."
